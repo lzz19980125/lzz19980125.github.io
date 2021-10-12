@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://lzz19980125.github.io/sitemap.xml

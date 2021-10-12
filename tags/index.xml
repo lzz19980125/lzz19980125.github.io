@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | 李泽中</title>
+    <link>https://lzz19980125.github.io/tags/</link>
+      <atom:link href="https://lzz19980125.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Zezhong Li</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lzz19980125.github.io/media/icon_huef97162a9a5870d579e7ca39a9c4f519_90149_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://lzz19980125.github.io/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

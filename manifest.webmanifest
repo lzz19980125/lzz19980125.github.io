@@ -1,0 +1,18 @@
+{
+  "name": "李泽中",
+  "short_name": "李泽中",
+  "lang": "en-us",
+  "theme_color": "#B03A2E ",
+  "background_color": "#B03A2E ",
+  "icons": [{
+    "src": "/media/icon_huef97162a9a5870d579e7ca39a9c4f519_90149_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_huef97162a9a5870d579e7ca39a9c4f519_90149_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
