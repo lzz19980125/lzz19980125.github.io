@@ -1,0 +1,8 @@
+diff a/content/authors/admin/_index.md b/content/authors/admin/_index.md	(rejected hunks)
+@@ -77,4 +77,6 @@
+ 
+ {{< icon name="fas fa-sitemap" pack="fas" >}} {{< staticref "https://github.com/lzz19980125/MIT_6.824" "newtab" >}} MIT 6.824{{< /staticref >}}
+ 
++{{< icon name="fab fa-ubuntu" pack="fab" >}} {{< staticref "https://github.com/lzz19980125/java_learning_by_self/tree/main/The%20Linux%20Command%20Line%EF%BC%88Linux%E4%BB%A5%E5%8F%8Ashell%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%89" "newtab" >}} MIT 6.null{{< /staticref >}}
++
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
