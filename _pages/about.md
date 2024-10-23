@@ -18,7 +18,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 2016 - 2020:      ---------  B.S., Automation, [Nanjing Tech University](https://www.njtech.edu.cn/), Nanjing, China.
 
-<img src="../images/focus_icon.png" width="55" height="50">Research Focus
+<img src="../images/focus_icon.png" width="55" height="50"> Research Focus
 ======
 - Energy-efficient contrastive unsupervised learning.
 - Hardware-aware neuromorphic algorithm design. 
