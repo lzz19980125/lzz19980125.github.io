@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year Ph.D. candidate in the Institute of Artificial intelligence and Network Science at Tianjin University (TJU), advised by [Dr. Zhongke Gao](https://ains.tju.edu.cn/info/1052/1057.htm). Before that, I received my Master of Engineering degree in Electronic Information from the University of Science and Technology Beijing (USTB), advised by Dr. [Dr. Ling Wang](https://faculty.ustb.edu.cn/LingWang1/zh_CN/index/77379/list/index.htm), and my Bachelor of Engineering degree in Automation from Nanjing Tech University, advised by Dr. [Dr. Mouquan Shen](https://eecs.njtech.edu.cn/info/1129/4881.htm). 
 
-# <img src="../images/education_icon.png" width="55" height="50">Education
+# <img src="../images/education_icon.png" width="55" height="50"> Education
 
 2023 - present:  ---------  Ph.D., Electrical Engineering, [Cornell University](https://www.csl.cornell.edu/), New York City, USA.
 
