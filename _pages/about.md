@@ -22,7 +22,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 ======
 - AI for Time Series.
 - Multivariate Time Series Unsupervised Anomaly Detection. 
-- Multivariate Time Series Unsupervised segmentation (Change point detection).
+- Multivariate Time Series Unsupervised segmentation (a.k.a. Change point detection).
 
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
