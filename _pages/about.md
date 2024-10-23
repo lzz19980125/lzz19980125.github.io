@@ -34,7 +34,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 *= Equal contribution
 
-- **[ECCV'24]** **<u>Jian Meng</u>**, Yuecheng Li, Chenghui Li, Syed Shakib Sarwar, Dilin Wang, and Jae-sun Seo, “POCA: Post-training Quantization with Temporal Alignment for Codec Avatars,” ECCV, 2024. <span style="color:rgb(240, 78, 60)">**[Collaborated with Meta Reality Lab]**</span>.
+- **[IEEE TIM'24]** **<u>Zezhong Li</u>**, Wei Guo, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer,” IEEE Transactions on Instrumentation & Measurement (IEEE TIM), Underreview.
 
 - **[IJCNN'24]** Ahmed Hasssan, **<u>Jian Meng</u>**, and Jae-sun Seo, “**Spiking Neural Network with Learnable Threshold for Event-Based Classification and Object Detection**,” IEEE International Joint Conference on Neural Networks (IJCNN).
 
