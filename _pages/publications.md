@@ -66,13 +66,3 @@ author_profile: true
 **[DATE'21]** Jyotishman Saikia, Shihui Yin, Bo Zhang, **<u>Jian Meng</u>**, Mingoo Seok and Jae-sun Seo, **“Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design,”** *IEEE Design, Automation & Test in Europe (DATE)*, February 2021. ([**link**](https://ieeexplore.ieee.org/document/9473973))
 
 **[INTERSPEECH'20]** Deepak Kadetotad, **<u>Jian Meng</u>**, Visar Berisha, Chaitali Chakrabarti, and Jae-sun Seo, “**Compressing LSTM Networks with Hierarchical Coarse-Grain Sparsity,**” *INTERSPEECH*, 2020. ([**link**](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=243&id=311))
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
