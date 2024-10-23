@@ -29,7 +29,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
 
-<span style="color:rgb(72, 145, 240)">**The full publication list is available [here](https://mengjian0502.github.io/publications/)**</span>
+<span style="color:rgb(72, 145, 240)">**The full publication list is available [here](https://lzz19980125.github.io/publications/)**</span>
 
 *= Equal contribution
 
