@@ -34,9 +34,9 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 *= Equal contribution
 
-- **[IEEE TIM'24]** **<u>Zezhong Li</u>\*,** Wei Guo\*, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer,” IEEE Transactions on Instrumentation & Measurement (IEEE TIM), Under Review.
+- **[IEEE TIM '24]** **<u>Zezhong Li</u>\*,** Wei Guo\*, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Transactions on Instrumentation & Measurement (IEEE TIM), Under Review.
 
-- **[IJCNN'24]** Ahmed Hasssan, **<u>Jian Meng</u>**, and Jae-sun Seo, “**Spiking Neural Network with Learnable Threshold for Event-Based Classification and Object Detection**,” IEEE International Joint Conference on Neural Networks (IJCNN).
+- **[KBS '24]** **<u>Jian Meng</u>\*,** and Ling Wang, “**Adaptive Joint Segmentation for Multivariate Spatio-Temporal Data**,” Knowledge-Based Systems (KBS), Under Review.
 
 - **[ICONS'24]** Ahmed Hasssan, **<u>Jian Meng</u>**, Anupreetham and Jae-sun Seo, “**IM-SNN: Memory-Efficient Spiking Neural Network with Low-Precision Membrane Potentials and Weights**,” ACM International Conference on Neuromorphic Systems (ICONS), 2024.
 
