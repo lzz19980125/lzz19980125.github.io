@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jian Meng @ Cornell"
+title: "Zezhong Li @ Tianjin University"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in the Department of Electrical Engineering at Cornell (Tech), advised by [Dr. Jae-sun Seo](https://faculty.engineering.asu.edu/jseo/). I received my Bachelor of Science degree in Electrical Engineering from Portland State University, advised by [Dr. Christopher Teuscher](https://www.teuscher-lab.com/). 
-
-I've also spent some great time on collaboration/internship with multiple top-tier industrial research facilities and universities, including Meta Reality Lab, Texas Instrument, ARM, KAIST, Georgia Tech, and University of Pennsylvania. 
-
-**<span style="color:rgb(72, 145, 240)">My update-to-date resume can be found at [here](https://mengjian0502.github.io/files/resume.pdf)</span>**
+I am a second-year Ph.D. candidate in the Institute of Artificial intelligence and Network Science at Tianjin University (TJU), advised by [Dr. Zhongke Gao](https://ains.tju.edu.cn/info/1052/1057.htm). I received my Bachelor of Science degree in Electrical Engineering from Portland State University, advised by [Dr. Christopher Teuscher](https://www.teuscher-lab.com/). 
 
 # <img src="../images/education_icon.png" width="55" height="50">Education
 
