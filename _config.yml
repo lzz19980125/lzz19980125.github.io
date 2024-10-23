@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Zezhong Li @ Tianjin University"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zezhong Li"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lzz19980125.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lzz19980125/lzz19980125.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Zezhong Li"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate @ Tianjin University | AI 4 Time Series | Anomaly Detection | Time Series Segmentation"
+  bio              : "Ph.D. Candidate @ Tianjin University / AI 4 Time Series / Anomaly Detection / Time Series Segmentation"
   location         : "Tianjin 300072, China"
   employer         : "Tianjin University"
   uri              : # URL
