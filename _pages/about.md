@@ -10,6 +10,7 @@ redirect_from:
 
 I am a second-year Ph.D. candidate in the Institute of Artificial intelligence and Network Science at Tianjin University (TJU), advised by [Dr. Zhongke Gao](https://ains.tju.edu.cn/info/1052/1057.htm). Before that, I received my Master of Engineering degree in Electronic Information from the University of Science and Technology Beijing (USTB), advised by Dr. [Dr. Ling Wang](https://faculty.ustb.edu.cn/LingWang1/zh_CN/index/77379/list/index.htm), and my Bachelor of Engineering degree in Automation from Nanjing Tech University, advised by Dr. [Dr. Mouquan Shen](https://eecs.njtech.edu.cn/info/1129/4881.htm). 
 
+
 # <img src="../images/education_icon.png" width="55" height="50"> Education
 
 2023 - present:  ---------  Ph.D., Mechanical Engineering, [AINS Lab](https://ains.tju.edu.cn/index.htm) at [Tianjin University](https://www.tju.edu.cn/). 
@@ -18,11 +19,13 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 2016 - 2020:      ---------  B.S., Automation, [Nanjing Tech University](https://www.njtech.edu.cn/).
 
+
 <img src="../images/focus_icon.png" width="55" height="50"> Research Focus
 ======
 - AI for time series.
 - Multivariate time series unsupervised anomaly detection. 
 - Multivariate time series unsupervised segmentation (a.k.a. change point detection).
+
 
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
@@ -69,6 +72,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 - **[IEEE TCAS-II]** **<u>Jian Meng</u>**, Li Yang, Xiaochen Peng, Shimeng Yu, Deliang Fan, and Jae-sun Seo, “**Structured Pruning of RRAM Crossbars for Efficient In-Memory Computing Acceleration of Deep Neural Networks,**” *IEEE Transactions on Circuits and Systems II (TCAS-II)*, vol. 68, no. 5, pp. 1576-1580, May 2021. ([**link**](https://ieeexplore.ieee.org/document/9387391))
 
+
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
 - 2024.5 - 2024.8 --------- Research Scientist, Meta Reality Lab
@@ -84,6 +88,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
   - Manager: [Hetul Sanghvi](https://www.linkedin.com/in/hetulsanghvi/), [Mahesh Mehendale](https://www.linkedin.com/in/mahesh-mehendale/) 
 - 2018.9 - 2019.5  --------- Teaching Assistant, Portland State University.
 - 2018.1 - 2019.5  --------- Undergraduate Tutor, Portland State University.
+
 
 # <img src="../images/service.png" width="55" height="50"> Professional Service
 
