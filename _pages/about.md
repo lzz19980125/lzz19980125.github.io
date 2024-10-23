@@ -14,7 +14,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 2023 - present:  ---------  Ph.D., Mechanical Engineering, [Tianjin University](https://www.tju.edu.cn/). 
 
-2020 - 2023: ------- M.E., Electronic Information, [University of Science and Technology Beijing](https://www.ustb.edu.cn/).
+2020 - 2023: --------- M.E., Electronic Information, [University of Science and Technology Beijing](https://www.ustb.edu.cn/).
 
 2016 - 2020:      ---------  B.S., Automation, [Nanjing Tech University](https://www.njtech.edu.cn/).
 
