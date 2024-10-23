@@ -12,11 +12,11 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 # <img src="../images/education_icon.png" width="55" height="50"> Education
 
-2023 - present:  ---------  Ph.D., Mechanical Engineering, [Tianjin University](https://www.tju.edu.cn/), Tianjin, China.
+2023 - present:  ---------  Ph.D., Mechanical Engineering, [Tianjin University](https://www.tju.edu.cn/). 
 
-2020 - 2023: ----- M.E., Electronic Information, [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China.
+2020 - 2023: ------- M.E., Electronic Information, [University of Science and Technology Beijing](https://www.ustb.edu.cn/).
 
-2016 - 2020:      ---------  B.S., Automation, [Nanjing Tech University](https://www.njtech.edu.cn/), Nanjing, China.
+2016 - 2020:      ---------  B.S., Automation, [Nanjing Tech University](https://www.njtech.edu.cn/).
 
 <img src="../images/focus_icon.png" width="55" height="50"> Research Focus
 ======
@@ -96,16 +96,3 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
   - 2021 **Reviewer** of ACM Transactions on Reconfigurable Technology and Systems (TRET).
   - 2021 **Reviewer** of IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II).
   - 2021 **Reviewer** of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS).
-  
-  
-
-# <img src="../images/teacher.png" width="55" height="50"> Teaching Experience
-
-- **Cornell University:**
-  - **Teaching Assistant** for ECE 6790: Neuromorphic Computing Hardware Design, Sp24
-  
-- **Arizona State University**
-  - **Teaching Assistant** for EEE 598: [Neuromorphic Computing Hardware Design](https://webapp4.asu.edu/bookstore/viewsyllabus/2221/21655), Sp22.
-- **Portland State University**
-  - **Teaching Assistant** for ECE 510: [Mathematical Foundation of Machine Learning](http://web.cecs.pdx.edu/~lipor/courses/516/), Spr19.
-  - **Teaching Assistant** for ECE 221/2/3: Circuit Design I/II/III. FA18 - Sp19.
