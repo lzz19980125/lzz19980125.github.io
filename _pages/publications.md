@@ -15,13 +15,13 @@ author_profile: true
 
 - **[TNNLS '24]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and Gang Wang, “**Multivariate Spatio-Temporal Data Clustering With Shapelet Learning and Spatial Toeplitz Inverse Covariance Structure**,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Under Review.
 
-- **[KZYJC '24]** Ling Wang, and **<u>Zezhong Li</u>**, "Adaptive greedy Gaussian segmentation algorithm based on multivariate time series", Kongzhi yu Juece/Control and Decision (KZYJC), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search))
+- **[KZYJC '24]** Ling Wang, and **<u>Zezhong Li</u>**, "**Adaptive greedy Gaussian segmentation algorithm based on multivariate time series**", Kongzhi yu Juece/Control and Decision (KZYJC), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search))
 
-- **[CJE '23]** Ling Wang, and **<u>Zezhong Li</u>**, "Adaptive Segmentation of Multivariate Time Series with FastICA and G-G Clustering", Tien Tzu Hsueh Pao/Acta Electronica Sinica (CJE), 2023. ([**link**](https://www.ejournal.org.cn/CN/10.12263/DZXB.20220649))
+- **[CJE '23]** Ling Wang, and **<u>Zezhong Li</u>**, "**Adaptive Segmentation of Multivariate Time Series with FastICA and G-G Clustering**", Tien Tzu Hsueh Pao/Acta Electronica Sinica (CJE), 2023. ([**link**](https://www.ejournal.org.cn/CN/10.12263/DZXB.20220649))
 
 
 ## Conference Publications
 
 *= Equal contribution
 
-- **[CAC '23]**  Wei Guo\*, **<u>Zezhong Li</u>\*,** Yv Jing, Tao Yang, and Zhongke Gao, "Event-Triggered Control for Discrete-Time Nonlinear Systems via Globalized Dual Heuristic Programming Technique", 2024 Chinese Automation Congress (CAC), 2024, Accept.   
+- **[CAC '23]**  Wei Guo\*, **<u>Zezhong Li</u>\*,** Yv Jing, Tao Yang, and Zhongke Gao, "**Event-Triggered Control for Discrete-Time Nonlinear Systems via Globalized Dual Heuristic Programming Technique**", 2024 Chinese Automation Congress (CAC), 2024, Accept.   
