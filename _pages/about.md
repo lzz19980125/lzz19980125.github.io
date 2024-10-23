@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. candidate in the Institute of Artificial intelligence and Network Science at Tianjin University (TJU), advised by [Dr. Zhongke Gao](https://ains.tju.edu.cn/info/1052/1057.htm). I received my Bachelor of Science degree in Electrical Engineering from Portland State University, advised by [Dr. Christopher Teuscher](https://www.teuscher-lab.com/). 
-
-I received my Master of Engineering degree in Electronic Information from the University of Science and Technology Beijing (USTB), advised by Dr. [Dr. Ling Wang](https://faculty.ustb.edu.cn/LingWang1/zh_CN/index/77379/list/index.htm). I also received my Bachelor of Engineering degree in Automation from Nanjing Tech University, advised by Dr. [Dr. Mouquan Shen](https://eecs.njtech.edu.cn/info/1129/4881.htm). 
+I am a second-year Ph.D. candidate in the Institute of Artificial intelligence and Network Science at Tianjin University (TJU), advised by [Dr. Zhongke Gao](https://ains.tju.edu.cn/info/1052/1057.htm). I received my Master of Engineering degree in Electronic Information from the University of Science and Technology Beijing (USTB), advised by Dr. [Dr. Ling Wang](https://faculty.ustb.edu.cn/LingWang1/zh_CN/index/77379/list/index.htm). I also received my Bachelor of Engineering degree in Automation from Nanjing Tech University, advised by Dr. [Dr. Mouquan Shen](https://eecs.njtech.edu.cn/info/1129/4881.htm). 
 
 # <img src="../images/education_icon.png" width="55" height="50">Education
 
