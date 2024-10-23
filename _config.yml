@@ -21,7 +21,7 @@ repository               : "lzz19980125/lzz19980125.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Zezhong Li"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate @ Tianjin University / AI 4 Time Series / Anomaly Detection / Time Series Segmentation"
