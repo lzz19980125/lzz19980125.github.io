@@ -7,23 +7,18 @@ author_profile: true
 
 ## Journal Publications
 
-**[IEEE JSSC]** Shreyas Kolala Venkataramanaiah, Jian Meng, Han-Sok Suh, Injune Yeo, Jyotishman Saikia, Sai Kiran Cherupally, Yichi Zhang, Zhiru Zhang, Jae-Sun Seo, "A 28-nm 8-bit Floating-Point Tensor Core-Based Programmable CNN Training Processor With Dynamic Structured Sparsity", *IEEE Journal of Solid-State Circuits, vol. 58, no.7,* 2023 ([**link**](https://ieeexplore.ieee.org/abstract/document/10124223))
+*= Equal contribution
 
-**[2D Materials]** Sahra Afshari, Sritharini Radhakrishnan, Jing Xie, Mirembe Musisi-Nkambwe, Jian Meng, Wangxin He, Jae-sun Seo, Ivan Sanchez Esqueda, "Dot-product computation and logistic regression with 2D hexagonal-Boron Nitride (h-BN) memristor arrays", *2D Materials, vol.10, no.3*, 2023 ([**link**](https://iopscience.iop.org/article/10.1088/2053-1583/acdfe1/meta))
+- **[IEEE TIM '24]** **<u>Zezhong Li</u>\*,** Wei Guo\*, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Transactions on Instrumentation & Measurement (IEEE TIM), Under Review.
 
-**[ACM TRET]** Han-sok Suh, **<u>Jian Meng</u>**, Ty Nguyen, Vijay Kumar, Yu Cao, and Jae-sun Seo, "Algorithm-Hardware Co-Optimization for Energy-Efficient Drone Detection on Resource-Constrained FPGA", ACM Transactions on Reconfigurable Technology and Systems.
+- **[KBS '24]** **<u>Zezhong Li</u>\*,** and Ling Wang\*, “**Adaptive Joint Segmentation for Multivariate Spatio-Temporal Data**,” Knowledge-Based Systems (KBS), Under Review.
 
-**[IEEE SSCM]** Jae-sun Seo, Jyotishman Saikia, Jian Meng, Wangxin He, Han-sok Suh, Anupreetham, Yuan Liao, Ahmed Hasssan, and Injune Yeo, “**Advances in Digital vs. Analog AI Accelerators,**” *IEEE Solid-State Circuits Magazine*, 2022
+- **[TNNLS '24]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and Gang Wang, “**Multivariate Spatio-Temporal Data Clustering With Shapelet Learning and Spatial Toeplitz Inverse Covariance Structure**,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Under Review.
 
-**[IEEE D&T]** Sai Kiran Cherupally, **<u>Jian Meng</u>**, Adnan Siraj Rakin, Shihui Yin, Mingoo Seok, Deliang Fan, and Jae-sun Seo, “**Improving DNN Hardware Accuracy by In-Memory Computing Noise Injection,**” *IEEE Design & Test*, 2022. ([**link**](https://ieeexplore.ieee.org/document/9663371))
+- **[Kzyjc '24]** Ling Wang, and **<u>Zezhong Li</u>**, "Adaptive greedy Gaussian segmentation algorithm based on multivariate time series", Kongzhi yu Juece/Control and Decision (Kzyjc), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search))
 
-**[IEEE JETCAS]** Arnab Neelim Mazumder, **<u>Jian Meng</u>**, Hasib-Al Rashid, Utteja Kallakuri, Xin Zhang, Jae-sun Seo, and Tinoosh Mohsenin, “**A Survey on the Optimization of Neural Network Accelerators for Micro-AI On-Device Inference,**” *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, vol. 11, no. 4, pp. 532-547, December 2021. ([**link**](https://ieeexplore.ieee.org/document/9627710))
+- **[CJE '23]** Ling Wang, and **<u>Zezhong Li</u>**, "Adaptive Segmentation of Multivariate Time Series with FastICA and G-G Clustering", Tien Tzu Hsueh Pao/Acta Electronica Sinica (CJE), 2023. ([**link**](https://www.ejournal.org.cn/CN/10.12263/DZXB.20220649))
 
-**[IEEE MICRO]** **<u>Jian Meng</u>**, Wonbo Shim, Li Yang, Injune Yeo, Deliang Fan, Shimeng Yu, and Jae-sun Seo, “**Temperature-Resilient RRAM-based In-Memory Computing for DNN Inference,**” *IEEE Micro*, vol. 42, no. 1, pp. 89-98, January/February 2022. <span style="color:rgb(240, 78, 60)">**[Invited to IBM AI Hardware Research Forum]**</span>. ([**link**](https://ieeexplore.ieee.org/document/9647971)) [[**poster**](https://mengjian0502.github.io/files/IBMAI_Fourm_Poster_ASU_Jian_V2.pdf)]
-
-**[SST]** Sai Kiran Cherupally, **<u>Jian Meng</u>**, Adnan Rakin, Shihui Yin, Injune Yeo, Shimeng Yu, Deliang Fan, and Jae-sun Seo, “**Improving the Accuracy and Robustness of RRAM-based In-Memory Computing Against RRAM Hardware Noise and Adversarial Attacks,**” *Semiconductor Science and Technology*, vol. 37, no. 3, January 2022. <span style="color:rgb(240, 78, 60)">**[Special Issue on Neuromorphic Devices and Applications]**</span> ([**link**](https://iopscience.iop.org/article/10.1088/1361-6641/ac461f/meta))
-
-**<u>[IEEE TCAS-II]</u>** **<u>Jian Meng</u>**, Li Yang, Xiaochen Peng, Shimeng Yu, Deliang Fan, and Jae-sun Seo, “**Structured Pruning of RRAM Crossbars for Efficient In-Memory Computing Acceleration of Deep Neural Networks,**” *IEEE Transactions on Circuits and Systems II (TCAS-II)*, vol. 68, no. 5, pp. 1576-1580, May 2021. ([**link**](https://ieeexplore.ieee.org/document/9387391))
 
 ## Conference Publications
 
