@@ -38,7 +38,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 - **[KBS '24]** **<u>Zezhong Li</u>\*,** and Ling Wang\*, “**Adaptive Joint Segmentation for Multivariate Spatio-Temporal Data**,” Knowledge-Based Systems (KBS), Under Review.
 
-- **[ICONS'24]** Ahmed Hasssan, **<u>Jian Meng</u>**, Anupreetham and Jae-sun Seo, “**IM-SNN: Memory-Efficient Spiking Neural Network with Low-Precision Membrane Potentials and Weights**,” ACM International Conference on Neuromorphic Systems (ICONS), 2024.
+- **[TNNLS '24]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and Gang Wang, “**Multivariate Spatio-Temporal Data Clustering With Shapelet Learning and Spatial Toeplitz Inverse Covariance Structure**,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Under Review.
 
 - **[MLSys'24]**  **<u>Jian Meng</u>**, Yuan Liao, Anupreetham Anupreetham, Ahmed Hasssan, Shixing Yu, Han-sok Suh, Xiaofeng Hu, and Jae-sun Seo, "Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design", The Seventh Annual Conference on Machine Learning and Systems, 2024.
 
