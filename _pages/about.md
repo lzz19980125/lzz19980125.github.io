@@ -12,11 +12,11 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 # <img src="../images/education_icon.png" width="55" height="50"> Education
 
-2023 - present:  ---------  Ph.D., Electrical Engineering, [Cornell University](https://www.csl.cornell.edu/), New York City, USA.
+2023 - present:  ---------  Ph.D., Mechanical Engineering, [Tianjin University](https://www.tju.edu.cn/), Tianjin, China.
 
-2019 - 2023:  ---------  Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA.
+2020 - 2023:  ---------  M.E., Electronic Information, [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China.
 
-2016 - 2019:      ---------  B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA.
+2016 - 2020:      ---------  B.S., Automation, [Nanjing Tech University](https://www.njtech.edu.cn/), Nanjing, China.
 
 <img src="../images/focus_icon.png" width="55" height="50">Research Focus
 ======
