@@ -26,4 +26,4 @@ author_profile: true
 
 *= Equal contribution
 
-- **[CAC '23]**  Wei Guo\*, **<u>Zezhong Li</u>\*,** Yv Jing, Tao Yang, and Zhongke Gao, "**Event-Triggered Control for Discrete-Time Nonlinear Systems via Globalized Dual Heuristic Programming Technique**", 2024 Chinese Automation Congress (CAC), 2024, Accept.   
+- **[CAC '24]**  Wei Guo\*, **<u>Zezhong Li</u>\*,** Yv Jing, Tao Yang, and Zhongke Gao, "**Event-Triggered Control for Discrete-Time Nonlinear Systems via Globalized Dual Heuristic Programming Technique**", 2024 Chinese Automation Congress (CAC), Accept.   
