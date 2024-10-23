@@ -12,7 +12,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 # <img src="../images/education_icon.png" width="55" height="50"> Education
 
-2023 - present:  ---------  Ph.D., Mechanical Engineering, [Ains Lab](https://ains.tju.edu.cn/index.htm) at [Tianjin University](https://www.tju.edu.cn/). 
+2023 - present:  ---------  Ph.D., Mechanical Engineering, [AINS Lab](https://ains.tju.edu.cn/index.htm) at [Tianjin University](https://www.tju.edu.cn/). 
 
 2020 - 2023: --------- M.E., Electronic Information, [University of Science and Technology Beijing](https://www.ustb.edu.cn/).
 
