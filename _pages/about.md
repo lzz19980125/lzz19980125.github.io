@@ -26,12 +26,6 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 - Spiking neural network; Event-based computer vision. 
 - Energy-efficient neural network accelerator hardware design.
 
-# <img src="../images/tools.png" width="50" height="50"> Open-sourced Tools:
-
-- **Torch2Chip**: End-to-end solution for deep learning model deployment with customized compression algorithm
-
-  [[Paper](https://arxiv.org/abs/2405.01775)] [[Code](https://github.com/SeoLabCornell/torch2chip)]
-
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
 
