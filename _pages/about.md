@@ -20,9 +20,9 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 <img src="../images/focus_icon.png" width="55" height="50"> Research Focus
 ======
-- AI for Time Series.
-- Multivariate Time Series Unsupervised Anomaly Detection. 
-- Multivariate Time Series Unsupervised segmentation (a.k.a. Change point detection).
+- AI for time series.
+- Multivariate time series unsupervised anomaly detection. 
+- Multivariate time series unsupervised segmentation (a.k.a. change point detection).
 
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
