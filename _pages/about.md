@@ -47,19 +47,10 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
-- 2024.5 - 2024.8 --------- Research Scientist, Meta Reality Lab
-  - Manager: Yuecheng Li
+- 2023.12 - 2024.1 --------- Intern, LaoShan Laboratory.
 
-- 2023.5 - 2023.8 --------- Research Scientist, Meta Reality Lab
-  - Manager: Yuecheng Li
-
-- 2019.9 - Present --------- Research Assistant, [Seo Lab](https://faculty.engineering.asu.edu/jseo/), Arizona State University / Cornell University
-  - Advisor: [Dr. Jae-sun Seo](https://www.linkedin.com/in/jae-sun-seo-21062717/)
-- 2022.1 - 2022.5  --------- Teaching Assistant, Arizona State University.
-- 2021.5 - 2021.8  --------- System Engineer, Kilby Lab, Texas Instrument. 
-  - Manager: [Hetul Sanghvi](https://www.linkedin.com/in/hetulsanghvi/), [Mahesh Mehendale](https://www.linkedin.com/in/mahesh-mehendale/) 
-- 2018.9 - 2019.5  --------- Teaching Assistant, Portland State University.
-- 2018.1 - 2019.5  --------- Undergraduate Tutor, Portland State University.
+- 2023.9 - present --------- Research Scientist, Institute of Medical Robotics and Intelligent Systems, Tianjin University.
+  - Advisor: [Dr. Zhongke Gao](https://imris.tju.edu.cn/info/1061/1231.htm)
 
 
 # <img src="../images/service.png" width="55" height="50"> Professional Service
