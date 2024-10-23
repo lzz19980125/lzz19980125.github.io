@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 ## Journal Publications
 
 **[IEEE JSSC]** Shreyas Kolala Venkataramanaiah, Jian Meng, Han-Sok Suh, Injune Yeo, Jyotishman Saikia, Sai Kiran Cherupally, Yichi Zhang, Zhiru Zhang, Jae-Sun Seo, "A 28-nm 8-bit Floating-Point Tensor Core-Based Programmable CNN Training Processor With Dynamic Structured Sparsity", *IEEE Journal of Solid-State Circuits, vol. 58, no.7,* 2023 ([**link**](https://ieeexplore.ieee.org/abstract/document/10124223))
@@ -71,28 +67,12 @@ author_profile: true
 
 **[INTERSPEECH'20]** Deepak Kadetotad, **<u>Jian Meng</u>**, Visar Berisha, Chaitali Chakrabarti, and Jae-sun Seo, “**Compressing LSTM Networks with Hierarchical Coarse-Grain Sparsity,**” *INTERSPEECH*, 2020. ([**link**](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=243&id=311))
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+{% include base_path %}
 
-
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
