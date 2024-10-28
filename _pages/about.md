@@ -56,4 +56,4 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 # <img src="../images/service.png" width="55" height="50"> Professional Service
 
 - **Reviewer**
-  - 2024 **Reviewer** of **<span style="color:rgb(72, 145, 240)">[Knowledge-Based Systems](https://lzz19980125.github.io/files/Certificate_KBS_reviewer.pdf)</span>**.
+  - 2024 **Reviewer** of <span style="color:rgb(95,181,206)">[Knowledge-Based Systems](https://lzz19980125.github.io/files/Certificate_KBS_reviewer.pdf)</span>.
