@@ -25,6 +25,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 - AI for time series.
 - Multivariate time series unsupervised anomaly detection. 
 - Multivariate time series unsupervised segmentation (a.k.a. change point detection).
+- Autonomous marine systems (especially underwater gliders).
 
 
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
