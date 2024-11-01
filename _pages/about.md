@@ -38,7 +38,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 - **[KBS '24]** **<u>Zezhong Li</u>\*,** and Ling Wang\*, “**Adaptive Joint Segmentation for Multivariate Spatio-Temporal Data**,” Knowledge-Based Systems (KBS), Under Review.
 
-- **[TNNLS '24]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and Gang Wang, “**Multivariate Spatio-Temporal Data Clustering With Shapelet Learning and Spatial Toeplitz Inverse Covariance Structure**,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Under Review.
+- **[TNNLS '24]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and Gang Wang, “**Multivariate Spatio-Temporal Data Clustering With Shapelet Learning and Spatial Toeplitz Inverse Covariance Structure**,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Major Revision.
 
 - **[Kzyjc '24]** Ling Wang, and **<u>Zezhong Li</u>**, "Adaptive greedy Gaussian segmentation algorithm based on multivariate time series", Kongzhi yu Juece/Control and Decision (Kzyjc), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search))
 
