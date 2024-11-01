@@ -23,7 +23,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 <img src="../images/focus_icon.png" width="55" height="50"> Research Focus
 ======
 - AI for time series.
-  - Multivariate time series unsupervised anomaly detection. 
+  - Deep learning based unsupervised anomaly detection for multivariate time series. 
   - Multivariate time series unsupervised segmentation (a.k.a. change point detection).
 - Autonomous marine systems (especially underwater gliders).
 
