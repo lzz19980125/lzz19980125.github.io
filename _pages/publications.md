@@ -9,7 +9,7 @@ author_profile: true
 
 *= Equal contribution
 
-- **[IEEE TIM '24]** **<u>Zezhong Li</u>\*,** Wei Guo\*, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Transactions on Instrumentation & Measurement (IEEE TIM), Under Review.
+- **[IEEE Sens J '24]** **<u>Zezhong Li</u>\*,** Wei Guo\*, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), Under Review.
 
 - **[KBS '24]** **<u>Zezhong Li</u>\*,** and Ling Wang\*, “**Adaptive Joint Segmentation for Multivariate Spatio-Temporal Data**,” Knowledge-Based Systems (KBS), Under Review.
 
