@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zezhong Li @ Tianjin University"
 title_separator          : "-"
-name                     : &name "Zezhong Li (李泽中)"
+name                     : &name "Zezhong Li"
 description              : &description "personal description"
 url                      : https://lzz19980125.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
