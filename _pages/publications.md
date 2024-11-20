@@ -22,7 +22,7 @@ author_profile: true
 - **[CJE '23]** Ling Wang, and **<u>Zezhong Li</u>**, "**Adaptive Segmentation of Multivariate Time Series with FastICA and G-G Clustering**", Tien Tzu Hsueh Pao/Acta Electronica Sinica (CJE), 2023. ([**link**](https://www.ejournal.org.cn/CN/10.12263/DZXB.20220649))
 
 - **[JMSE '24]** Yv Jing, Chao Ma, Jianpeng An, **<u>Zezhong Li</u>**, Xinlin Sun, and Wei Guo, "**Nonstationary Control Parameter Prediction for Underwater Gliders 
-Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science and Engineering (JMSE), ([**link**](https://www.mdpi.com/2077-1312/12/11/2106))
+Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science and Engineering (JMSE), 2024. ([**link**](https://www.mdpi.com/2077-1312/12/11/2106))
 
 ## Conference Publications
 
