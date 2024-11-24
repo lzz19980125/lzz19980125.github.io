@@ -48,9 +48,9 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
-- 2023.12 - 2024.1 --------- Intern, Laoshan Laboratory.
+- 2023.12 - 2024.1 --------- Intern, [Laoshan Laboratory](https://www.qnlm.ac/index).    
 
-- 2023.9 - present --------- Intern, Institute of Medical Robotics and Intelligent Systems, Tianjin University.
+- 2023.9 - present --------- Intern, [Institute of Medical Robotics and Intelligent Systems](https://imris.tju.edu.cn/), Tianjin University. 
   - Advisor: [Dr. Zhongke Gao](https://imris.tju.edu.cn/info/1061/1231.htm)
 
 
