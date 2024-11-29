@@ -23,9 +23,3 @@ author_profile: true
 
 - **[JMSE '24]** Yv Jing, Chao Ma, Jianpeng An, **<u>Zezhong Li</u>**, Xinlin Sun, and Wei Guo, "**Nonstationary Control Parameter Prediction for Underwater Gliders 
 Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science and Engineering (JMSE), 2024. ([**link**](https://www.mdpi.com/2077-1312/12/11/2106))
-
-## Conference Publications
-
-*= Equal contribution
-
-- **[CAC '24]**  Wei Guo\*, **<u>Zezhong Li</u>\*,** Yv Jing, Tao Yang, and Zhongke Gao, "**Event-Triggered Control for Discrete-Time Nonlinear Systems via Globalized Dual Heuristic Programming Technique**", 2024 Chinese Automation Congress (CAC), Accept.   
