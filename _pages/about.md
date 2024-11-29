@@ -25,8 +25,9 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 - AI for time series.
   - Deep learning based unsupervised anomaly detection for multivariate time series. 
   - Multivariate time series unsupervised segmentation (a.k.a. change point detection).
-- Autonomous marine systems (especially underwater gliders).
-
+- Reinforcement learning for robotics (focusing on path planning). 
+- Autonomous marine systems (focusing on underwater gliders).
+- Edge computing.
 
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
@@ -48,7 +49,7 @@ I am a second-year Ph.D. candidate in the Institute of Artificial intelligence a
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
-- 2023.12 - 2024.1 --------- Intern, [Laoshan Laboratory](https://www.qnlm.ac/index).    
+- 2023.12 - 2024.1 --------- Intern, [Laoshan Laboratory](https://www.lsnl.cn/).    
 
 - 2023.9 - present --------- Intern, [Institute of Medical Robotics and Intelligent Systems](https://imris.tju.edu.cn/), Tianjin University. 
   - Advisor: [Dr. Zhongke Gao](https://imris.tju.edu.cn/info/1061/1231.htm)
