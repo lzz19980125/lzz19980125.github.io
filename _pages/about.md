@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. candidate in the Institute of Artificial intelligence and Network Science at Tianjin University (TJU), advised by [Dr. Zhongke Gao](https://ains.tju.edu.cn/info/1052/1057.htm). Before that, I received my Master of Engineering degree in Electronic Information from the University of Science and Technology Beijing (USTB), advised by [Dr. Ling Wang](https://faculty.ustb.edu.cn/LingWang1/zh_CN/index/77379/list/index.htm), and my Bachelor of Engineering degree in Automation from Nanjing Tech University, advised by [Dr. Mouquan Shen](https://eecs.njtech.edu.cn/info/1129/4881.htm). 
+I am a second-year D.Eng. candidate in the Institute of Artificial intelligence and Network Science at Tianjin University (TJU), advised by [Dr. Zhongke Gao](https://ains.tju.edu.cn/info/1052/1057.htm). Before that, I received my Master of Engineering degree in Electronic Information from the University of Science and Technology Beijing (USTB), advised by [Dr. Ling Wang](https://faculty.ustb.edu.cn/LingWang1/zh_CN/index/77379/list/index.htm), and my Bachelor of Engineering degree in Automation from Nanjing Tech University, advised by [Dr. Mouquan Shen](https://eecs.njtech.edu.cn/info/1129/4881.htm). 
 
 
 # <img src="../images/education_icon.png" width="55" height="50"> Education
