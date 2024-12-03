@@ -53,6 +53,9 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
+      {% if author.scopus %}
+      <li><a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.zhihu }}#tab=metrics"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>scopus</a></li>
+      {% endif %} 
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
@@ -153,9 +156,6 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
-      {% if author.scopus %}
-      <li><a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.zhihu }}#tab=metrics"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %} 
     </ul>
   </div>
 </div>
