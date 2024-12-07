@@ -25,7 +25,7 @@ author:
   name             : "Zezhong Li"
   pronouns         : # example: "she/her"  
   bio              : "D.Eng. Candidate @ Tianjin University / AI 4 Time Series / Anomaly Detection / Time Series Segmentation"
-  location         : "Tianjin 300072, China"
+  location         : # URL
   employer         : "Tianjin University"
   uri              : # URL
   email            : "lizz1998@tju.edu.cn" 
