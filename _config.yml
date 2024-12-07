@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "D.Eng. Candidate @ Tianjin University / AI 4 Time Series / Anomaly Detection / Time Series Segmentation"
   location         : # URL
-  employer         : "Tianjin University"
+  employer         : # URL
   uri              : # URL
   email            : "lizz1998@tju.edu.cn" 
 
