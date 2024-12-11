@@ -36,11 +36,11 @@ I am a second-year D.Eng. candidate in the Institute of Artificial intelligence 
 
 *= Equal contribution
 
-- **[IEEE Sens J '24]** **<u>Zezhong Li</u>\*,** Wei Guo\*, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), Under Review.
+- **[IEEE Sens J '24]** **<u>Zezhong Li</u>\*,** Wei Guo\*, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), Revise.
 
 - **[KBS '24]** **<u>Zezhong Li</u>\*,** and Ling Wang\*, “**Adaptive Joint Segmentation for Multivariate Spatio-Temporal Data**,” Knowledge-Based Systems (KBS), Under Review.
 
-- **[TNNLS '24]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and Gang Wang, “**Multivariate Spatio-Temporal Data Clustering With Shapelet Learning and Spatial Toeplitz Inverse Covariance Structure**,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Major Revision.
+- **[TNNLS '24]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and Gang Wang, “**Multivariate Spatio-Temporal Data Clustering With Shapelet Learning and Spatial Toeplitz Inverse Covariance Structure**,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Revise.
 
 - **[Kzyjc '24]** Ling Wang, and **<u>Zezhong Li</u>**, "Adaptive greedy Gaussian segmentation algorithm based on multivariate time series", Kongzhi yu Juece/Control and Decision (Kzyjc), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search))
 
