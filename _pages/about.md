@@ -36,9 +36,9 @@ I am a second-year D.Eng. candidate in the Institute of Artificial intelligence 
 
 *= Equal contribution
 
-- **[IEEE Sens J '24]** **<u>Zezhong Li</u>\*,** Wei Guo\*, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), Revise.
+- **[IEEE Sens J '24]** **<u>Zezhong Li</u>,** Wei Guo, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), Revise.
 
-- **[KBS '24]** **<u>Zezhong Li</u>\*,** and Ling Wang\*, “**Adaptive Joint Segmentation for Multivariate Spatio-Temporal Data**,” Knowledge-Based Systems (KBS), Under Review.
+- **[KBS '24]** **<u>Zezhong Li</u>,** and Ling Wang, “**Adaptive Joint Segmentation for Multivariate Spatio-Temporal Data**,” Knowledge-Based Systems (KBS), Under Review.
 
 - **[TNNLS '24]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and Gang Wang, “**Multivariate Spatio-Temporal Data Clustering With Shapelet Learning and Spatial Toeplitz Inverse Covariance Structure**,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Revise.
 
