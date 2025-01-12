@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zezhong Li @ Tianjin University"
+title: "Zezhong Li (李泽中) @ Tianjin University"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
