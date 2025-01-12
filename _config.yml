@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zezhong Li (李泽中) @ Tianjin University"
+title                    : "Zezhong Li @ Tianjin University"
 title_separator          : "-"
 name                     : &name "Zezhong Li"
 description              : &description "personal description"
