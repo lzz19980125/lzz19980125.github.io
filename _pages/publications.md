@@ -26,8 +26,8 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 
 ## Patents
 
--  高忠科，**<u>李泽中</u>,** 郭威, 马伟, **基于数据序列的水下滑翔机异常检测方法:**, 202411159713.2[P]. 2024-12-13.
+-  高忠科, **<u>李泽中</u>,** 郭威, 马伟, **基于数据序列的水下滑翔机异常检测方法:** 202411159713.2[P]. 2024-12-13.
 
--  **<u>Zezhong Li</u>,** and Ling Wang, “**Adaptive Joint Segmentation for Multivariate Spatio-Temporal Data**,” Knowledge-Based Systems (KBS), Under Review.
+-  高忠科, 郭威, **<u>李泽中</u>,** 马伟, **对中尺度涡垂直结构的处理方法、装置和电子设备:** 202411159713.2[P]. 2024-12-13.
 
--  Ling Wang\*, **<u>Zezhong Li</u>\*,** and Gang Wang, “**Multivariate Spatio-Temporal Data Clustering With Shapelet Learning and Spatial Toeplitz Inverse Covariance Structure**,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Revise.
+-  王玲, **<u>李泽中</u>,** **一种面向风力发电的多元时空数据概率预测方法及系统:** 202311350618.6[P]. 2024-04-05.
