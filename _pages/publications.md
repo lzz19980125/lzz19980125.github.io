@@ -26,8 +26,8 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 
 ## Patents
 
-- **[IEEE Sens J '24]** **<u>Zezhong Li</u>,** Wei Guo, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), Revise.
+-  高忠科，**<u>李泽中</u>,** 郭威, 马伟, **基于数据序列的水下滑翔机异常检测方法:**, 202411159713.2[P]. 2024-12-13.
 
-- **[KBS '24]** **<u>Zezhong Li</u>,** and Ling Wang, “**Adaptive Joint Segmentation for Multivariate Spatio-Temporal Data**,” Knowledge-Based Systems (KBS), Under Review.
+-  **<u>Zezhong Li</u>,** and Ling Wang, “**Adaptive Joint Segmentation for Multivariate Spatio-Temporal Data**,” Knowledge-Based Systems (KBS), Under Review.
 
-- **[TNNLS '24]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and Gang Wang, “**Multivariate Spatio-Temporal Data Clustering With Shapelet Learning and Spatial Toeplitz Inverse Covariance Structure**,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Revise.
+-  Ling Wang\*, **<u>Zezhong Li</u>\*,** and Gang Wang, “**Multivariate Spatio-Temporal Data Clustering With Shapelet Learning and Spatial Toeplitz Inverse Covariance Structure**,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Revise.
