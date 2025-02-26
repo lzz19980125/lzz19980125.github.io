@@ -25,9 +25,7 @@ I am a second-year D.Eng. candidate in the Institute of Artificial intelligence 
 - AI for time series.
   - Deep learning based unsupervised anomaly detection for multivariate time series. 
   - Multivariate time series unsupervised segmentation (a.k.a. change point detection).
-- Reinforcement learning for robotics (focusing on path planning). 
 - Autonomous marine systems (focusing on underwater gliders).
-- Edge computing.
 
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
