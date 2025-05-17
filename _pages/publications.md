@@ -17,7 +17,7 @@ author_profile: true
 
 - **[Chaos '24]** Wei Guo, **<u>Zezhong Li</u>,** Xin-Lin Sun, Yatao Zhou, Rongshun Juan, Zhong-Ke Gao, and Juergen Kurths, “**Mesoscale eddy in-situ observation and characterization via underwater glider and complex network theory**,” Chaos, 2024. ([**link**](https://pubs.aip.org/aip/cha/article-abstract/34/11/113104/3318599/Mesoscale-eddy-in-situ-observation-and?redirectedFrom=fulltext))
 
-- **[ESWA '25]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Zhong-Ke Gao, “**AD-RRT*: An RRT*-based global path planning approach for underwater gliders with alpha shapes and DBSCAN**,” Expert Systems With Applications (ESWA), Accept. 
+- **[ESWA '25]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Zhong-Ke Gao, “**AD-RRT\*: An RRT\*-based global path planning approach for underwater gliders with alpha shapes and DBSCAN**,” Expert Systems With Applications (ESWA), Accept. 
 
 - **[KZYJC '24]** Ling Wang, and **<u>Zezhong Li</u>**, "**Adaptive greedy Gaussian segmentation algorithm based on multivariate time series**", Kongzhi yu Juece/Control and Decision (KZYJC), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search))
 
