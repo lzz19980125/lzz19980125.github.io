@@ -36,3 +36,32 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+/* Table wrapper for horizontal scrolling */
+.table-wrapper {
+  overflow-x: auto;
+  margin-bottom: 1em;
+}
+
+/* Ensure tables in content area have proper sizing */
+.page__content table,
+.archive table {
+  min-width: 100%;
+  table-layout: auto;
+}
+
+/* Handle very wide tables */
+.page__content {
+  overflow-x: auto;
+}
+
+/* Improve table readability on small screens */
+@media (max-width: 768px) {
+  table {
+    font-size: $type-size-7;
+  }
+  
+  th, td {
+    padding: 0.25em;
+  }
+}
