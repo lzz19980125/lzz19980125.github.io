@@ -96,6 +96,16 @@ NOTE: the ranking has no particular order.
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |  *ICDM '14*   |    Fast and Exact Monitoring of Co-evolving Data Streams     |                             None                             |
 | ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) |   *KDD '14*   |  FUNNEL Automatic Mining of Spatially Coevolving Epidemics   | [Funnel](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/SRC/funnel.zip) |
 
+## [Bryan Hooi](https://bhooi.github.io/) (NUS)
+|                             TYPE                             |     Venue      |             Paper Title and Paper Interpretation             |                             Code                             |
+| :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *TKDE '22*   | Time Series Anomaly Detection with Adversarial Reconstruction Networks 🌟 | [BeatGAN](https://github.com/BGT-M/spartan2-tutorials/blob/master/BeatGAN.ipynb)![Stars](https://img.shields.io/github/stars/BGT-M/spartan2-tutorials) |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |  *IJCAI '19*   | BeatGAN Anomalous Rhythm Detection using Adversarially Generated Time Series 🌟 | [BeatGAN](https://github.com/hi-bingo/BeatGAN)![Stars](https://img.shields.io/github/stars/hi-bingo/BeatGAN) |
+|                        *Ph.D. Thesis*                        | *ProQuest '19* | Anomaly Detection in Graphs and Time Series Algorithms and Applications |                             None                             |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *SDM '19*    | Branch and Border Partition Based Change Detection in Multivariate Time Series 🌟 |         [Bnb](https://bhooi.github.io/code/bnb.zip)          |
+| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) |   *SDM '19*    | SMF Drift-Aware Matrix Factorization with Seasonal Patterns  |        [smf & dataset](https://bhooi.github.io/smf/)         |
+| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) |   *WWW '17*    | AutoCyclone Automatic Mining of Cyclic Online Activities with Robust Tensor Factorization | [AutoCyclone](http://www.cs.cmu.edu/~tsubasat/code/AutoCyclone.zip) |
+
 ## [Shohreh Deldari](https://scholar.google.com/citations?hl=zh-CN&user=250tnREAAAAJ&view_op=list_works&sortby=pubdate) (from [Cruise research group](https://cruiseresearchgroup.github.io/), RMIT ) &  [Flora D. Salim](https://scholar.google.com/citations?hl=zh-CN&user=Yz35RSYAAAAJ) (UNSW)
 
 |                             TYPE                             |            Venue             |             Paper Title and Paper Interpretation             |                             Code                             |
