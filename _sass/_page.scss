@@ -399,3 +399,37 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/*
+   Wide page layout
+   ========================================================================== */
+
+.wide .page {
+  @include breakpoint($large) {
+    @include span(12 of 12);
+    @include prefix(0);
+    @include suffix(0);
+  }
+  
+  .page__inner-wrap {
+    max-width: none;
+  }
+}
+
+/* Wide layout without sidebar */
+.wide #main {
+  .sidebar {
+    display: none;
+  }
+}
+
+/* Better table handling for wide layout */
+.wide table {
+  font-size: $type-size-7;
+  
+  th, td {
+    padding: 0.4em;
+    font-size: $type-size-7;
+  }
+}
