@@ -119,6 +119,7 @@ NOTE: the ranking has no particular order.
 |                        *Ph.D. Thesis*                        | *ProQuest '18* |    Segmenting, Summarizing and Predicting Data Sequences     |                             None                             |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |  *vt.edu '18*  |    Segmentations with Explanations for Outage Analysis 🌟     |                             None                             |
 
+
 ## [Shohreh Deldari](https://scholar.google.com/citations?hl=zh-CN&user=250tnREAAAAJ&view_op=list_works&sortby=pubdate) (from [Cruise research group](https://cruiseresearchgroup.github.io/), RMIT ) &  [Flora D. Salim](https://scholar.google.com/citations?hl=zh-CN&user=Yz35RSYAAAAJ) (UNSW)
 
 |                             TYPE                             |            Venue             |             Paper Title and Paper Interpretation             |                             Code                             |
