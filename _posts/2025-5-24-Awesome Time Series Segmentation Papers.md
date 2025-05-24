@@ -94,8 +94,8 @@ NOTE: the ranking has no particular order.
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *Pervasive Mob. Comput. '17* | Information gain-based metric for recognizing transitions in human activities 🌟 | [IGTs](https://github.com/cruiseresearchgroup/IGTS-python)![Stars](https://img.shields.io/github/stars/cruiseresearchgroup/IGTS-python) |
 
 ## [Yasuko Matsubara](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/) & [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/) (from [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp/))
-|                             TYPE                             |     Venue     |             Paper Title and Paper Interpretation             |                             Code                             |
-| :----------------------------------------------------------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                             TYPE                             |            Venue             |             Paper Title and Paper Interpretation             |                             Code                             |
+| :----------------------------------------------------------: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |    *KDD '24*    | Mining of Switching Sparse Networks for Missing Value Imputation in Multivariate Time Series 🌟 | [MissNet](https://github.com/KoheiObata/MissNet)![Stars](https://img.shields.io/github/stars/KoheiObata/MissNet) |
 
 ## [Bryan Hooi](https://bhooi.github.io/) (NUS)
