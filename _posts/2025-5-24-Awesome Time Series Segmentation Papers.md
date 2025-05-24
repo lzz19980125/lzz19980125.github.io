@@ -74,7 +74,7 @@ NOTE: the ranking has no particular order.
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |           *KDD '17*            | Toeplitz Inverse Covariance-Based Clustering of Multivariate Time Series Data 🌟 | [TICC](https://github.com/davidhallac/TICC)![Stars](https://img.shields.io/github/stars/davidhallac/TICC) |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |           *KDD '17*            |   Network Inference via the Time-Varying Graphical Lasso 🌟   | [TVGL](https://github.com/davidhallac/TVGL)![Stars](https://img.shields.io/github/stars/JingboYang/driver2vec) |
 
-## [Yasuko Matsubara](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/) and [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/)
+## [Yasuko Matsubara](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/) and [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/) (Osaka University)
 
 |                             TYPE                             |     Venue     |             Paper Title and Paper Interpretation             |                             Code                             |
 | :----------------------------------------------------------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
