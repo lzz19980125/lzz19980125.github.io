@@ -96,7 +96,7 @@ NOTE: the ranking has no particular order.
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |  *ICDM '14*   |    Fast and Exact Monitoring of Co-evolving Data Streams     |                             None                             |
 | ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) |   *KDD '14*   |  FUNNEL Automatic Mining of Spatially Coevolving Epidemics   | [Funnel](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/SRC/funnel.zip) |
 
-## [Bryan Hooi](https://bhooi.github.io/) (NUS)
+## [Yasuko Matsubara](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/) and [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/) (Osaka University)
 |                             TYPE                             |     Venue      |             Paper Title and Paper Interpretation             |                             Code                             |
 | :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *TKDE '22*   | Time Series Anomaly Detection with Adversarial Reconstruction Networks 🌟 | [BeatGAN](https://github.com/BGT-M/spartan2-tutorials/blob/master/BeatGAN.ipynb)![Stars](https://img.shields.io/github/stars/BGT-M/spartan2-tutorials) |
