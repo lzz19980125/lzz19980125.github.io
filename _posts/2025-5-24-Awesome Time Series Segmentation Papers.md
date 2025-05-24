@@ -9,7 +9,14 @@ tags:
   - Machine Learning
 ---
 
-"This article contains a reading list of papers on Time Series Segmentation. This article is still being continuously improved.<br/><img src='../images/2025-5-24-Awesome-Time-Series-Segmentation-Papers.png'>"
+This article contains a reading list of papers on Time Series Segmentation. This article is still being continuously improved.
+<a href="https://www.star-history.com/#lzz19980125/awesome-time-series-segmentation-papers&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
+  </picture>
+</a>
 
 ## Description
 This repository contains a reading list of papers on **Time Series Segmentation**. **This repository is still being continuously improved.**
