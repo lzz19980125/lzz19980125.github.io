@@ -93,7 +93,8 @@ NOTE: the ranking has no particular order.
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |     *WSDM Workshop '19*      | Inferring Work Routines and Behavior Deviations with Life-logging Sensor Data |                             None                             |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *Pervasive Mob. Comput. '17* | Information gain-based metric for recognizing transitions in human activities 🌟 | [IGTs](https://github.com/cruiseresearchgroup/IGTS-python)![Stars](https://img.shields.io/github/stars/cruiseresearchgroup/IGTS-python) |
 
-## [Yasuko Matsubara](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/) & [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/) (from [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp/))
+## [Shohreh Deldari](https://scholar.google.com/citations?hl=zh-CN&user=250tnREAAAAJ&view_op=list_works&sortby=pubdate) (from [Cruise research group](https://cruiseresearchgroup.github.io/), RMIT ) &  [Flora D. Salim](https://scholar.google.com/citations?hl=zh-CN&user=Yz35RSYAAAAJ) (UNSW)
+
 |                             TYPE                             |            Venue             |             Paper Title and Paper Interpretation             |                             Code                             |
 | :----------------------------------------------------------: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |         *JAIR '24*          | Detecting Change Intervals with Isolation Distributional Kernel 🌟 | [ICD](https://github.com/IsolationKernel/Codes/tree/main/IDK/iCID)![Stars](https://img.shields.io/github/stars/IsolationKernel/Codes) |
@@ -103,26 +104,6 @@ NOTE: the ranking has no particular order.
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *Knowl. Inf. Syst. '20*    | Unsupervised online change point detection in high-dimensional time series |                             None                             |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |     *WSDM Workshop '19*      | Inferring Work Routines and Behavior Deviations with Life-logging Sensor Data |                             None                             |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *Pervasive Mob. Comput. '17* | Information gain-based metric for recognizing transitions in human activities 🌟 | [IGTs](https://github.com/cruiseresearchgroup/IGTS-python)![Stars](https://img.shields.io/github/stars/cruiseresearchgroup/IGTS-python) |
-
-## [Bryan Hooi](https://bhooi.github.io/) (NUS)
-|                             TYPE                             |     Venue      |             Paper Title and Paper Interpretation             |                             Code                             |
-| :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *TKDE '22*   | Time Series Anomaly Detection with Adversarial Reconstruction Networks 🌟 | [BeatGAN](https://github.com/BGT-M/spartan2-tutorials/blob/master/BeatGAN.ipynb)![Stars](https://img.shields.io/github/stars/BGT-M/spartan2-tutorials) |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |  *IJCAI '19*   | BeatGAN Anomalous Rhythm Detection using Adversarially Generated Time Series 🌟 | [BeatGAN](https://github.com/hi-bingo/BeatGAN)![Stars](https://img.shields.io/github/stars/hi-bingo/BeatGAN) |
-|                        *Ph.D. Thesis*                        | *ProQuest '19* | Anomaly Detection in Graphs and Time Series Algorithms and Applications |                             None                             |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *SDM '19*    | Branch and Border Partition Based Change Detection in Multivariate Time Series 🌟 |         [Bnb](https://bhooi.github.io/code/bnb.zip)          |
-| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) |   *SDM '19*    | SMF Drift-Aware Matrix Factorization with Seasonal Patterns  |        [smf & dataset](https://bhooi.github.io/smf/)         |
-| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) |   *WWW '17*    | AutoCyclone Automatic Mining of Cyclic Online Activities with Robust Tensor Factorization | [AutoCyclone](http://www.cs.cmu.edu/~tsubasat/code/AutoCyclone.zip) |
-
-## [Liangzhe Chen](https://sites.google.com/view/liangzhechen) & [Anika Tabassum](https://scholar.google.com/citations?hl=zh-CN&user=4Aw4_1sAAAAJ&view_op=list_works&sortby=pubdate) (Virginia Tech, supervised by [B. Aditya Prakash](https://scholar.google.com/citations?hl=zh-CN&user=C-NftTgAAAAJ&view_op=list_works&sortby=pubdate))
-|                             TYPE                             |     Venue      |             Paper Title and Paper Interpretation             |                             Code                             |
-| :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                        *Ph.D. Thesis*                        | *ProQuest '21* | Explainable and Network-Based Approaches for Decision-making in Emergency Management |                             None                             |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *CIKM '21*   |    Actionable Insights in Urban Multivariate Time-series     | [RaTSS](https://github.com/AdityaLab/RaTSS)![Stars](https://img.shields.io/github/stars/AdityaLab/RaTSS) |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *TIST '20*   | Cut-n-Reveal: Time-Series Segmentations with Explanations 🌟  | [Cut-n-Reveal](https://github.com/AdityaLab/Cut-n-Reveal)![Stars](https://img.shields.io/github/stars/AdityaLab/Cut-n-Reveal) |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *AAAI '18*   |           Automatic Segmentation of Data Sequences           | [DASSA](https://github.com/lzz19980125/awesome-time-series-segmentation-papers/tree/main/DASSA-master) |
-|                        *Ph.D. Thesis*                        | *ProQuest '18* |    Segmenting, Summarizing and Predicting Data Sequences     |                             None                             |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |  *vt.edu '18*  |    Segmentations with Explanations for Outage Analysis 🌟     |                             None                             |
 
 ## [Peng Wang](https://scholar.google.com/citations?hl=en&user=fxcAZkoAAAAJ&view_op=list_works&sortby=pubdate) (fudan University)
 
