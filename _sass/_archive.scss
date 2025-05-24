@@ -243,3 +243,23 @@
     }
   }
 }
+
+
+/*
+   Wide archive layout
+   ========================================================================== */
+
+.wide .archive {
+  @include breakpoint($large) {
+    @include span(12 of 12);
+    @include prefix(0);
+    @include suffix(0);
+  }
+}
+
+/* Wide layout without sidebar for archive */
+.wide #main {
+  .sidebar {
+    display: none;
+  }
+}
