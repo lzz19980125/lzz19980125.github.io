@@ -119,7 +119,7 @@ NOTE: the ranking has no particular order.
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |     *WSDM Workshop '19*      | Inferring Work Routines and Behavior Deviations with Life-logging Sensor Data |                             None                             |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *Pervasive Mob. Comput. '17* | Information gain-based metric for recognizing transitions in human activities 🌟 | [IGTs](https://github.com/cruiseresearchgroup/IGTS-python)![Stars](https://img.shields.io/github/stars/cruiseresearchgroup/IGTS-python) |
 
-## [Shohreh Deldari](https://scholar.google.com/citations?hl=zh-CN&user=250tnREAAAAJ&view_op=list_works&sortby=pubdate) (from [Cruise research group](https://cruiseresearchgroup.github.io/), RMIT ) &  [Flora D. Salim](https://scholar.google.com/citations?hl=zh-CN&user=Yz35RSYAAAAJ) (UNSW)
+## [Liangzhe Chen](https://sites.google.com/view/liangzhechen) & [Anika Tabassum](https://scholar.google.com/citations?hl=zh-CN&user=4Aw4_1sAAAAJ&view_op=list_works&sortby=pubdate) (Virginia Tech, supervised by [B. Aditya Prakash](https://scholar.google.com/citations?hl=zh-CN&user=C-NftTgAAAAJ&view_op=list_works&sortby=pubdate))
 
 |                             TYPE                             |            Venue             |             Paper Title and Paper Interpretation             |                             Code                             |
 | :----------------------------------------------------------: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
