@@ -10,6 +10,7 @@ tags:
 ---
 
 This article contains a reading list of papers on Time Series Segmentation. This article is still being continuously improved.
+
 <a href="https://www.star-history.com/#lzz19980125/awesome-time-series-segmentation-papers&Date">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
