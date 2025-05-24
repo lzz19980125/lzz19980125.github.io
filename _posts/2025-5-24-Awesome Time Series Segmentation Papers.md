@@ -118,6 +118,16 @@ NOTE: the ranking has no particular order.
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |     *WSDM Workshop '19*      | Inferring Work Routines and Behavior Deviations with Life-logging Sensor Data |                             None                             |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *Pervasive Mob. Comput. '17* | Information gain-based metric for recognizing transitions in human activities 🌟 | [IGTs](https://github.com/cruiseresearchgroup/IGTS-python)![Stars](https://img.shields.io/github/stars/cruiseresearchgroup/IGTS-python) |
 
+## [Liangzhe Chen](https://sites.google.com/view/liangzhechen) & [Anika Tabassum](https://scholar.google.com/citations?hl=zh-CN&user=4Aw4_1sAAAAJ&view_op=list_works&sortby=pubdate) (Virginia Tech, supervised by [B. Aditya Prakash](https://scholar.google.com/citations?hl=zh-CN&user=C-NftTgAAAAJ&view_op=list_works&sortby=pubdate))
+|                             TYPE                             |     Venue      |             Paper Title and Paper Interpretation             |                             Code                             |
+| :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                        *Ph.D. Thesis*                        | *ProQuest '21* | Explainable and Network-Based Approaches for Decision-making in Emergency Management |                             None                             |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *CIKM '21*   |    Actionable Insights in Urban Multivariate Time-series     | [RaTSS](https://github.com/AdityaLab/RaTSS)![Stars](https://img.shields.io/github/stars/AdityaLab/RaTSS) |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *TIST '20*   | Cut-n-Reveal: Time-Series Segmentations with Explanations 🌟  | [Cut-n-Reveal](https://github.com/AdityaLab/Cut-n-Reveal)![Stars](https://img.shields.io/github/stars/AdityaLab/Cut-n-Reveal) |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *AAAI '18*   |           Automatic Segmentation of Data Sequences           | [DASSA](https://github.com/lzz19980125/awesome-time-series-segmentation-papers/tree/main/DASSA-master) |
+|                        *Ph.D. Thesis*                        | *ProQuest '18* |    Segmenting, Summarizing and Predicting Data Sequences     |                             None                             |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |  *vt.edu '18*  |    Segmentations with Explanations for Outage Analysis 🌟     |                             None                             |
+
 ## [Peng Wang](https://scholar.google.com/citations?hl=en&user=fxcAZkoAAAAJ&view_op=list_works&sortby=pubdate) (fudan University)
 
 |                             TYPE                             |    Venue     |             Paper Title and Paper Interpretation             |                             Code                             |
