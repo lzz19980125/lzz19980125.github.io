@@ -3,6 +3,8 @@ title: 'Awesome Time Series Segmentation Papers'
 date: 2025-05-24
 category: Time Series
 permalink: /posts/2025-5-24-Awesome Time Series Segmentation Papers
+layout: single
+classes: wide
 excerpt: "This article contains a reading list of papers on Time Series Segmentation. This article is still being continuously improved.<br/><img src='../images/2025-5-24-Awesome-Time-Series-Segmentation-Papers.png'>"
 tags:
   - Time Series Segmentation
