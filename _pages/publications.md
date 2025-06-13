@@ -21,6 +21,8 @@ author_profile: true
 
 - **[Chaos '24]** Wei Guo, **<u>Zezhong Li</u>,** Xin-Lin Sun, Yatao Zhou, Rongshun Juan, Zhong-Ke Gao, and Juergen Kurths, “**Mesoscale eddy in-situ observation and characterization via underwater glider and complex network theory**,” Chaos, 2024. ([**link**](https://pubs.aip.org/aip/cha/article-abstract/34/11/113104/3318599/Mesoscale-eddy-in-situ-observation-and?redirectedFrom=fulltext))
 
+- **[OE '25]** Mengqi Wang, Rongshun Juan, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Formation Control and Intention Compensating of AUVs Using Multi-agent Reinforcement Learning and Predict Network**,” Ocean Engineering, Revise.
+
 - **[ESWA '25]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Zhong-Ke Gao, “**AD-RRT\*: An RRT\*-based global path planning approach for underwater gliders with alpha shapes and DBSCAN**,” Expert Systems With Applications (ESWA), 2025.  ([**link**](https://www.sciencedirect.com/science/article/pii/S0957417425018391))
 
 - **[IEEE Sens J '25]** Bang Zhou, Chen Hanqing, Mengyu Li, Yushi Hao, **<u>Zezhong Li</u>**, Zhiqiang Zhao, Weidong Cao, and Zhongke Gao, "**Dual-Parameter Measurement of Oil-Water Two-Phase Flow Based on Multitask Learning**", IEEE Sensors Journal (IEEE Sens J), 2025. ([**link**](https://ieeexplore.ieee.org/document/10996500))
