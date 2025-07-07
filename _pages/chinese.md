@@ -12,9 +12,9 @@ author_profile: true
 
 2023 - present:  ---------  [天津大学](https://www.tju.edu.cn/)，[人工智能与网络科学研究所](https://ains.tju.edu.cn/index.htm)，攻读工程博士学位。 
 
-2020 - 2023: ---------  [北京科技大学](https://www.ustb.edu.cn/)，.
+2020 - 2023: ---------  [北京科技大学](https://www.ustb.edu.cn/)，教育部工业过程知识自动化重点实验室，获得电子信息专业硕士学位.
 
-2016 - 2020:      ---------  B.S., Automation, [Nanjing Tech University](https://www.njtech.edu.cn/).
+2016 - 2020:      ---------  [南京工业大学](https://www.njtech.edu.cn/)，电气工程与控制科学学院，获得自动化专业学士学位.
 
 
 <img src="../images/focus_icon.png" width="55" height="50"> 研究方向
