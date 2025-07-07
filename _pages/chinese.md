@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "中文"
+title: "李泽中"
 permalink: /chinese/
 author_profile: true
 ---
