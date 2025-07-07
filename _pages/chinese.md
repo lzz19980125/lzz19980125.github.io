@@ -66,8 +66,7 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 
 - 2023.12 - 2024.1 --------- 于[崂山国家实验室](https://www.lsnl.cn/)实习, 主要从事自主智能无人系统的相关实践验证.    
 
-- 2023.09 -  至今  --------- 于[天津大学医疗机器人与智能系统研究院](https://imris.tju.edu.cn/)实习, 在[高忠科教授](https://imris.tju.edu.cn/info/1061/1231.htm)的指导下, 先
-后完成了自主智能无人系统路径规划, 编队协同, 故障诊断; 港口货物智能视觉三维重建等多项研究工作. 
+- 2023.09 -  至今  --------- 于[天津大学医疗机器人与智能系统研究院](https://imris.tju.edu.cn/)实习, 在[高忠科教授](https://imris.tju.edu.cn/info/1061/1231.htm)的指导下, 先后完成了自主智能无人系统路径规划, 编队协同, 故障诊断; 港口货物智能视觉三维重建等多项研究工作. 
 
 
 # <img src="../images/service.png" width="55" height="50"> 学术服务
