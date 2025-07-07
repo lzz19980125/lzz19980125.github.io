@@ -10,9 +10,9 @@ author_profile: true
 
 # <img src="../images/education_icon.png" width="55" height="50"> 教育背景
 
-2023 - present:  ---------  [天津大学](https://www.tju.edu.cn/) [人工智能与网络科学研究所](https://ains.tju.edu.cn/index.htm)，攻读工程博士学位。 
+2023 - present:  ---------  [天津大学](https://www.tju.edu.cn/)，[人工智能与网络科学研究所](https://ains.tju.edu.cn/index.htm)，攻读工程博士学位。 
 
-2020 - 2023: --------- M.E., Electronic Information, [University of Science and Technology Beijing](https://www.ustb.edu.cn/).
+2020 - 2023: ---------  [北京科技大学](https://www.ustb.edu.cn/)，.
 
 2016 - 2020:      ---------  B.S., Automation, [Nanjing Tech University](https://www.njtech.edu.cn/).
 
@@ -55,11 +55,11 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 <img src="../images/paper_icon.png" width="50" height="50"> 专利发表
 ======
 
--  高忠科，**<u>李泽中</u>，** 郭威，马伟，**基于数据序列的水下滑翔机异常检测方法：** CN202411159713.2. 2024-12-13. (公开)
+-  高忠科, **<u>李泽中</u>, ** 郭威, 马伟, **基于数据序列的水下滑翔机异常检测方法: ** CN202411159713.2. 2024-12-13. (公开)
 
--  高忠科，郭威，**<u>李泽中</u>，** 马伟，**对中尺度涡垂直结构的处理方法、装置和电子设备：** CN202411282488.1. 2025-01-03. (公开)
+-  高忠科, 郭威, **<u>李泽中</u>, ** 马伟, **对中尺度涡垂直结构的处理方法、装置和电子设备: ** CN202411282488.1. 2025-01-03. (公开)
 
--  王玲，**<u>李泽中</u>，** **一种面向风力发电的多元时空数据概率预测方法及系统：** CN202311350618.6. 2024-04-05. (公开)
+-  王玲, **<u>李泽中</u>, ** **一种面向风力发电的多元时空数据概率预测方法及系统: ** CN202311350618.6. 2024-04-05. (公开)
 
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> 工作经历
