@@ -10,7 +10,7 @@ author_profile: true
 
 # <img src="../images/education_icon.png" width="55" height="50"> 教育背景
 
-2023 - present:  ---------  [天津大学](https://www.tju.edu.cn/)，[人工智能与网络科学研究所](https://ains.tju.edu.cn/index.htm)，攻读工程博士学位。 
+2023 - 至今:  ---------  [天津大学](https://www.tju.edu.cn/)，[人工智能与网络科学研究所](https://ains.tju.edu.cn/index.htm)，攻读工程博士学位。 
 
 2020 - 2023: ---------  [北京科技大学](https://www.ustb.edu.cn/)，教育部工业过程知识自动化重点实验室，获得电子信息专业硕士学位.
 
