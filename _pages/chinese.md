@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-本人目前是天津大学人工智能与网络科学研究所的二年级博士生, 师从 [高忠科](https://ains.tju.edu.cn/info/1052/1057.htm) 教授, 主要研究方向为自主智能无人系统的规划、编队、感知以及故障诊断. 在此之前, 本人于北京科技大学自动化学院获得电子信息专业硕士学位, 师从 [王玲](https://faculty.ustb.edu.cn/LingWang1/zh_CN/index/77379/list/index.htm) 教授, 主要研究方向为多元时间序列的无监督变点检测, 多元时空数据的聚类及预测. 并于南京工业大学电气工程与控制科学学院获得自动化专业学士学位, 师从 [沈谋全](https://eecs.njtech.edu.cn/info/1129/4881.htm) 教授. 
+本人目前是天津大学人工智能与网络科学研究所的二年级博士生，师从 [高忠科](https://ains.tju.edu.cn/info/1052/1057.htm) 教授，主要研究方向为自主智能无人系统的规划、编队、感知以及故障诊断。在此之前，本人于北京科技大学自动化学院获得电子信息专业硕士学位，师从 [王玲](https://faculty.ustb.edu.cn/LingWang1/zh_CN/index/77379/list/index.htm) 教授，主要研究方向为多元时间序列的无监督变点检测，多元时空数据的聚类及预测。并于南京工业大学电气工程与控制科学学院获得自动化专业学士学位，师从 [沈谋全](https://eecs.njtech.edu.cn/info/1129/4881.htm) 教授。
 
 # <img src="../images/education_icon.png" width="55" height="50"> 教育背景
 
-2023 - present:  ---------  [天津大学](https://www.tju.edu.cn/) [人工智能与网络科学研究所](https://ains.tju.edu.cn/index.htm), 攻读工程博士学位. 
+2023 - present:  ---------  [天津大学](https://www.tju.edu.cn/) [人工智能与网络科学研究所](https://ains.tju.edu.cn/index.htm)，攻读工程博士学位。 
 
 2020 - 2023: --------- M.E., Electronic Information, [University of Science and Technology Beijing](https://www.ustb.edu.cn/).
 
@@ -55,23 +55,23 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 <img src="../images/paper_icon.png" width="50" height="50"> 专利发表
 ======
 
--  高忠科, **<u>李泽中</u>,** 郭威, 马伟, **基于数据序列的水下滑翔机异常检测方法:** CN202411159713.2. 2024-12-13. (公开)
+-  高忠科，**<u>李泽中</u>，** 郭威，马伟，**基于数据序列的水下滑翔机异常检测方法：** CN202411159713.2. 2024-12-13. (公开)
 
--  高忠科, 郭威, **<u>李泽中</u>,** 马伟, **对中尺度涡垂直结构的处理方法、装置和电子设备:** CN202411282488.1. 2025-01-03. (公开)
+-  高忠科，郭威，**<u>李泽中</u>，** 马伟，**对中尺度涡垂直结构的处理方法、装置和电子设备：** CN202411282488.1. 2025-01-03. (公开)
 
--  王玲, **<u>李泽中</u>,** **一种面向风力发电的多元时空数据概率预测方法及系统:** CN202311350618.6. 2024-04-05. (公开)
+-  王玲，**<u>李泽中</u>，** **一种面向风力发电的多元时空数据概率预测方法及系统：** CN202311350618.6. 2024-04-05. (公开)
 
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> 工作经历
 
-- 2023.12 - 2024.1 --------- 于 [崂山国家实验室](https://www.lsnl.cn/) 实习, 主要从事自主智能无人系统的相关实践验证.    
+- 2023.12 - 2024.1 --------- 于 [崂山国家实验室](https://www.lsnl.cn/) 实习，主要从事自主智能无人系统的相关实践验证。   
 
-- 2023.09 -  至今  --------- 于 [天津大学医疗机器人与智能系统研究院](https://imris.tju.edu.cn/) 实习, 在 [高忠科教授](https://imris.tju.edu.cn/info/1061/1231.htm) 的指导下, 先后完成了自主智能无人系统路径规划, 编队协同, 故障诊断; 港口货物智能视觉三维重建等多项研究工作. 
+- 2023.09 -  至今  --------- 于 [天津大学医疗机器人与智能系统研究院](https://imris.tju.edu.cn/) 实习，在 [高忠科教授](https://imris.tju.edu.cn/info/1061/1231.htm) 的指导下，先后完成了自主智能无人系统路径规划，编队协同，故障诊断；港口货物智能视觉三维重建等多项研究工作。 
 
 
 # <img src="../images/service.png" width="55" height="50"> 学术服务
 
 - **学术服务**
-  - 2025年担任 <span style="color:rgb(95,181,206)">[Expert Systems with Applications](https://lzz19980125.github.io/files/Certificate_ESWA_Recognised.pdf)</span> 的审稿人.
+  - 2025年担任 <span style="color:rgb(95,181,206)">[Expert Systems with Applications](https://lzz19980125.github.io/files/Certificate_ESWA_Recognised.pdf)</span> 的审稿人。
 
-  - 2024年担任 <span style="color:rgb(95,181,206)">[Knowledge-Based Systems](https://lzz19980125.github.io/files/Certificate_KBS_reviewer.pdf)</span> 的审稿人.
+  - 2024年担任 <span style="color:rgb(95,181,206)">[Knowledge-Based Systems](https://lzz19980125.github.io/files/Certificate_KBS_reviewer.pdf)</span> 的审稿人。
