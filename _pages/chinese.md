@@ -27,7 +27,7 @@ I am a second-year D.Eng. candidate in the Institute of Artificial intelligence 
 <img src="../images/paper_icon.png" width="50" height="50"> 学术论文
 ======
 
-*= Equal contribution
+*= 同等贡献
 
 - **[IEEE Sens J '25]** **<u>Zezhong Li</u>,** Wei Guo, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), 2025. <span style="color:rgb(142,103,150)">**[Collaborated with Huadian Heavy industries Co. Ltd]**</span>, ([**link**](https://ieeexplore.ieee.org/document/10906418))
 
