@@ -19,10 +19,10 @@ author_profile: true
 
 <img src="../images/focus_icon.png" width="55" height="50"> 研究方向
 ======
-- AI for time series.
-  - Deep learning based unsupervised anomaly detection for multivariate time series. 
-  - Multivariate time series unsupervised segmentation (a.k.a. change point detection).
-- Autonomous marine systems (focusing on underwater gliders).
+- 时间序列AI技术.
+  - 基于深度学习的多元时间序列异常检测
+  - 多元时间序列无监督分割（变点检测）
+- 自主智能无人系统（主要关注水下滑翔机）的规划、编队、感知与故障诊断
 
 <img src="../images/paper_icon.png" width="50" height="50"> 学术论文
 ======
