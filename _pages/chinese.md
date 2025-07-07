@@ -24,10 +24,8 @@ I am a second-year D.Eng. candidate in the Institute of Artificial intelligence 
   - Multivariate time series unsupervised segmentation (a.k.a. change point detection).
 - Autonomous marine systems (focusing on underwater gliders).
 
-<img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
+<img src="../images/paper_icon.png" width="50" height="50"> Publications
 ======
-
-<span style="color:rgb(72, 145, 240)">**The full publication list is available [here](https://lzz19980125.github.io/publications/)**</span>
 
 *= Equal contribution
 
