@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am a second-year D.Eng. candidate in the Institute of Artificial intelligence and Network Science at Tianjin University (TJU), advised by [Dr. Zhongke Gao](https://ains.tju.edu.cn/info/1052/1057.htm). Before that, I received my Master of Engineering degree in Electronic Information from the University of Science and Technology Beijing (USTB), advised by [Dr. Ling Wang](https://faculty.ustb.edu.cn/LingWang1/zh_CN/index/77379/list/index.htm), and my Bachelor of Engineering degree in Automation from Nanjing Tech University, advised by [Dr. Mouquan Shen](https://eecs.njtech.edu.cn/info/1129/4881.htm). 
+本人目前是天津大学人工智能与网络科学研究所的二年级博士生, 师从 [高忠科](https://ains.tju.edu.cn/info/1052/1057.htm) 教授. 在此之前, 本人于北京科技大学自动化学院获得电子信息专业硕士学位, 师从 [王玲](https://faculty.ustb.edu.cn/LingWang1/zh_CN/index/77379/list/index.htm) 教授, 并于南京工业大学电气工程与控制科学学院获得自动化专业学士学位, 师从 [沈谋全](https://eecs.njtech.edu.cn/info/1129/4881.htm) 教授. 
 
 # <img src="../images/education_icon.png" width="55" height="50"> 教育背景
 
