@@ -48,6 +48,8 @@ author_profile: true
 
 - **[OE '25]** Mengqi Wang, Rongshun Juan, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Formation Control and Intention Compensating of AUVs Using Multi-agent Reinforcement Learning and Predict Network**,” Ocean Engineering (OE), Revise.
 
+- **[RAS '25]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Wei Ma, Junhe Wan, and Zhong-Ke Gao, “**TVOC-RRT\*: A global path planning method for underwater glider based on time-varying ocean current prediction data**,” Robotics and Autonomous Systems (RAS), Under Reveiw.
+
 - **[ESWA '25]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Zhong-Ke Gao, “**AD-RRT\*: An RRT\*-based global path planning approach for underwater gliders with alpha shapes and DBSCAN**,” Expert Systems With Applications (ESWA), 2025.  ([**link**](https://www.sciencedirect.com/science/article/pii/S0957417425018391))
 
 - **[IEEE Sens J '25]** Bang Zhou, Chen Hanqing, Mengyu Li, Yushi Hao, **<u>Zezhong Li</u>**, Zhiqiang Zhao, Weidong Cao, and Zhongke Gao, "**Dual-Parameter Measurement of Oil-Water Two-Phase Flow Based on Multitask Learning**", IEEE Sensors Journal (IEEE Sens J), 2025. ([**link**](https://ieeexplore.ieee.org/document/10996500))
