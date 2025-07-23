@@ -78,6 +78,8 @@ This is the most common approach used in long-endurance underwater gliders such 
   - **High precision**: The volume of oil transferred can be finely controlled.
   - **High reliability**: The hydraulic system is a **closed loop**, making it resistant to seawater corrosion and biofouling.
 
+[![IMAGE ALT TEXT HERE](../images/2025-7-20-Gliding Motion Modeling and Energy Consumption Analysis for Underwater Glider.jpg)](https://ieeexplore.ieee.org/ielx8/8860/10778592/10989531/supp1-3567531.mp4?arnumber=10989531)
+
 ------
 
 ### 2. Variable Mass / Variable Ballast
