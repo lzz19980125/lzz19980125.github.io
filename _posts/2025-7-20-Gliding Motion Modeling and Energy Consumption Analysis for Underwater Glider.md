@@ -96,4 +96,4 @@ This approach is more commonly found in other types of underwater vehicles, such
   - **Higher energy consumption**: Especially at great depths, high-pressure pumps are required to expel seawater, leading to significant energy usage.
   - **Vulnerability to corrosion and clogging**: Seawater is corrosive, and marine microorganisms or particles may clog pipes or pumps, affecting system reliability.
 
-[![IMAGE ALT TEXT HERE](https://github.com/lzz19980125/lzz19980125.github.io/blob/master/images/2025-07-23_194339.jpg)](https://www.youtube.com/watch?v=dlaiIqyl8MU)
+[![IMAGE ALT TEXT HERE](../images/2025-07-23_194339.jpg)](https://www.youtube.com/watch?v=dlaiIqyl8MU)
