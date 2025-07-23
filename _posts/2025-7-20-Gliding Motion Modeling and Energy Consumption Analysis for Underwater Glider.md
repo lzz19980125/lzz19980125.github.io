@@ -78,9 +78,6 @@ This is the most common approach used in long-endurance underwater gliders such 
   - **High precision**: The volume of oil transferred can be finely controlled.
   - **High reliability**: The hydraulic system is a **closed loop**, making it resistant to seawater corrosion and biofouling.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=R0uufIdWCD4
-" target="_blank"><img src="http://img.youtube.com/vi/R0uufIdWCD4/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ------
 
 ### 2. Variable Mass / Variable Ballast
@@ -98,3 +95,5 @@ This approach is more commonly found in other types of underwater vehicles, such
 - **Disadvantages**:
   - **Higher energy consumption**: Especially at great depths, high-pressure pumps are required to expel seawater, leading to significant energy usage.
   - **Vulnerability to corrosion and clogging**: Seawater is corrosive, and marine microorganisms or particles may clog pipes or pumps, affecting system reliability.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dlaiIqyl8MU/3.jpg)](https://www.youtube.com/watch?v=dlaiIqyl8MU)
