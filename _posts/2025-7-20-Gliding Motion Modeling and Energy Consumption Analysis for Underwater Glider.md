@@ -52,6 +52,8 @@ Net buoyancy represents the resultant vertical force that determines whether the
 
 Underwater gliders control their vertical movement—descending and ascending—by adjusting their **net buoyancy**. Equipped with fixed wings, they convert vertical motion into horizontal glide using **hydrodynamic lift**. This method is highly energy-efficient: gliders **do not rely on continuously spinning propellers**, and consume only minimal energy when adjusting buoyancy or attitude. As a result, they can operate autonomously in the ocean for several months or even over a year, covering distances of thousands of kilometers.
 
+<br/><img src='../images/2025-07-23_192552.jpg'>
+
 To adjust net buoyancy, there are two main approaches:
 
 - **Changing the displaced fluid volume** while keeping the mass constant.
