@@ -111,12 +111,16 @@ The BAS is effectively the "engine" of the glider, responsible for controlling i
 - **Principle**: The system adjusts the glider's overall volume to alter its buoyancy. It typically consists of a rigid internal oil reservoir and a flexible external bladder. A low-power hydraulic pump transfers a precise amount of oil into the external bladder, increasing the glider's total volume. This displacement increases the buoyant force, causing the glider to rise. To descend, oil is pumped back into the internal reservoir, decreasing the volume and allowing gravity to pull the glider down.
 - **Advanced Designs**: Some advanced gliders may employ sophisticated **dual-circuit** systems. A highly efficient, low-pressure pump is used for operations at shallower depths, while a more powerful, high-pressure pump is engaged to ensure reliable ascent from the extreme pressures of the deep ocean. This optimizes energy consumption across the full operational range.
 
+<br/><img src='../images/2025-07-28_125739.jpg'>
+
 ### Attitude Adjustment System (AAS)
 
 The AAS is responsible for controlling the glider's orientation—specifically its **pitch** (nose up/down) and **roll** (rotation around its long axis). To maintain a streamlined profile and minimize drag, gliders achieve this by shifting internal masses rather than using external control surfaces like rudders.
 
 - **Pitch Control**: To control pitch, a significant internal mass—often the heavy battery pack—is moved forward or backward along a linear track. Moving the weight forward shifts the vehicle's center of gravity, causing the nose to pitch down for a descent. Moving it backward causes the nose to pitch up, setting the optimal angle for an ascent.
 - **Roll Control**: To steer, the glider must roll. This is accomplished by rotating a separate internal mass around the glider's central axis using a rotary motor. This banking motion, combined with the hydrodynamic forces on the wings, causes the glider to turn. This mechanism allows for heading adjustments and the execution of complex spiral profiles for detailed, localized sampling.
+
+<br/><img src='../images/2025-07-28_125758.jpg'>
 
 ### Navigation and State Sensors
 
@@ -135,6 +139,8 @@ While gliders can be fitted with various scientific sensors (e.g., for oxygen, c
   - **T**emperature: Measured with high accuracy.
   - **D**epth: Confirmed by an integrated high-precision pressure sensor.
 - **Importance**: CTD data allows scientists to map the structure of the ocean, identifying different water masses, currents, eddies, and critical features like the **thermocline** (a layer of rapid temperature change). This information is foundational to understanding ocean dynamics, climate patterns, and marine ecosystems.
+
+<br/><img src='../images/2025-07-28_130015.jpg'>
 
 ### Load Dump System
 
