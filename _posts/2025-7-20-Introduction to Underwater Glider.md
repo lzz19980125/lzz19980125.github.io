@@ -150,3 +150,4 @@ This is a critical **fail-safe mechanism** designed to ensure the vehicle can be
 
 ## References
 [1] L. Lei, Y. Zhou, and J. Zhang, “From Extended Environment Perception Toward Real-Time Dynamic Modeling for Long-Range Underwater Robot,” IEEE Transactions on Robotics, vol. 41, pp. 3423–3441, 2025, doi: 10.1109/TRO.2025.3567531.
+[2] T. I. Fossen, Handbook of Marine Craft Hydrodynamics and Motion Control. Hoboken, NJ, USA: John Wiley & Sons, 2011.
