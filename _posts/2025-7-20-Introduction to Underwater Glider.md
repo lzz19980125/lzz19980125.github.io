@@ -13,7 +13,7 @@ tags:
 
 ---
 
-This article includes the modeling of underwater glider motion and the analysis of energy consumption.
+This article presents an introduction to the fundamental principles and hardware architecture of underwater gliders.
 
 # Preliminaries
 
