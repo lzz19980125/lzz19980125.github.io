@@ -130,6 +130,8 @@ A suite of onboard sensors allows the glider to determine its position, orientat
 - **Depth Gauge (Pressure Sensor)**: Continuously measures the ambient water pressure, which is precisely converted into the glider's current depth. This data is critical for executing the programmed dive-and-ascent profile, ensuring the glider operates within its safe depth limits.
 - **Altimeter**: A forward- or downward-facing acoustic sensor (sonar) that measures the distance to the seafloor. Its primary function is **collision avoidance**, preventing the glider from impacting the seabed, especially in coastal areas or regions with complex, unmapped bathymetry.
 
+<br/><img src='../images/2025-07-28_130015.jpg'>
+
 ### Scientific Payload: CTD Sensor
 
 While gliders can be fitted with various scientific sensors (e.g., for oxygen, chlorophyll, or acoustics), the most fundamental payload for physical oceanography is the CTD.
@@ -139,8 +141,6 @@ While gliders can be fitted with various scientific sensors (e.g., for oxygen, c
   - **T**emperature: Measured with high accuracy.
   - **D**epth: Confirmed by an integrated high-precision pressure sensor.
 - **Importance**: CTD data allows scientists to map the structure of the ocean, identifying different water masses, currents, eddies, and critical features like the **thermocline** (a layer of rapid temperature change). This information is foundational to understanding ocean dynamics, climate patterns, and marine ecosystems.
-
-<br/><img src='../images/2025-07-28_130015.jpg'>
 
 ### Load Dump System
 
