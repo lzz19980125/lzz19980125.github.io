@@ -15,8 +15,6 @@ tags:
 
 This article presents an introduction to the fundamental principles and hardware architecture of underwater gliders.
 
-# Preliminaries
-
 ## **Archimedes' Principle**
 
 As early as middle school, we learned to explain the origin of buoyancy using **Archimedes' principle**:
@@ -149,3 +147,6 @@ This is a critical **fail-safe mechanism** designed to ensure the vehicle can be
 - **Principle**: The system consists of a disposable ballast weight attached to the glider's exterior by an electromechanical release mechanism.
 - **Operation**: If the glider's control system detects a catastrophic failure—such as a leak, total power loss, or an inability to achieve positive buoyancy—it will trigger the release. By jettisoning the weight, the glider instantly becomes strongly buoyant and ascends to the surface, where it can be located via satellite and recovered.
 - **Importance**: This system is a last resort for asset protection. It drastically increases the probability of recovering the expensive instrument and its invaluable data should a critical malfunction occur during a multi-month deployment.
+
+## References
+[1] L. Lei, Y. Zhou, and J. Zhang, “From Extended Environment Perception Toward Real-Time Dynamic Modeling for Long-Range Underwater Robot,” IEEE Transactions on Robotics, vol. 41, pp. 3423–3441, 2025, doi: 10.1109/TRO.2025.3567531.
