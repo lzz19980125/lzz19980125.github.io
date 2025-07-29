@@ -154,3 +154,5 @@ This is a critical **fail-safe mechanism** designed to ensure the vehicle can be
 [1] L. Lei, Y. Zhou, and J. Zhang, “From Extended Environment Perception Toward Real-Time Dynamic Modeling for Long-Range Underwater Robot,” IEEE Transactions on Robotics, vol. 41, pp. 3423–3441, 2025, doi: 10.1109/TRO.2025.3567531.
 
 [2] T. I. Fossen, Handbook of Marine Craft Hydrodynamics and Motion Control. Hoboken, NJ, USA: John Wiley & Sons, 2011.
+
+[3] M. Yang, Y. Wang, X. Zhang, Y. Liang and C. Wang, "Parameterized Dynamic Modeling and Spiral Motion Pattern Analysis for Underwater Gliders," in IEEE Journal of Oceanic Engineering, vol. 48, no. 1, pp. 112-126, Jan. 2023, doi: 10.1109/JOE.2022.3181896. 
