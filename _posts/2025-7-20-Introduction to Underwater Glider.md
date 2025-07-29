@@ -155,4 +155,4 @@ This is a critical **fail-safe mechanism** designed to ensure the vehicle can be
 
 [2] T. I. Fossen, Handbook of Marine Craft Hydrodynamics and Motion Control. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
-[3] M. Yang, Y. Wang, X. Zhang, Y. Liang and C. Wang, "Parameterized Dynamic Modeling and Spiral Motion Pattern Analysis for Underwater Gliders," in IEEE Journal of Oceanic Engineering, vol. 48, no. 1, pp. 112-126, Jan. 2023, doi: 10.1109/JOE.2022.3181896. 
+[3] M. Yang, Y. Wang, X. Zhang, Y. Liang and C. Wang, "Parameterized Dynamic Modeling and Spiral Motion Pattern Analysis for Underwater Gliders," IEEE Journal of Oceanic Engineering, vol. 48, no. 1, pp. 112-126, 2023, doi: 10.1109/JOE.2022.3181896. 
