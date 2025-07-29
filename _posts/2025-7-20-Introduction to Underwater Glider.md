@@ -106,10 +106,12 @@ An underwater glider is a marvel of efficiency, integrating several key systems 
 
 The BAS is effectively the "engine" of the glider, responsible for controlling its ascent and descent. The most common and energy-efficient designs operate on a **variable volume** principle.
 
-- **Principle**: The system adjusts the glider's overall volume to alter its buoyancy. It typically consists of a rigid internal oil reservoir and a flexible external bladder. A low-power hydraulic pump transfers a precise amount of oil into the external bladder, increasing the glider's total volume. This displacement increases the buoyant force, causing the glider to rise. To descend, oil is pumped back into the internal reservoir, decreasing the volume and allowing gravity to pull the glider down.
+- **Principle**: The system adjusts the glider's overall volume to alter its buoyancy. It typically consists of a rigid internal oil reservoir and a flexible external bladder. A low-power hydraulic pump transfers a precise amount of oil into the external bladder, increasing the volume of displaced water by the glider. This displacement increases the buoyant force, causing the glider to rise. To descend, oil is pumped back into the internal reservoir, decreasing the volume of displaced water by the glider and allowing gravity to pull the glider down.
 - **Advanced Designs**: Some advanced gliders may employ sophisticated **dual-circuit** systems. A highly efficient, low-pressure pump is used for operations at shallower depths, while a more powerful, high-pressure pump is engaged to ensure reliable ascent from the extreme pressures of the deep ocean. This optimizes energy consumption across the full operational range.
 
 <br/><img src='../images/2025-07-28_125739.jpg'>
+
+<br/><img src='../images/2025-07-29_181233.jpg'>
 
 ### Attitude Adjustment System (AAS)
 
