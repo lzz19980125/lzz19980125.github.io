@@ -26,7 +26,7 @@ The study of motion, or **dynamics**, can be conceptually divided into two disti
 *   **Kinematics**: This is the study of the *geometry of motion*. It describes the position, velocity, and acceleration of a body without considering the forces that cause this motion. Kinematics answers the question: "Given the vehicle's current velocity, where will it be and how will it be oriented in the next instant?"
 *   **Kinetics**: This is the analysis of the *forces* that cause motion. It relates the forces and moments acting on a body (e.g., buoyancy, lift, drag, thrust) to its resulting accelerations, governed by Newton's second law. Kinetics answers the question: "Given the forces acting on the vehicle, how will its velocity change?"
 
-In essence: `dynamics = kinematics + kinetics`. This article focuses exclusively on **kinematics**.
+In essence: $$dynamics = kinematics + kinetics$$. This article focuses exclusively on **kinematics**.
 
 ## 2. The Language of Motion: Frames, Points, and Angles
 
@@ -38,7 +38,7 @@ We use several coordinate frames, each serving a specific purpose, to describe t
 
 *   **Earth-Centered Inertial (ECI) Frame `{i}`**: This is a non-accelerating frame with its origin at the Earth's center. Its axes are fixed relative to the distant stars. In this frame, Newton's laws of motion apply directly. It is the ultimate reference for terrestrial navigation but is cumbersome for practical vehicle control.
 
-*   **Earth-Centered Earth-Fixed (ECEF) Frame `{e}`**: This frame also has its origin at the Earth's center, but its axes are fixed to the Earth and rotate with it. The `x_e`-axis points through the prime meridian, the `z_e`-axis points through the North Pole, and the `y_e`-axis completes the right-handed system. GPS provides position data in this frame.
+*   **Earth-Centered Earth-Fixed (ECEF) Frame `{e}`**: This frame also has its origin at the Earth's center, but its axes are fixed to the Earth and rotate with it. The `x_e`-axis points through the prime meridian, the $$z_e$$-axis points through the North Pole, and the `y_e`-axis completes the right-handed system. GPS provides position data in this frame.
 
 *   **North-East-Down (NED) Frame `{n}`**: This is a local navigation frame, tangent to the Earth's surface at the vehicle's location (or a nearby origin). Its axes are aligned with the geodetic directions: `x_n` points to True North, `y_n` points to True East, and `z_n` points down, normal to the Earth's surface. This is the most intuitive frame for vehicle guidance, as commands like "head east for 1 kilometer" are naturally expressed here.
 
