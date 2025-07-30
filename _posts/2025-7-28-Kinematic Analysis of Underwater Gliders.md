@@ -58,7 +58,14 @@ We use several coordinate frames, each serving a specific purpose, to describe t
 
 The central challenge of kinematics is to relate the BODY frame `{b}` to the NED frame `{n}`.
 
-### 2.2 Key Reference Points
+### 2.2 Important Angles of Motion
+
+The interaction between the glider and the surrounding water is defined by key angles:
+
+*   **Angle of Attack (α)**: The angle between the vehicle's velocity vector relative to the water and the BODY $$x_b-y_b$$ plane. It is the primary driver for generating lift on the wings.
+*   **Sideslip Angle (β)**: The angle between the vehicle's velocity vector relative to the water and the BODY  $$x_b-z_b$$ plane. Ideally, this is kept near zero for efficient flight.
+
+### 2.3 Key Reference Points
 
 For a marine vehicle, four "centers" are of particular interest:
 
@@ -66,13 +73,6 @@ For a marine vehicle, four "centers" are of particular interest:
 *   **CG (Center of Gravity)**: The point where the total gravitational force acts. For a glider, the relative position between CG and CB is fundamental to creating pitching moments.
 *   **CB (Center of Buoyancy)**: The centroid of the displaced water volume, where the buoyant force acts. Gliders actively change their buoyancy to control depth.
 *   **CF (Center of Flotation)**: The centroid of the waterplane area. This is more relevant for surface vessels' roll/pitch stability.
-
-### 2.3 Important Angles of Motion
-
-The interaction between the glider and the surrounding water is defined by key angles:
-
-*   **Angle of Attack (α)**: The angle between the vehicle's velocity vector relative to the water and the BODY $$x_b-y_b$$ plane. It is the primary driver for generating lift on the wings.
-*   **Sideslip Angle (β)**: The angle between the vehicle's velocity vector relative to the water and the BODY  $$x_b-z_b$$ plane. Ideally, this is kept near zero for efficient flight.
 
 ## 3. A Unified Notation: The SNAME Framework
 
