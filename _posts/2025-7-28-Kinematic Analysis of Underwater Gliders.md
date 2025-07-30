@@ -195,4 +195,4 @@ While we used Euler angles for their intuitive appeal, it is worth noting that m
 
 [2] M. Yang, Y. Wang, X. Zhang, Y. Liang and C. Wang, "Parameterized Dynamic Modeling and Spiral Motion Pattern Analysis for Underwater Gliders," IEEE Journal of Oceanic Engineering, vol. 48, no. 1, pp. 112-126, 2023, doi: 10.1109/JOE.2022.3181896. 
 
-[3] Nomenclature for Treating the Motion of a Submerged Body Through a Fluid (SNAME (1950)). The Society of Naval Architects and Marine Engineers, Technical and Research Bulletin No. 1-5, April 1950, pp. 1-15.
+[3] Nomenclature for Treating the Motion of a Submerged Body Through a Fluid. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950, pp. 1-15.
