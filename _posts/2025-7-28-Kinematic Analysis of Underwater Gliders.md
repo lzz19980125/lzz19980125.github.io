@@ -44,6 +44,8 @@ We use several coordinate frames, each serving a specific purpose, to describe t
 
 *   **North-East-Down (NED) Frame `{n}`**: This is a local navigation frame, tangent to the Earth's surface at the vehicle's location (or a nearby origin). Its axes are aligned with the geodetic directions: $$x_n$$ points to True North, $$y_n$$ points to True East, and $$z_n$$ points down, normal to the Earth's surface. This is the most intuitive frame for vehicle guidance, as commands like "head east for 1 kilometer" are naturally expressed here.
 
+  <br/><img src='../images/2025-07-30_212234.jpg'>
+
 *   **BODY Frame `{b}`**: This frame is fixed to the glider itself, with its origin $$(O_b)$$ typically at the vehicle's geometric center. The axes are defined as:
 
     *   $$x_b$$ (Surge): Points from aft to fore along the glider's longitudinal axis.
