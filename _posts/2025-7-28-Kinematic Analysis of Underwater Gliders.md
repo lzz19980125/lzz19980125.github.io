@@ -68,6 +68,10 @@ The interaction between a vehicle and the surrounding fluid, as well as its path
 *   **Course Angle ($$\chi$$)**: The direction of the vehicle's velocity vector relative to the ground, measured clockwise from True North. This represents the vehicle's actual path of travel and is typically measured by a GPS as "Course Over Ground".
 *   **Horizontal Crab Angle ($$\beta_c$$)**: The angle between the vehicle's heading and its course, representing the sideways drift over the ground due to external forces like wind or currents. It is defined by the relationship $$ \chi = \psi + \beta_c $$.
 
+  <br/><img src='../images/2025-07-28_145218.jpg'>
+
+  <br/><img src='../images/Heading-course-and-crab-angles.png'>
+
 ### 2.3 Key Reference Points
 
 For a marine vehicle, four "centers" are of particular interest:
