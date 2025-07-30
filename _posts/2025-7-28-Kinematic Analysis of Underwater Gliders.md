@@ -5,7 +5,7 @@ category: Autonomous marine systems
 permalink: /posts/2025-7-28-Kinematic Analysis of Underwater Gliders
 layout: single
 classes: wide
-excerpt: "This article includes the modeling of underwater glider motion and the analysis of energy consumption. <br/><img src='../images/2025-07-28_145218.jpg'>"
+excerpt: "This post will delve into the fundamental kinematic analysis of underwater gliders. <br/><img src='../images/2025-07-28_145218.jpg'>"
 tags:
   - Autonomous marine systems
   - Kinematics and kinetics
