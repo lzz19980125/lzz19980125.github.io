@@ -82,7 +82,7 @@ To formalize our analysis, we adopt the standard notation proposed by The Societ
 We can express these as two primary vectors:
 
 1.  **Generalized velocity vector in BODY `{b}`**:
-    $ \nu = [u, v, w, p, q, r]^T $
+    $$ \nu = [u, v, w, p, q, r]^T $$
 2.  **Generalized position and attitude vector in NED `{n}`**:
     $ \eta = [x^n, y^n, z^n, \phi, \theta, \psi]^T $
 
