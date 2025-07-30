@@ -73,6 +73,8 @@ For a marine vehicle, four "centers" are of particular interest:
 *   **CG (Center of Gravity)**: The point where the total gravitational force acts. For a glider, the relative position between CG and CB is fundamental to creating pitching moments.
 *   **CB (Center of Buoyancy)**: The centroid of the displaced water volume, where the buoyant force acts. Gliders actively change their buoyancy to control depth.
 *   **CF (Center of Flotation)**: The centroid of the waterplane area. This is more relevant for surface vessels' roll/pitch stability.
+  
+<br/><img src='../images/2025-07-30_212303.jpg'>
 
 ## 3. A Unified Notation: The SNAME Framework
 
