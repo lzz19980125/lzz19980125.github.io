@@ -46,7 +46,7 @@ We use several coordinate frames, each serving a specific purpose, to describe t
     *   `x_b` (Surge): Points from aft to fore along the glider's longitudinal axis.
     *   `y_b` (Sway): Points out the starboard (right) side.
     *   `z_b` (Heave): Points downwards, completing the right-handed system.
-        All forces (hydrodynamic), moments, and sensor measurements (from an IMU) are most naturally expressed in this frame.
+    All forces (hydrodynamic), moments, and sensor measurements (from an IMU) are most naturally expressed in this frame.
 
 The central challenge of kinematics is to relate the BODY frame `{b}` to the NED frame `{n}`.
 
