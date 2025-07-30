@@ -36,7 +36,7 @@ To describe motion unambiguously, we must first define our reference frames and 
 
 We use several coordinate frames, each serving a specific purpose, to describe the glider's state.
 
-*   **Earth-Centered Inertial (ECI) Frame $$\{i\}$$**: This is a non-accelerating frame with its origin at the Earth's center. Its axes are fixed relative to the distant stars. In this frame, Newton's laws of motion apply directly. It is the ultimate reference for terrestrial navigation but is cumbersome for practical vehicle control.
+*   **Earth-Centered Inertial (ECI) Frame {$$i$$}**: This is a non-accelerating frame with its origin at the Earth's center. Its axes are fixed relative to the distant stars. In this frame, Newton's laws of motion apply directly. It is the ultimate reference for terrestrial navigation but is cumbersome for practical vehicle control.
 
 *   **Earth-Centered Earth-Fixed (ECEF) Frame $$\{e\}$$**: This frame also has its origin at the Earth's center, but its axes are fixed to the Earth and rotate with it. The $$x_e$$-axis points through the prime meridian, the $$z_e$$-axis points through the North Pole, and the $$y_e$$-axis completes the right-handed system. GPS provides position data in this frame.
 
