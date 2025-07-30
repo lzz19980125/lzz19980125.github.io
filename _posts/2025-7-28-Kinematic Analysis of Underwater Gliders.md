@@ -26,7 +26,7 @@ The study of motion, or **dynamics**, can be conceptually divided into two disti
 *   **Kinematics**: This is the study of the *geometry of motion*. It describes the position, velocity, and acceleration of a body without considering the forces that cause this motion. Kinematics answers the question: "Given the vehicle's current velocity, where will it be and how will it be oriented in the next instant?"
 *   **Kinetics**: This is the analysis of the *forces* that cause motion. It relates the forces and moments acting on a body (e.g., buoyancy, lift, drag, thrust) to its resulting accelerations, governed by Newton's second law. Kinetics answers the question: "Given the forces acting on the vehicle, how will its velocity change?"
 
-In essence: `dynamics = kinematics + kinetics`. This article focuses exclusively on **kinematics**.
+In essence: dynamics = kinematics + kinetics. This article focuses exclusively on **kinematics**.
 
 ## 2. The Language of Motion: Frames, Points, and Angles
 
