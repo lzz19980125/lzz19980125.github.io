@@ -60,10 +60,13 @@ The central challenge of kinematics is to relate the BODY frame {b} to the NED f
 
 ### 2.2 Important Angles of Motion
 
-The interaction between the glider and the surrounding water is defined by key angles:
+The interaction between a vehicle and the surrounding fluid, as well as its path over the Earth, are defined by a set of key angles.
 
-*   **Angle of Attack (α)**: The angle between the vehicle's velocity vector relative to the water and the BODY $$x_b-y_b$$ plane. It is the primary driver for generating lift on the wings.
-*   **Sideslip Angle (β)**: The angle between the vehicle's velocity vector relative to the water and the BODY  $$x_b-z_b$$ plane. Ideally, this is kept near zero for efficient flight.
+*   **Angle of Attack ($$\alpha$$)**: The angle between the vehicle's longitudinal axis ($$x_b$$) and the projection of the relative velocity vector onto the vehicle's vertical symmetry plane ($$x_b-z_b$$ plane). It is the primary driver for generating lift on the wings.
+*   **Sideslip Angle ($$\beta$$)**: The angle between the vehicle's longitudinal axis ($$x_b$$) and the projection of the relative velocity vector onto the vehicle's horizontal plane ($$x_b-y_b$$ plane). Ideally, this is kept near zero for efficient flight. 
+*   **Heading Angle ($$\psi$$)**: The direction the vehicle's longitudinal axis ($$x_b$$) is pointing, measured clockwise from True North in the horizontal plane. This represents the vehicle's commanded orientation and is typically measured by a compass.
+*   **Course Angle ($$\chi$$)**: The direction of the vehicle's velocity vector relative to the ground, measured clockwise from True North. This represents the vehicle's actual path of travel and is typically measured by a GPS as "Course Over Ground".
+*   **Horizontal Crab Angle ($$\beta_c$$)**: The angle between the vehicle's heading and its course, representing the sideways drift over the ground due to external forces like wind or currents. It is defined by the relationship $$ \chi = \psi + \beta_c $$.
 
 ### 2.3 Key Reference Points
 
