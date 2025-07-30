@@ -50,7 +50,7 @@ We use several coordinate frames, each serving a specific purpose, to describe t
 
     *   $$x_b$$ (Surge): Points from aft to fore along the glider's longitudinal axis.
 
-    *   $$y_b$$(Sway): Points out the starboard (right) side.
+    *   $$y_b$$ (Sway): Points out the starboard (right) side.
 
     *   $$z_b$$ (Heave): Points downwards, completing the right-handed system.
 
