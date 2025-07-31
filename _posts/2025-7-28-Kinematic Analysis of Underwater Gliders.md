@@ -262,7 +262,9 @@ $$ \dot{\Theta}_{nb} = \begin{bmatrix} \dot{\phi} \\ \dot{\theta} \\ \dot{\psi} 
 In component form, the angular kinematic equations are:
 
 $$ \dot{\phi} = p + q(s\phi t\theta) + r(c\phi t\theta) $$
+
 $$ \dot{\theta} = q(c\phi) - r(s\phi) $$
+
 $$ \dot{\psi} = q(s\phi/c\theta) + r(c\phi/c\theta) $$
 
 A critical flaw of Euler angles is evident in the matrix $$T(\Theta_{nb})$$: when the pitch angle $$\theta = \pm 90^\circ$$, $$\cos(\theta) = 0$$, and the terms with $$1/\cos(\theta)$$ become infinite. The matrix is singular, and this condition is known as **Gimbal Lock**, where roll and yaw motions become indistinguishable.
