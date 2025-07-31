@@ -132,13 +132,78 @@ $$ S(\lambda) = \begin{bmatrix} 0 & -\lambda_3 & \lambda_2 \\ \lambda_3 & 0 & -\
 
 This doesn't represent a physical transformation but is a vital algebraic tool that simplifies the derivation and computation of kinematic equations, especially in Rodrigues' Rotation Formula.
 
-### 4.3 Parameterizing Rotation: Euler Angles
+### 4.3 A General Formula for Rotation: Rodrigues' Formula
+
+We have established that any rotation is represented by an $$SO(3)$$ matrix and have introduced the skew-symmetric matrix $$S(λ)$$ as a computational tool. The question now is: how do we construct a specific rotation matrix?
+
+The answer comes from **Euler's theorem on rotation**, which states that any orientation of a rigid body can be achieved by a single rotation about a fixed axis. This rotation is defined by two parameters:
+
+1.  A unit vector $$λ$$ representing the axis of rotation.
+2.  A scalar $$β$$ representing the angle of rotation about that axis.
+
+**Rodrigues' Rotation Formula** provides the explicit mathematical construction for the rotation matrix $$R$$ given $$λ$$ and $$β$$. It elegantly combines the identity matrix, the skew-symmetric matrix $$S(λ)$$, and its square $$S(λ)²$$ to build the final transformation:
+
+$$ R_{\lambda,\beta} = I_{3\times3} + \sin(\beta) S(\lambda) + (1 - \cos(\beta)) S(\lambda)^2 $$
+
+where $$I$$  is the 3x3 identity matrix and $$λ$$  is a unit vector, i.e., $$ ||\lambda|| = 1 $$. This powerful formula can generate any rotation matrix and serves as the theoretical foundation for more specific parameterizations like Euler angles.
+
+### 4.4 Building Blocks: Rotations about Principal Axes
+
+Euler angles describe a vehicle's orientation as a sequence of three simple rotations around principal axes (like x, y, or z). Each of these simple rotations is a direct application of Rodrigues' formula, where the rotation axis  $$λ$$  is one of the standard basis vectors. Let's derive these fundamental building blocks.
+
+#### **Rotation about the z-axis (Yaw, $$ψ$$)**
+
+For a yaw rotation of angle $$ψ$$, the axis is $$λ = [0, 0, 1]^T$$.
+
+1.  The skew-symmetric matrix for this axis is:
+
+    $$ S(\lambda) = S([0,0,1]^T) = \begin{bmatrix} 0 & -1 & 0 \\ 1 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix} $$
+
+2.  The square of this matrix is:
+
+    $$ S(\lambda)^2 = \begin{bmatrix} 0 & -1 & 0 \\ 1 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix} \begin{bmatrix} 0 & -1 & 0 \\ 1 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix} = \begin{bmatrix} -1 & 0 & 0 \\ 0 & -1 & 0 \\ 0 & 0 & 0 \end{bmatrix} $$
+
+3.  Substituting into Rodrigues' formula with $$β = ψ$$:
+
+    $$ R_{z,\psi} = I + \sin(\psi)S(\lambda) + (1-\cos(\psi))S(\lambda)^2 $$
+
+    $$ R_{z,\psi} = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} + \sin(\psi)\begin{bmatrix} 0 & -1 & 0 \\ 1 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix} + (1-\cos(\psi))\begin{bmatrix} -1 & 0 & 0 \\ 0 & -1 & 0 \\ 0 & 0 & 0 \end{bmatrix} $$
+
+    $$ R_{z,\psi} = \begin{bmatrix} 1 - (1-\cos\psi) & -\sin\psi & 0 \\ \sin\psi & 1 - (1-\cos\psi) & 0 \\ 0 & 0 & 1 \end{bmatrix} = \begin{bmatrix} \cos\psi & -\sin\psi & 0 \\ \sin\psi & \cos\psi & 0 \\ 0 & 0 & 1 \end{bmatrix} $$
+
+#### **Rotation about the y-axis (Pitch, $$θ$$)**
+
+For a pitch rotation of angle $$θ$$, the axis is $$λ = [0, 1, 0]^T$$. Following the same procedure:
+
+1.  $$ S(\lambda) = \begin{bmatrix} 0 & 0 & 1 \\ 0 & 0 & 0 \\ -1 & 0 & 0 \end{bmatrix} $$
+
+2.  $$ S(\lambda)^2 = \begin{bmatrix} -1 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & -1 \end{bmatrix} $$
+
+3.  The resulting rotation matrix is:
+
+    $$ R_{y,\theta} = \begin{bmatrix} \cos\theta & 0 & \sin\theta \\ 0 & 1 & 0 \\ -\sin\theta & 0 & \cos\theta \end{bmatrix} $$
+
+#### **Rotation about the x-axis (Roll, $$φ$$)**
+
+For a roll rotation of angle $$φ$$, the axis is $$λ = [1, 0, 0]^T$$:
+
+1.  $$ S(\lambda) = \begin{bmatrix} 0 & 0 & 0 \\ 0 & 0 & -1 \\ 0 & 1 & 0 \end{bmatrix} $$
+
+2.  $$ S(\lambda)^2 = \begin{bmatrix} 0 & 0 & 0 \\ 0 & -1 & 0 \\ 0 & 0 & -1 \end{bmatrix} $$
+
+3.  The resulting rotation matrix is:
+
+    $$ R_{x,\phi} = \begin{bmatrix} 1 & 0 & 0 \\ 0 & \cos\phi & -\sin\phi \\ 0 & \sin\phi & \cos\phi \end{bmatrix} $$
+
+These three matrices are the fundamental building blocks for describing any vehicle attitude. The next step is to combine them in a specific sequence to represent the full orientation of the glider.
+
+### 4.5 Parameterizing Rotation: Euler Angles
 
 While $$ SO(3) $$ matrices are the correct mathematical objects, they are not very intuitive. We often parameterize them using three **Euler angles**: yaw, pitch, and roll $$ (\psi, \theta, \phi) $$. For marine and aerospace vehicles, the standard convention is a **ZYX sequence**:
 
-1.  **Yaw (`ψ`)**: A rotation around the $$ z_n $$ axis.
-2.  **Pitch (`θ`)**: A rotation around the new (once-rotated) $$ y $$ axis.
-3.  **Roll (`φ`)**: A rotation around the final (twice-rotated) $$ x_b $$ axis.
+1.  **Yaw ($$ψ$$)**: A rotation around the $$ z_n $$ axis.
+2.  **Pitch ($$θ$$)**: A rotation around the new (once-rotated) $$ y $$ axis.
+3.  **Roll ($$φ$$)**: A rotation around the final (twice-rotated) $$ x_b $$ axis.
 
 Each of these is a simple rotation, and the total rotation matrix from BODY to NED, denoted $$ R_{nb}(\Theta_{nb}) $$, is obtained by multiplying their individual rotation matrices. Note $$ \Theta_{nb} = [\phi, \theta, \psi]^T $$.
 
@@ -148,9 +213,9 @@ The full matrix is:
 
 $$ R(\Theta_{nb}) = \begin{bmatrix} c\psi c\theta & -s\psi c\phi + c\psi s\theta s\phi & s\psi s\phi + c\psi c\phi s\theta \\ s\psi c\theta & c\psi c\phi + s\phi s\theta s\psi & -c\psi s\phi + s\theta s\psi c\phi \\ -s\theta & c\theta s\phi & c\theta c\phi \end{bmatrix} $$
 
-(where `c` is cos and `s` is sin).
+(where $$c$$ is cos and $$s$$ is sin).
 
-### 4.4 Deriving the Kinematic Equations
+### 4.6 Deriving the Kinematic Equations
 
 With the rotation matrix defined, we can now build our bridge.
 
