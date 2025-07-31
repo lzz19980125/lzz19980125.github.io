@@ -197,62 +197,88 @@ For a roll rotation of angle $$\phi$$, the axis is $$λ = [1, 0, 0]^T$$:
 
 These three matrices are the fundamental building blocks for describing any vehicle attitude. The next step is to combine them in a specific sequence to represent the full orientation of the glider.
 
-### 4.5 Parameterizing Rotation: Euler Angles
+### 4.5 Parameterizing Rotation: The ZYX Euler Angle Convention
 
-While $$ SO(3) $$ matrices are the correct mathematical objects, they are not very intuitive. We often parameterize them using three **Euler angles**: yaw, pitch, and roll $$ (\psi, \theta, \phi) $$. For marine and aerospace vehicles, the standard convention is a **ZYX sequence**:
+While $$SO(3)$$ matrices are mathematically pure, they are not intuitive for human operators. We typically use three **Euler angles**—yaw ($$\psi$$), pitch ($$\theta$$), and roll ($$\phi$$)—to parameterize the rotation. The final rotation matrix depends on the *order* in which these rotations are applied, as matrix multiplication is not commutative.
 
-1.  **Yaw ($$ψ$$)**: A rotation around the $$ z_n $$ axis.
-2.  **Pitch ($$θ$$)**: A rotation around the new (once-rotated) $$ y $$ axis.
-3.  **Roll ($$\phi$$)**: A rotation around the final (twice-rotated) $$ x_b $$ axis.
+For marine and aerospace applications, the **ZYX Tait-Bryan angle convention** is standard. This is an *intrinsic* rotation sequence, meaning the rotations are performed sequentially about the axes of the moving BODY frame. To get from the NED frame `{n}` to the BODY frame `{b}`, one would perform:
 
-Each of these is a simple rotation, and the total rotation matrix from BODY to NED, denoted $$ R_{nb}(\Theta_{nb}) $$, is obtained by multiplying their individual rotation matrices. Note $$ \Theta_{nb} = [\phi, \theta, \psi]^T $$.
+1.  A **yaw** rotation ($$\psi$$) around the initial $$z_n$$-axis.
+2.  A **pitch** rotation ($$\theta$$) around the *new, once-rotated* y-axis.
+3.  A **roll** rotation ($$\phi$$) around the *final, twice-rotated* x-axis (which is now the $$x_b$$-axis).
+
+Our goal is to transform vectors *from* the BODY frame `{b}` *to* the NED frame `{n}`. This requires applying the inverse of the above sequence. The total rotation matrix, $$R_{nb}(\Theta_{nb})$$, is therefore a composition of the principal axis rotations applied in the order roll, then pitch, then yaw:
 
 $$ R_{nb}(\Theta_{nb}) = R_{z,\psi} R_{y,\theta} R_{x,\phi} $$
 
-The full matrix is:
+This specific order is chosen because it directly corresponds to the intuitive notions of yaw, pitch, and roll that define a vehicle's attitude. Performing the matrix multiplication yields the complete rotation matrix:
 
-$$ R(\Theta_{nb}) = \begin{bmatrix} c\psi c\theta & -s\psi c\phi + c\psi s\theta s\phi & s\psi s\phi + c\psi c\phi s\theta \\ s\psi c\theta & c\psi c\phi + s\phi s\theta s\psi & -c\psi s\phi + s\theta s\psi c\phi \\ -s\theta & c\theta s\phi & c\theta c\phi \end{bmatrix} $$
+$$ R_{nb}(\Theta_{nb}) = \begin{bmatrix} \cos\psi & -\sin\psi & 0 \\ \sin\psi & \cos\psi & 0 \\ 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} \cos\theta & 0 & \sin\theta \\ 0 & 1 & 0 \\ -\sin\theta & 0 & \cos\theta \end{bmatrix} \begin{bmatrix} 1 & 0 & 0 \\ 0 & \cos\phi & -\sin\phi \\ 0 & \sin\phi & \cos\phi \end{bmatrix} $$
+
+$$ R_{nb}(\Theta_{nb}) = \begin{bmatrix} c\psi c\theta & c\psi s\theta s\phi - s\psi c\phi & c\psi s\theta c\phi + s\psi s\phi \\ s\psi c\theta & s\psi s\theta s\phi + c\psi c\phi & s\psi s\theta c\phi - c\psi s\phi \\ -s\theta & c\theta s\phi & c\theta c\phi \end{bmatrix} $$
 
 (where $$c$$ is cos and $$s$$ is sin).
 
-### 4.6 Deriving the Kinematic Equations
+### 4.6 Deriving the 6-DOF Kinematic Equations
 
-With the rotation matrix defined, we can now build our bridge.
+With the rotation matrix fully defined, we can now derive the differential equations that connect the BODY frame velocities to the rate of change of the NED frame position and orientation.
 
-#### **Linear Velocity Transformation (Position)**
+#### 4.6.1 Linear Velocity Transformation
 
-The velocity of the glider in the BODY frame is $$ \mathbf{v}_b = [u, v, w]^T $$. To find the rate of change of its position in the NED frame, $$ \dot{\mathbf{p}}_n = [\dot{x}^n, \dot{y}^n, \dot{z}^n]^T $$, we simply rotate the BODY velocity vector into the NED frame:
+This transformation is straightforward. The linear velocity of the glider expressed in the BODY frame is $$\mathbf{v}_b = [u, v, w]^T$$. To find its velocity in the NED frame, which is the rate of change of its NED position vector $$\dot{\mathbf{p}}_n = [\dot{x}^n, \dot{y}^n, \dot{z}^n]^T$$, we simply rotate the BODY velocity vector using our derived matrix $$R_{nb}$$:
 
 $$ \dot{\mathbf{p}}_n = R_{nb}(\Theta_{nb}) \mathbf{v}_b $$
 
-This is the first half of our kinematic model.
+Expanding this matrix-vector product gives the component form of the linear kinematic equations:
 
-#### **Angular Velocity Transformation (Attitude)**
+$$ \dot{x}^n = u(c\psi c\theta) + v(c\psi s\theta s\phi - s\psi c\phi) + w(c\psi s\theta c\phi + s\psi s\phi) $$
+$$ \dot{y}^n = u(s\psi c\theta) + v(s\psi s\theta s\phi + c\psi c\phi) + w(s\psi s\theta c\phi - c\psi s\phi) $$
+$$ \dot{z}^n = u(-s\theta) + v(c\theta s\phi) + w(c\theta c\phi) $$
 
-This part is more subtle. The time derivatives of the Euler angles, $$ \dot{\Theta}_{nb} = [\dot{\phi}, \dot{\theta}, \dot{\psi}]^T $$, are not a simple rotation of the BODY frame angular velocities, $$ \mathbf{\omega}_b = [p, q, r]^T $$. This is because the axes for yaw, pitch, and roll rates are not orthogonal and are themselves moving. The relationship is linear but described by a different transformation matrix, $$ T(\Theta_{nb}) $$:
+#### 4.6.2 Angular Velocity Transformation
 
-$$ \dot{\Theta}_{nb} = T(\Theta_{nb}) \mathbf{\omega}_b $$
+This transformation is more subtle. The rates of change of the Euler angles, $$\dot{\Theta}_{nb} = [\dot{\phi}, \dot{\theta}, \dot{\psi}]^T$$, are *not* the same as the vehicle's angular velocity vector measured in the BODY frame, $$\mathbf{\omega}_b = [p, q, r]^T$$. This is because the Euler angle rates occur about axes that are not mutually orthogonal and are themselves moving.
 
-The matrix $$ T(\Theta_{nb}) $$ is:
+To find the relationship, we express the BODY angular velocity $$\mathbf{\omega}_b$$ as the sum of the Euler rates, with each rate's vector correctly projected into the BODY frame `{b}`.
 
-$$ T(\Theta_{nb}) = \begin{bmatrix} 1 & s\phi t\theta & c\phi t\theta \\ 0 & c\phi & -s\phi \\ 0 & s\phi/c\theta & c\phi/c\theta \end{bmatrix} $$
-(where `t` is tan).
+1.  The roll rate $$\dot{\phi}$$ occurs about the $$x_b$$ axis, so its contribution is simply $$[\dot{\phi}, 0, 0]^T$$.
+2.  The pitch rate $$\dot{\theta}$$ occurs about the intermediate y-axis. To express this in `{b}`, we must rotate it by $$-\phi$$ about the x-axis: $$R_{x,\phi}^T [0, \dot{\theta}, 0]^T$$.
+3.  The yaw rate $$\dot{\psi}$$ occurs about the initial $$z_n$$ axis. To express this in `{b}`, we must rotate it first by $$-\theta$$ about the y-axis, then by $$-\phi$$ about the x-axis: $$R_{x,\phi}^T R_{y,\theta}^T [0, 0, \dot{\psi}]^T$$.
 
-A critical flaw of Euler angles is evident here: when the pitch angle $$ \theta = \pm 90^\circ $$, $$ cos(\theta) = 0 $$, and the matrix $$ T $$ becomes singular. This condition is known as **Gimbal Lock**, where roll and yaw become indistinguishable.
+Summing these contributions gives the total angular velocity in the BODY frame:
+$$ \mathbf{\omega}_b = \begin{bmatrix} p \\ q \\ r \end{bmatrix} = \begin{bmatrix} \dot{\phi} \\ 0 \\ 0 \end{bmatrix} + R_{x,\phi}^T \begin{bmatrix} 0 \\ \dot{\theta} \\ 0 \end{bmatrix} + R_{x,\phi}^T R_{y,\theta}^T \begin{bmatrix} 0 \\ 0 \\ \dot{\psi} \end{bmatrix} $$
 
-#### **The Complete 6-DOF Kinematic Model**
+After performing the matrix multiplications, we arrive at:
+$$ \begin{bmatrix} p \\ q \\ r \end{bmatrix} = \begin{bmatrix} 1 & 0 & -s\theta \\ 0 & c\phi & s\phi c\theta \\ 0 & -s\phi & c\phi c\theta \end{bmatrix} \begin{bmatrix} \dot{\phi} \\ \dot{\theta} \\ \dot{\psi} \end{bmatrix} $$
 
-We can now assemble the complete model by combining the linear and angular equations into the compact matrix form we sought:
+We want the inverse relationship, to find the Euler rates from the measured body rates. By inverting the matrix, we get:
+$$ \dot{\Theta}_{nb} = \begin{bmatrix} \dot{\phi} \\ \dot{\theta} \\ \dot{\psi} \end{bmatrix} = \begin{bmatrix} 1 & s\phi t\theta & c\phi t\theta \\ 0 & c\phi & -s\phi \\ 0 & s\phi/c\theta & c\phi/c\theta \end{bmatrix} \begin{bmatrix} p \\ q \\ r \end{bmatrix} = T(\Theta_{nb}) \mathbf{\omega}_b $$
+(where $$t$$ is tan).
 
-$$ \dot{\eta} = \begin{bmatrix} \dot{\mathbf{p}}_n \\ \dot{\Theta}_{nb} \end{bmatrix} = \begin{bmatrix} R_{nb}(\Theta_{nb}) & \mathbf{0}_{3\times3} \\ \mathbf{0}_{3\times3} & T(\Theta_{nb}) \end{bmatrix} \begin{bmatrix} \mathbf{v}_b \\ \mathbf{\omega}_b \end{bmatrix} = J(\eta)\nu $$
+In component form, the angular kinematic equations are:
+$$ \dot{\phi} = p + q(s\phi t\theta) + r(c\phi t\theta) $$
+$$ \dot{\theta} = q(c\phi) - r(s\phi) $$
+$$ \dot{\psi} = q(s\phi/c\theta) + r(c\phi/c\theta) $$
 
-This equation is the final result of our kinematic analysis. It provides the exact differential relationship between the easily measured BODY frame velocities $$ \nu $$ and the globally relevant NED frame states $$ \eta $$. By numerically integrating this equation over time, a glider's navigation system can continuously track its position and attitude in the world.
+A critical flaw of Euler angles is evident in the matrix $$T(\Theta_{nb})$$: when the pitch angle $$\theta = \pm 90^\circ$$, $$\cos(\theta) = 0$$, and the terms with $$1/\cos(\theta)$$ become infinite. The matrix is singular, and this condition is known as **Gimbal Lock**, where roll and yaw motions become indistinguishable.
+
+#### 4.6.3 The Complete 6-DOF Kinematic Model
+
+We can now assemble the complete kinematic model by combining the linear and angular transformations into the compact block-matrix form we sought initially:
+
+$$ \dot{\eta} = \begin{bmatrix} \dot{\mathbf{p}}_n \\ \dot{\Theta}_{nb} \end{bmatrix} = \begin{bmatrix} R_{nb}(\Theta_{nb}) & \mathbf{0}_{3\times3} \\ \mathbf{0}_{3\times3} & T(\Theta_{nb}) \end{bmatrix} \begin{bmatrix} \mathbf{v}_b \\ \mathbf{\omega}_b \end{bmatrix} $$
+
+This is our final result, which can be written concisely as:
+
+$$ \dot{\eta} = J(\eta)\nu $$
+
+This single equation is the heart of kinematics. It provides the exact differential relationship between the BODY frame velocities $$\nu$$ (which are typically measured by an IMU or derived from kinetics) and the rate of change of the globally relevant NED frame states $$\eta$$. By numerically integrating this equation over time, a glider's navigation system can continuously track its position and attitude in the world.
 
 ## Conclusion
 
-We have successfully constructed the 6-DOF kinematic model for an underwater glider. This journey took us through the essential concepts of reference frames, the rigorous mathematics of $$ SO(3) $$ rotation matrices, and the practical (though flawed) parameterization using Euler angles. The final equation, $$ \dot{\eta} = J(\eta)\nu $$, represents the fundamental "bridge" connecting the glider's internal world to the external one.
+We have successfully constructed the 6-DOF kinematic model for an underwater glider. This journey took us through the essential concepts of reference frames, the rigorous mathematics of $$SO(3)$$ rotation matrices, the justification and application of the ZYX Euler angle convention, and a complete step-by-step derivation of the final transformation equations. The final result, $$\dot{\eta} = J(\eta)\nu$$, represents the fundamental "bridge" connecting the glider's internal, body-relative world to the external, navigation-oriented one.
 
-While we used Euler angles for their intuitive appeal, it is worth noting that modern GNC systems often use **Quaternions** to represent attitude. Quaternions provide a singularity-free and computationally efficient alternative, a topic for a future discussion. With this kinematic model in hand, the next step is to explore the world of kinetics—the hydrodynamic and buoyancy forces that generate the velocities $$ \nu $$ in the first place.
+While we used Euler angles for their intuitive appeal, it is worth noting that modern GNC systems often use **Quaternions** to represent attitude. Quaternions provide a singularity-free and computationally efficient alternative to avoid the problem of Gimbal Lock, a topic for a future discussion. With this kinematic model in hand, the next step is to explore the world of kinetics—the hydrodynamic and buoyancy forces that generate the velocities $$\nu$$ in the first place.
 
 ## References
 
