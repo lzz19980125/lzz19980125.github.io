@@ -246,16 +246,21 @@ To find the relationship, we express the BODY angular velocity $$\mathbf{\omega}
 3.  The yaw rate $$\dot{\psi}$$ occurs about the initial $$z_n$$ axis. To express this in `{b}`, we must rotate it first by $$-\theta$$ about the y-axis, then by $$-\phi$$ about the x-axis: $$R_{x,\phi}^T R_{y,\theta}^T [0, 0, \dot{\psi}]^T$$.
 
 Summing these contributions gives the total angular velocity in the BODY frame:
+
 $$ \mathbf{\omega}_b = \begin{bmatrix} p \\ q \\ r \end{bmatrix} = \begin{bmatrix} \dot{\phi} \\ 0 \\ 0 \end{bmatrix} + R_{x,\phi}^T \begin{bmatrix} 0 \\ \dot{\theta} \\ 0 \end{bmatrix} + R_{x,\phi}^T R_{y,\theta}^T \begin{bmatrix} 0 \\ 0 \\ \dot{\psi} \end{bmatrix} $$
 
 After performing the matrix multiplications, we arrive at:
+
 $$ \begin{bmatrix} p \\ q \\ r \end{bmatrix} = \begin{bmatrix} 1 & 0 & -s\theta \\ 0 & c\phi & s\phi c\theta \\ 0 & -s\phi & c\phi c\theta \end{bmatrix} \begin{bmatrix} \dot{\phi} \\ \dot{\theta} \\ \dot{\psi} \end{bmatrix} $$
 
 We want the inverse relationship, to find the Euler rates from the measured body rates. By inverting the matrix, we get:
+
 $$ \dot{\Theta}_{nb} = \begin{bmatrix} \dot{\phi} \\ \dot{\theta} \\ \dot{\psi} \end{bmatrix} = \begin{bmatrix} 1 & s\phi t\theta & c\phi t\theta \\ 0 & c\phi & -s\phi \\ 0 & s\phi/c\theta & c\phi/c\theta \end{bmatrix} \begin{bmatrix} p \\ q \\ r \end{bmatrix} = T(\Theta_{nb}) \mathbf{\omega}_b $$
+
 (where $$t$$ is tan).
 
 In component form, the angular kinematic equations are:
+
 $$ \dot{\phi} = p + q(s\phi t\theta) + r(c\phi t\theta) $$
 $$ \dot{\theta} = q(c\phi) - r(s\phi) $$
 $$ \dot{\psi} = q(s\phi/c\theta) + r(c\phi/c\theta) $$
