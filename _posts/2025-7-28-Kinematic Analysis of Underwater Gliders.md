@@ -145,7 +145,7 @@ The answer comes from **Euler's theorem on rotation**, which states that any ori
 
 $$ R_{\lambda,\beta} = I_{3\times3} + \sin(\beta) S(\lambda) + (1 - \cos(\beta)) S(\lambda)^2 $$
 
-where $$I$$ is the 3x3 identity matrix and $$λ$$ is a unit vector, i.e., $$ ||\lambda|| = 1 $$. This powerful formula can generate any rotation matrix and serves as the theoretical foundation for more specific parameterizations like Euler angles.
+where $$I$$ is the 3x3 identity matrix and $$λ$$ is a unit vector, i.e.,  ||λ|| = 1. This powerful formula can generate any rotation matrix and serves as the theoretical foundation for more specific parameterizations like Euler angles.
 
 ### 4.4 Building Blocks: Rotations about Principal Axes
 
