@@ -92,7 +92,7 @@ To formalize our analysis, we adopt the standard notation proposed by The Societ
 | 1    | Surge (in $$x_b$$ dir.)    | $$X$$                   | $$u$$                                     | $$x^n$$                               |
 | 2    | Sway (in $$y_b$$ dir.)     | $$Y$$                   | $$v$$                                     | $$y^n$$                               |
 | 3    | Heave (in $$z_b$$ dir.)    | $$Z$$                   | $$w$$                                     | $$z^n$$                               |
-| 4    | Roll (about $$x_b$$ axis)  | $$K$$                   | $$p$$                                     | $$φ$$ (phi)                           |
+| 4    | Roll (about $$x_b$$ axis)  | $$K$$                   | $$p$$                                     | $$\phi$$ (phi)                           |
 | 5    | Pitch (about $$y_b$$ axis) | $$M$$                   | $$q$$                                     | $$θ$$ (theta)                         |
 | 6    | Yaw (about $$z_b$$ axis)   | $$N$$                   | $$r$$                                     | $$ψ$$ (psi)                           |
 
@@ -183,9 +183,9 @@ For a pitch rotation of angle $$θ$$, the axis is $$λ = [0, 1, 0]^T$$. Followin
 
     $$ R_{y,\theta} = \begin{bmatrix} \cos\theta & 0 & \sin\theta \\ 0 & 1 & 0 \\ -\sin\theta & 0 & \cos\theta \end{bmatrix} $$
 
-#### **Rotation about the x-axis (Roll, $$φ$$)**
+#### **Rotation about the x-axis (Roll, $$\phi$$)**
 
-For a roll rotation of angle $$φ$$, the axis is $$λ = [1, 0, 0]^T$$:
+For a roll rotation of angle $$\phi$$, the axis is $$λ = [1, 0, 0]^T$$:
 
 1.  $$ S(\lambda) = \begin{bmatrix} 0 & 0 & 0 \\ 0 & 0 & -1 \\ 0 & 1 & 0 \end{bmatrix} $$
 
@@ -203,7 +203,7 @@ While $$ SO(3) $$ matrices are the correct mathematical objects, they are not ve
 
 1.  **Yaw ($$ψ$$)**: A rotation around the $$ z_n $$ axis.
 2.  **Pitch ($$θ$$)**: A rotation around the new (once-rotated) $$ y $$ axis.
-3.  **Roll ($$φ$$)**: A rotation around the final (twice-rotated) $$ x_b $$ axis.
+3.  **Roll ($$\phi$$)**: A rotation around the final (twice-rotated) $$ x_b $$ axis.
 
 Each of these is a simple rotation, and the total rotation matrix from BODY to NED, denoted $$ R_{nb}(\Theta_{nb}) $$, is obtained by multiplying their individual rotation matrices. Note $$ \Theta_{nb} = [\phi, \theta, \psi]^T $$.
 
