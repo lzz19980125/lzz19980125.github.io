@@ -232,7 +232,9 @@ $$ \dot{\mathbf{p}}_n = R_{nb}(\Theta_{nb}) \mathbf{v}_b $$
 Expanding this matrix-vector product gives the component form of the linear kinematic equations:
 
 $$ \dot{x}^n = u(c\psi c\theta) + v(c\psi s\theta s\phi - s\psi c\phi) + w(c\psi s\theta c\phi + s\psi s\phi) $$
+
 $$ \dot{y}^n = u(s\psi c\theta) + v(s\psi s\theta s\phi + c\psi c\phi) + w(s\psi s\theta c\phi - c\psi s\phi) $$
+
 $$ \dot{z}^n = u(-s\theta) + v(c\theta s\phi) + w(c\theta c\phi) $$
 
 #### 4.6.2 Angular Velocity Transformation
