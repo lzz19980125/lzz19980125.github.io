@@ -245,9 +245,9 @@ This transformation is more subtle. The rates of change of the Euler angles, $$\
 
 Think about the ZYX Tait-Bryan rotation sequence:
 
-1.  You yaw ($\psi$) around the NED z-axis.
-2.  You pitch ($\theta$) around the *new, once-rotated* y-axis.
-3.  You roll ($\phi$) around the *final, twice-rotated* x-axis.
+1.  You yaw ($$\psi$$) around the NED z-axis.
+2.  You pitch ($$\theta$$) around the *new, once-rotated* y-axis.
+3.  You roll ($$\phi$$) around the *final, twice-rotated* x-axis.
 
 To find the real relationship, we express the BODY angular velocity $$\mathbf{\omega}_b$$ as the sum of the Euler rates, with each rate's vector correctly projected into the BODY frame `{b}`.
 
@@ -304,5 +304,6 @@ While we used Euler angles for their intuitive appeal, it is worth noting that m
 [2] M. Yang, Y. Wang, X. Zhang, Y. Liang and C. Wang, "Parameterized Dynamic Modeling and Spiral Motion Pattern Analysis for Underwater Gliders," IEEE Journal of Oceanic Engineering, vol. 48, no. 1, pp. 112-126, 2023, doi: 10.1109/JOE.2022.3181896. 
 
 [3] Nomenclature for Treating the Motion of a Submerged Body Through a Fluid. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950, pp. 1-15.
+
 
 
