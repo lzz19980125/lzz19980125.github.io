@@ -64,6 +64,9 @@ The interaction between a vehicle and the surrounding fluid, as well as its path
 
 *   **Angle of Attack ($$\alpha$$)**: The angle between the vehicle's longitudinal axis ($$x_b$$) and the projection of the **relative velocity vector** onto the vehicle's vertical symmetry plane ($$x_b-z_b$$ plane). It is the primary driver for generating lift on the wings.
 *   **Sideslip Angle ($$\beta$$)**: The sideslip angle ($$\beta$$) is defined as the angle between the **relative velocity vector** and its projection onto the vehicle's vertical symmetry plane ($$x_b-z_b$$ plane).
+
+The angle of attack $$\alpha$$ and sideslip angle $$\beta$$ are primarily used to determine the lift coefficient $$C_{L}$$ and drag coefficient $$C_{D}$$ from wind tunnel or towing tank experimental data. These coefficients are generally expressed as functions of $$\alpha$$ and $$\beta$$.
+
 *   **Heading Angle ($$\psi$$)**: The direction the vehicle's longitudinal axis ($$x_b$$) is pointing, measured clockwise from True North in the horizontal plane. This represents the vehicle's commanded orientation and is typically measured by a compass.
 *   **Course Angle ($$\chi$$)**: The direction of the vehicle's velocity vector relative to the ground, measured clockwise from True North. This represents the vehicle's actual path of travel and is typically measured by a GPS as "Course Over Ground".
 *   **Horizontal Crab Angle ($$\beta_c$$)**: The angle between the vehicle's heading and its course, representing the sideways drift over the ground due to external forces like wind or currents. It is defined by the relationship $$ \chi = \psi + \beta_c $$.
@@ -304,6 +307,7 @@ While we used Euler angles for their intuitive appeal, it is worth noting that m
 [2] M. Yang, Y. Wang, X. Zhang, Y. Liang and C. Wang, "Parameterized Dynamic Modeling and Spiral Motion Pattern Analysis for Underwater Gliders," IEEE Journal of Oceanic Engineering, vol. 48, no. 1, pp. 112-126, 2023, doi: 10.1109/JOE.2022.3181896. 
 
 [3] Nomenclature for Treating the Motion of a Submerged Body Through a Fluid. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950, pp. 1-15.
+
 
 
 
