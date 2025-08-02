@@ -243,7 +243,13 @@ $$ \dot{z}^n = u(-s\theta) + v(c\theta s\phi) + w(c\theta c\phi) $$
 
 This transformation is more subtle. The rates of change of the Euler angles, $$\dot{\Theta}_{nb} = [\dot{\phi}, \dot{\theta}, \dot{\psi}]^T$$, are *not* the same as the vehicle's angular velocity vector measured in the BODY frame, $$\mathbf{\omega}_b = [p, q, r]^T$$. This is because the Euler angle rates occur about axes that are not mutually orthogonal and are themselves moving.
 
-To find the relationship, we express the BODY angular velocity $$\mathbf{\omega}_b$$ as the sum of the Euler rates, with each rate's vector correctly projected into the BODY frame `{b}`.
+Think about the ZYX Tait-Bryan rotation sequence:
+
+1.  You yaw ($\psi$) around the NED z-axis.
+2.  You pitch ($\theta$) around the *new, once-rotated* y-axis.
+3.  You roll ($\phi$) around the *final, twice-rotated* x-axis.
+
+To find the real relationship, we express the BODY angular velocity $$\mathbf{\omega}_b$$ as the sum of the Euler rates, with each rate's vector correctly projected into the BODY frame `{b}`.
 
 1.  The roll rate $$\dot{\phi}$$ occurs about the $$x_b$$ axis, so its contribution is simply $$[\dot{\phi}, 0, 0]^T$$.
 2.  The pitch rate $$\dot{\theta}$$ occurs about the intermediate y-axis. To express this in `{b}`, we must rotate it by $$-\phi$$ about the x-axis: $$R_{x,\phi}^T [0, \dot{\theta}, 0]^T$$.
@@ -298,4 +304,5 @@ While we used Euler angles for their intuitive appeal, it is worth noting that m
 [2] M. Yang, Y. Wang, X. Zhang, Y. Liang and C. Wang, "Parameterized Dynamic Modeling and Spiral Motion Pattern Analysis for Underwater Gliders," IEEE Journal of Oceanic Engineering, vol. 48, no. 1, pp. 112-126, 2023, doi: 10.1109/JOE.2022.3181896. 
 
 [3] Nomenclature for Treating the Motion of a Submerged Body Through a Fluid. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950, pp. 1-15.
+
 
