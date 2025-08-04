@@ -150,6 +150,8 @@ $$ R_{\lambda,\beta} = I_{3\times3} + \sin(\beta) S(\lambda) + (1 - \cos(\beta))
 
 where $$I$$ is the 3x3 identity matrix and $$λ$$ is a unit vector, **with determinant equal to one.** This powerful formula can generate any rotation matrix and serves as the theoretical foundation for more specific parameterizations like Euler angles.
 
+**For a detailed derivation of Rodrigues’ Rotation Formula, please refer to:** https://www.cnblogs.com/wtyuan/p/12324495.html
+
 ### 4.4 Building Blocks: Rotations about Principal Axes
 
 Euler angles describe a vehicle's orientation as a sequence of three simple rotations around principal axes (like x, y, or z). Each of these simple rotations is a direct application of Rodrigues' formula, where the rotation axis  $$λ$$  is one of the standard basis vectors. Let's derive these fundamental building blocks.
@@ -307,6 +309,7 @@ While we used Euler angles for their intuitive appeal, it is worth noting that m
 [2] M. Yang, Y. Wang, X. Zhang, Y. Liang and C. Wang, "Parameterized Dynamic Modeling and Spiral Motion Pattern Analysis for Underwater Gliders," IEEE Journal of Oceanic Engineering, vol. 48, no. 1, pp. 112-126, 2023, doi: 10.1109/JOE.2022.3181896. 
 
 [3] Nomenclature for Treating the Motion of a Submerged Body Through a Fluid. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950, pp. 1-15.
+
 
 
 
