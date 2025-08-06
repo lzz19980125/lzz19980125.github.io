@@ -207,15 +207,15 @@ The transformation of the full dynamic system from CG to CO is achieved by apply
 
 $$ M_{RB}^{CG} \dot{\nu}_g + C_{RB}^{CG}(\nu_g) \nu_g = \tau_g $$
 
-By substituting $$\nu_g = H(r_{bg}^b) \nu_b$$ and applying some algebraic manipulation (pre-multiplying by $$H(r_{bg}^b)^{T}$$), we arrive at the final form expressed about the CO:
+By substituting $$\nu_g = H(r_{bg}^b) \nu_b$$ and applying some algebraic manipulation (pre-multiplying by $$H^{T}(r_{bg}^b)$$), we arrive at the final form expressed about the CO:
 
-$$ (H(r_{bg}^b)^{T} M_{RB}^{CG} H(r_{bg}^b)) \dot{\nu}_b + (H(r_{bg}^b)^{T} C_{RB}^{CG} H(r_{bg}^b)) \nu_b = H(r_{bg}^b)^{T} \tau_g $$
+$$ (H^{T}(r_{bg}^b) M_{RB}^{CG} H(r_{bg}^b)) \dot{\nu}_b + (H^{T}(r_{bg}^b) C_{RB}^{CG} H(r_{bg}^b)) \nu_b = H^{T}(r_{bg}^b) \tau_g $$
 
 This gives us the final mass and Coriolis matrices about the CO:
 
-$$ M_{RB} = H(r_{bg}^b)^{T} M_{RB}^{CG} H(r_{bg}^b) $$
+$$ M_{RB} = H^{T}(r_{bg}^b) M_{RB}^{CG} H(r_{bg}^b) $$
 
-$$ C_{RB}(\nu_b) = H(r_{bg}^b)^{T} C_{RB}^{CG} H(r_{bg}^b) $$
+$$ C_{RB}(\nu_b) = H^{T}(r_{bg}^b) C_{RB}^{CG} H(r_{bg}^b) $$
 
 ### 5.3 The Power of the Parallel-Axis Theorem
 
@@ -266,6 +266,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
