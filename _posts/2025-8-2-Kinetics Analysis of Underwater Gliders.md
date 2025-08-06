@@ -81,9 +81,9 @@ The **Transport Theorem**, or the rule for differentiating a vector in a moving 
 
 $$ \frac{d}{dt}(a) \bigg|_i = \frac{d}{dt}(a) \bigg|_b + \omega_{ib} \times a $$
 
-**Intuitive Explanation:** Imagine standing on a spinning merry-go-round `{b}` and extending your arm $$a$$. An observer on the ground (`{i}`) sees your arm's velocity $$\frac{d}{dt} (a) \bigg|_i$$
+**Intuitive Explanation:** Imagine standing on a spinning merry-go-round `{b}` and extending your arm $$a$$. An observer on the ground (`{i}`) sees your arm's velocity $$\frac{d}{dt} (a) |_i$$
 as a combination of two things: how fast you are moving your arm relative to the merry-go-round 
-$$\frac{d}{dt} (a) \bigg|_b$$,
+$$\frac{d}{dt} (a) |_b$$,
 plus the velocity imparted to your arm simply by the merry-go-round's rotation $$\omega_{ib} \times a$$.
 
 This theorem is our bridge between the two reference frames.
@@ -94,11 +94,13 @@ Let's apply the Transport Theorem to Newton's Second Law. We start with the law 
 
 $$ f_g = \frac{d}{dt} (m v_{ng}) \bigg|_n = m \frac{d v_{ng}}{dt} \bigg|_n $$
 
-Now, we use the theorem to express the inertial derivative $$\frac{d}{dt}( \bigg|_n$$ in terms of the body-frame derivative $$\frac{d}{dt}( \bigg|_b$$:
+Now, we use the theorem to express the inertial derivative $$\frac{d}{dt}( \bigg|_n$$ in terms of the body-frame derivative 
+$$\frac{d}{dt}( |_b$$:
 
 $$ f_g^b = m \left( \frac{d v_{ng}^b}{dt} \bigg|_b + \omega_{nb}^b \times v_{ng}^b \right) $$
 
-Here, we've expressed all vectors in the BODY frame `{b}`. Using dot notation for the body-frame derivative $$\dot{v} = \frac{dv}{dt}( \bigg|_b$$, we get:
+Here, we've expressed all vectors in the BODY frame `{b}`. Using dot notation for the body-frame derivative 
+$$\dot{v} = \frac{dv}{dt}( |_b$$, we get:
 
 $$ f_g^b = m (\dot{v}_{ng}^b + \omega_{nb}^b \times v_{ng}^b) $$
 
@@ -230,6 +232,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
