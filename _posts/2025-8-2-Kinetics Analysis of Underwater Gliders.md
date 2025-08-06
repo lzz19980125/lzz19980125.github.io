@@ -108,6 +108,22 @@ $$ f_g^b = m (\dot{v}_{ng}^b + \omega_{nb}^b \times v_{ng}^b) $$
 
 The term $$ m(\omega_{nb}^b \times v_{ng}^b) $$ is the **centripetal force** that appears because we are observing the motion from a rotating frame.
 
+### 4.3 Transforming the Angular Motion Equation
+
+We follow the exact same procedure for Euler's Law. We start in the inertial frame:
+
+$$ m_g = \frac{d}{dt} (I_g \omega_{nb}) \bigg|_n $$
+
+Applying the Transport Theorem:
+
+$$ m_g^b = \frac{d}{dt} (I_g^b \omega_{nb}^b) \bigg|_b + \omega_{nb}^b \times (I_g^b \omega_{nb}^b) $$
+
+Since the inertia tensor $$I_g^b$$ is constant in the BODY frame, the derivative only applies to $$\omega_{nb}^b$$:
+
+$$ m_g^b = I_g^b \dot{\omega}_{nb}^b + \omega_{nb}^b \times (I_g^b \omega_{nb}^b) $$
+
+The term $$ \omega_{nb}^b \times (I_g^b \omega_{nb}^b) $$ represents the **gyroscopic moments** that arise from describing rotational motion in a rotating frame.
+
 #### Defining the Inertia Tensor $$I_g^b$$
 
 The **inertia tensor** $$I_g^b$$ is a 3x3 symmetric matrix that describes how a rigid body's mass is distributed relative to the center of gravity (CG). It quantifies the body's resistance to angular acceleration. It is defined as:
@@ -133,22 +149,6 @@ The matrix consists of two types of components:
     $$ I_{yz} = I_{zy} = \int_V (yz) \rho_m dV $$
 
 With this full definition of $$I_g^b$$, our transformed angular motion equation is now complete, providing a precise relationship between applied moments and resulting angular accelerations in the body frame.
-
-### 4.3 Transforming the Angular Motion Equation
-
-We follow the exact same procedure for Euler's Law. We start in the inertial frame:
-
-$$ m_g = \frac{d}{dt} (I_g \omega_{nb}) \bigg|_n $$
-
-Applying the Transport Theorem:
-
-$$ m_g^b = \frac{d}{dt} (I_g^b \omega_{nb}^b) \bigg|_b + \omega_{nb}^b \times (I_g^b \omega_{nb}^b) $$
-
-Since the inertia tensor $$I_g^b$$ is constant in the BODY frame, the derivative only applies to $$\omega_{nb}^b$$:
-
-$$ m_g^b = I_g^b \dot{\omega}_{nb}^b + \omega_{nb}^b \times (I_g^b \omega_{nb}^b) $$
-
-The term $$ \omega_{nb}^b \times (I_g^b \omega_{nb}^b) $$ represents the **gyroscopic moments** that arise from describing rotational motion in a rotating frame.
 
 ### 4.4 Assembled Equations about CG (in Body Frame)
 
@@ -260,6 +260,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
