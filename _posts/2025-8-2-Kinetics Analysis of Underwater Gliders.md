@@ -139,13 +139,19 @@ $$
 The matrix consists of two types of components:
 
 1.  **Moments of Inertia (Diagonal Elements):** The terms $$I_x$$, $$I_y$$, and $$I_z$$ represent the resistance to angular acceleration about the principal body axes ($$x_b$$, $$y_b$$, and $$z_b$$, respectively). They are calculated by integrating the squared distance of each mass element from the axis of rotation:
+
     $$ I_x = \int_V (y^2 + z^2) \rho_m dV $$
+    
     $$ I_y = \int_V (x^2 + z^2) \rho_m dV $$
+    
     $$ I_z = \int_V (x^2 + y^2) \rho_m dV $$
 
 2.  **Products of Inertia (Off-Diagonal Elements):** The terms $$I_{xy}$$, $$I_{xz}$$, and $$I_{yz}$$ represent the asymmetry of the mass distribution. A non-zero product of inertia (e.g., $$I_{xy}$$) implies that angular acceleration about one axis will induce a moment about another axis. For bodies with significant geometric symmetry, these terms are often zero or negligible. They are calculated as:
+
     $$ I_{xy} = I_{yx} = \int_V (xy) \rho_m dV $$
+    
     $$ I_{xz} = I_{zx} = \int_V (xz) \rho_m dV $$
+    
     $$ I_{yz} = I_{zy} = \int_V (yz) \rho_m dV $$
 
 With this full definition of $$I_g^b$$, our transformed angular motion equation is now complete, providing a precise relationship between applied moments and resulting angular accelerations in the body frame.
@@ -260,6 +266,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
