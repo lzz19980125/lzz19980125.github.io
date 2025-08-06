@@ -136,7 +136,7 @@ $$
 \begin{bmatrix} f_g^b \\ m_g^b \end{bmatrix}
 $$
 
-(Note: we used the skew-symmetric matrix $$S(\cdot)$$ to represent the cross product, e.g., $$a \times b = S(a)b$$).
+Note: we used the skew-symmetric matrix $$S(\cdot)$$ to represent the cross product, e.g., $$a \times b = S(a)b$$.
 
 This is a major step forward! The matrices represent the mass ($$M_{RB}^{CG}$$) and Coriolis ($$C_{RB}^{CG}$$) terms for a system described about its CG. Notice the block-diagonal structure; at the CG, linear and angular dynamics are decoupled in the mass matrix.
 
@@ -234,6 +234,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
