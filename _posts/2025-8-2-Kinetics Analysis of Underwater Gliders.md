@@ -94,13 +94,15 @@ Let's apply the Transport Theorem to Newton's Second Law. We start with the law 
 
 $$ f_g = \frac{d}{dt} (m v_{ng}) \bigg|_n = m \frac{d v_{ng}}{dt} \bigg|_n $$
 
-Now, we use the theorem to express the inertial derivative $$\frac{d}{dt}( \bigg|_n$$ in terms of the body-frame derivative 
-$$\frac{d}{dt}( |_b$$:
+Now, we use the theorem to express the inertial derivative 
+$$\frac{d}{dt}|_n$$ 
+in terms of the body-frame derivative 
+$$\frac{d}{dt}|_b$$:
 
 $$ f_g^b = m \left( \frac{d v_{ng}^b}{dt} \bigg|_b + \omega_{nb}^b \times v_{ng}^b \right) $$
 
 Here, we've expressed all vectors in the BODY frame `{b}`. Using dot notation for the body-frame derivative 
-$$\dot{v} = \frac{dv}{dt}( |_b$$, we get:
+$$\dot{v} = \frac{dv}{dt}|_b$$, we get:
 
 $$ f_g^b = m (\dot{v}_{ng}^b + \omega_{nb}^b \times v_{ng}^b) $$
 
@@ -232,6 +234,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
