@@ -240,6 +240,7 @@ $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$
 where:
 
 *   The **Rigid-Body Mass Matrix** $$M_{RB}$$ is constant, symmetric, and positive-definite:
+  
     $$
     M_{RB} = \begin{bmatrix} m I_{3\times3} & -m S(r_{bg}^b) \\ m S(r_{bg}^b) & I_b \end{bmatrix}
     $$
@@ -266,6 +267,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
