@@ -15,7 +15,7 @@ tags:
 
 ## Introduction
 
-In our [previous post on Kinematics](/posts/2025-7-28-Kinematic-Analysis-of-Underwater-Gliders), we built the mathematical bridge that connects a vehicle's body-frame velocities to its position and orientation in the world. We answered the question: "Given the vehicle's velocity, where is it going?" Now, we turn to the other half of the dynamics puzzle: **Kinetics**.
+In our [previous post on Kinematics](https://lzz19980125.github.io/posts/2025-7-28-Kinematic%20Analysis%20of%20Underwater%20Gliders), we built the mathematical bridge that connects a vehicle's body-frame velocities to its position and orientation in the world. We answered the question: "Given the vehicle's velocity, where is it going?" Now, we turn to the other half of the dynamics puzzle: **Kinetics**.
 
 Kinetics is the study of the *forces and moments* that cause motion. It answers the fundamental question: "Given the forces acting on the vehicle, how will its velocity change?" This is the realm of Newton's second law (`F=ma`) and its rotational equivalent.
 
@@ -221,5 +221,6 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
