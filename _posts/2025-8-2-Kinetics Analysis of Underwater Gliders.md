@@ -5,7 +5,7 @@ category: Autonomous marine systems
 permalink: /posts/2025-8-2-Kinetics Analysis of Underwater Gliders
 layout: single
 classes: wide
-excerpt: "This article presents a fundamental kinetics analysis of underwater gliders. <br/><img src='../images/2025-08-02_124050.jpg'>"
+excerpt: "This article presents a fundamental kinetics analysis of underwater gliders. <br/><img src='../images/2025-08-06_210758.jpg'>"
 tags:
   - Autonomous marine systems
   - Kinematics and kinetics
@@ -266,6 +266,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
