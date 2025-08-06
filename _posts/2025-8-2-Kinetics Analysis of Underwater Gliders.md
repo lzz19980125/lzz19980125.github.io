@@ -32,7 +32,7 @@ In short: $$dynamics = kinematics + kinetics$$. This article is dedicated to the
 
 $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$
 
-This equation describes how the total external forces and moments, $$\tau_{RB}$$, generate linear and angular accelerations, $$\dot{\nu}$$.
+This equation describes how **the total external forces and moments**, $$\tau_{RB}$$, generate linear and angular accelerations, $$\dot{\nu}$$.
 
 ## 2. The Cast of Characters: Frames, Points, and Velocities
 
@@ -50,7 +50,7 @@ We use the standard SNAME notation for our state vectors:
 *   **Generalized velocity in BODY `{b}`**: $$ \nu = [u, v, w, p, q, r]^T $$
 *   **Generalized force in BODY `{b}`**: $$ \tau_{RB} = [X, Y, Z, K, M, N]^T $$
 
-Our task is to find the matrices $$M_{RB}$$ (Rigid-Body Mass) and $$C_{RB}(\nu)$$ (Rigid-Body Coriolis and Centripetal) that govern the relationship between these vectors.
+Our task is to find the matrices $$M_{RB}$$ **(Rigid-Body Mass)** and $$C_{RB}(\nu)$$ **(Rigid-Body Coriolis and Centripetal)** that govern the relationship between these vectors.
 
 ## 3. The Golden Standard: Newton-Euler Equations in an Inertial Frame
 
@@ -234,6 +234,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
