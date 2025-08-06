@@ -131,7 +131,7 @@ We can now combine the transformed linear and angular equations into a single 6-
 $$
 \begin{bmatrix} m I_{3\times3} & 0_{3\times3} \\ 0_{3\times3} & I_g^b \end{bmatrix}
 \begin{bmatrix} \dot{v}_{ng}^b \\ \dot{\omega}_{nb}^b \end{bmatrix} +
-\begin{bmatrix} 0_{3\times3} & m S(\omega_{nb}^b) \\ 0_{3\times3} & -S(I_g^b \omega_{nb}^b) \end{bmatrix}
+\begin{bmatrix} m S(\omega_{nb}^b) & 0_{3\times3}\\ 0_{3\times3} & -S(I_g^b \omega_{nb}^b) \end{bmatrix}
 \begin{bmatrix} v_{ng}^b \\ \omega_{nb}^b \end{bmatrix} =
 \begin{bmatrix} f_g^b \\ m_g^b \end{bmatrix}
 $$
@@ -234,6 +234,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
