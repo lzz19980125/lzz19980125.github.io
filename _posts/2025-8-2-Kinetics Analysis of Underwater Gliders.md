@@ -43,7 +43,7 @@ Before we dive into the laws of motion, let's re-establish our key reference fra
 *   **Coordinate Origin (CO)**: The origin $$O_b$$ of the BODY frame `{b}`. This is a fixed point on the vehicle, often its geometric center. It's the reference point for our final equations.
 *   **Center of Gravity (CG)**: The point where the total gravitational force acts. Newton's laws are naturally formulated about this point. The position of the CG relative to the CO is given by the vector $$r_{bg}^b$$.
 
-<br/><img src='../images/2025-07-30_212303.jpg'>
+<br/><img src='../images/2025-08-06_185736.jpg'>
 
 We use the standard SNAME notation for our state vectors:
 
@@ -234,6 +234,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
