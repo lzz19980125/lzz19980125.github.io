@@ -19,7 +19,7 @@ In our previous post on Kinematics, we built the mathematical bridge that connec
 
 Kinetics is the study of the *forces and moments* that cause motion. It answers the fundamental question: "Given the forces acting on the vehicle, how will its velocity change?" This is the realm of Newton's second law $$F=ma$$ and its rotational equivalent.
 
-However, applying these simple laws to a complex 6-DOF marine vehicle is not straightforward. The laws are defined in an idealized, non-accelerating inertial frame, but our vehicle operates in a rotating, **body-fixed frame.** This post will systematically walk through the process of translating these fundamental physical laws into a practical, complete 6-DOF rigid-body kinetic model, forming the core of any vehicle's GNC system.
+However, applying these simple laws to a complex 6-DOF marine vehicle is not straightforward. The laws are defined in an idealized, non-accelerating inertial frame, but our vehicle operates in a rotating, **body-fixed frame.** This post will systematically walk through the process of translating these fundamental physical laws into a practical, complete 6-DOF rigid-body kinetic model, forming the core of any vehicle's *GNC system (Guidance, Navigation, and Control System).*
 
 ## 1. What is Kinetics?
 
@@ -234,6 +234,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
