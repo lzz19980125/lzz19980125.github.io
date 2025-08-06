@@ -81,7 +81,7 @@ The **Transport Theorem**, or the rule for differentiating a vector in a moving 
 
 $$ \frac{d}{dt}(a) \bigg|_i = \frac{d}{dt}(a) \bigg|_b + \omega_{ib} \times a $$
 
-**Intuitive Explanation:** Imagine standing on a spinning merry-go-round `{b}` and extending your arm $$a$$. An observer on the ground (`{i}`) sees your arm's velocity $$\frac{d(a)}{dt}( \bigg|_i$$ as a combination of two things: how fast you are moving your arm relative to the merry-go-round $$\frac{d(a)}{dt}( \bigg|_b$$, plus the velocity imparted to your arm simply by the merry-go-round's rotation $$\omega_{ib} \times a$$.
+**Intuitive Explanation:** Imagine standing on a spinning merry-go-round `{b}` and extending your arm $$a$$. An observer on the ground (`{i}`) sees your arm's velocity $$\frac{d}{dt} (a) \bigg|_i$$as a combination of two things: how fast you are moving your arm relative to the merry-go-round $$\frac{d}{dt} (a) \bigg|_b$$, plus the velocity imparted to your arm simply by the merry-go-round's rotation $$\omega_{ib} \times a$$.
 
 This theorem is our bridge between the two reference frames.
 
@@ -227,6 +227,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
