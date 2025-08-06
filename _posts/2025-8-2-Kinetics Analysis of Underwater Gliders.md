@@ -15,9 +15,9 @@ tags:
 
 ## Introduction
 
-In our [previous post on Kinematics](https://lzz19980125.github.io/posts/2025-7-28-Kinematic%20Analysis%20of%20Underwater%20Gliders), we built the mathematical bridge that connects a vehicle's body-frame velocities to its position and orientation in the world. We answered the question: "Given the vehicle's velocity, where is it going?" Now, we turn to the other half of the dynamics puzzle: **Kinetics**.
+In our previous post on Kinematics, we built the mathematical bridge that connects a vehicle's body-frame velocities to its position and orientation in the world. We answered the question: "Given the vehicle's velocity, where is it going?" Now, we turn to the other half of the dynamics puzzle: **Kinetics**.
 
-Kinetics is the study of the *forces and moments* that cause motion. It answers the fundamental question: "Given the forces acting on the vehicle, how will its velocity change?" This is the realm of Newton's second law (`F=ma`) and its rotational equivalent.
+Kinetics is the study of the *forces and moments* that cause motion. It answers the fundamental question: "Given the forces acting on the vehicle, how will its velocity change?" This is the realm of Newton's second law $$F=ma$$ and its rotational equivalent.
 
 However, applying these simple laws to a complex 6-DOF marine vehicle is not straightforward. The laws are defined in an idealized, non-accelerating inertial frame, but our vehicle operates in a rotating, body-fixed frame. This post will systematically walk through the process of translating these fundamental physical laws into a practical, complete 6-DOF rigid-body kinetic model, forming the core of any vehicle's GNC system.
 
@@ -81,7 +81,7 @@ The **Transport Theorem**, or the rule for differentiating a vector in a moving 
 
 $$ \frac{d}{dt}(a) \bigg|_i = \frac{d}{dt}(a) \bigg|_b + \omega_{ib} \times a $$
 
-*   **Intuitive Explanation:** Imagine standing on a spinning merry-go-round (`{b}`) and extending your arm (`a`). An observer on the ground (`{i}`) sees your arm's velocity (`d(a)/dt|_i`) as a combination of two things: how fast you are moving your arm relative to the merry-go-round (`d(a)/dt|_b`), plus the velocity imparted to your arm simply by the merry-go-round's rotation (`\omega_{ib} \times a`).
+*   **Intuitive Explanation:** Imagine standing on a spinning merry-go-round `{b}` and extending your arm $$a$$. An observer on the ground (`{i}`) sees your arm's velocity $$d(a)/dt|_i$$ as a combination of two things: how fast you are moving your arm relative to the merry-go-round $$d(a)/dt|_b$$, plus the velocity imparted to your arm simply by the merry-go-round's rotation $$\omega_{ib} \times a$$.
 
 This theorem is our bridge between the two reference frames.
 
@@ -91,11 +91,11 @@ Let's apply the Transport Theorem to Newton's Second Law. We start with the law 
 
 $$ f_g = \frac{d}{dt} (m v_{ng}) \bigg|_n = m \frac{d v_{ng}}{dt} \bigg|_n $$
 
-Now, we use the theorem to express the inertial derivative `d/dt|_n` in terms of the body-frame derivative `d/dt|_b`:
+Now, we use the theorem to express the inertial derivative $$d/dt|_n$$ in terms of the body-frame derivative $$d/dt|_b$$:
 
 $$ f_g^b = m \left( \frac{d v_{ng}^b}{dt} \bigg|_b + \omega_{nb}^b \times v_{ng}^b \right) $$
 
-Here, we've expressed all vectors in the BODY frame `{b}`. Using dot notation for the body-frame derivative (`\dot{v} = dv/dt|_b`), we get:
+Here, we've expressed all vectors in the BODY frame `{b}`. Using dot notation for the body-frame derivative $$\dot{v} = dv/dt|_b$$, we get:
 
 $$ f_g^b = m (\dot{v}_{ng}^b + \omega_{nb}^b \times v_{ng}^b) $$
 
@@ -128,6 +128,7 @@ $$
 \begin{bmatrix} v_{ng}^b \\ \omega_{nb}^b \end{bmatrix} =
 \begin{bmatrix} f_g^b \\ m_g^b \end{bmatrix}
 $$
+
 (Note: we used the skew-symmetric matrix $$S(\cdot)$$ to represent the cross product, e.g., $$a \times b = S(a)b$$).
 
 This is a major step forward! The matrices represent the mass ($$M_{RB}^{CG}$$) and Coriolis ($$C_{RB}^{CG}$$) terms for a system described about its CG. Notice the block-diagonal structure; at the CG, linear and angular dynamics are decoupled in the mass matrix.
@@ -146,6 +147,7 @@ Therefore, we must perform a final transformation to express the equations of mo
 First, we need to relate the velocities of the CG and the CO. The velocity of the CG ($$v_{ng}$$) is the velocity of the CO ($$v_{nb}$$) plus the velocity of the CG relative to the CO due to the body's rotation.
 
 $$ v_{ng}^b = v_{nb}^b + \omega_{nb}^b \times r_{bg}^b $$
+
 where $$r_{bg}^b$$ is the vector from the CO to the CG.
 
 This relationship, along with the fact that angular velocity is the same for the whole rigid body ($$\omega_{ng}^b = \omega_{nb}^b$$), can be written compactly using a transformation matrix, often called the **H-matrix**:
@@ -173,6 +175,7 @@ $$ (H^{-T} M_{RB}^{CG} H^{-1}) \dot{\nu}_b + (H^{-T} C_{RB}^{CG} H^{-1}) \nu_b =
 This gives us the final mass and Coriolis matrices about the CO:
 
 $$ M_{RB} = H^{-T} M_{RB}^{CG} H^{-1} $$
+
 $$ C_{RB}(\nu_b) = H^{-T} C_{RB}^{CG}(H^{-1}\nu_b) H^{-1} $$
 
 ### 5.3 The Power of the Parallel-Axis Theorem
@@ -182,6 +185,7 @@ Let's expand the new mass matrix $$M_{RB}$$. Performing the matrix multiplicatio
 $$
 M_{RB} = \begin{bmatrix} m I_{3\times3} & -m S(r_{bg}^b) \\ m S(r_{bg}^b) & I_g^b - m S(r_{bg}^b)S(r_{bg}^b) \end{bmatrix}
 $$
+
 The bottom-right block, $$I_g^b - m S(r_{bg}^b)S(r_{bg}^b)$$, is of special interest. This is precisely the mathematical expression for the **Huygens-Steiner Parallel-Axis Theorem**, which transforms the inertia tensor from being about the CG to being about the new origin, CO. We can define this as the inertia tensor about the CO:
 
 $$ I_b = I_g^b - m S^2(r_{bg}^b) $$
@@ -205,6 +209,7 @@ where:
     $$
     C_{RB}(\nu) = \begin{bmatrix} 0_{3\times3} & -m S(v_1) - m S(S(v_2)r_{bg}^b) \\ -m S(v_1) - m S(S(v_2)r_{bg}^b) & -S(I_b v_2) \end{bmatrix}
     $$
+    
     (where $$\nu = [v_1^T, v_2^T]^T$$). The skew-symmetry property is vital in control theory, as it implies that the Coriolis and centripetal forces do no work on the system ($$\nu^T C_{RB} \nu = 0$$), a key element in proving the stability of many nonlinear control laws.
 
 ## Conclusion
@@ -221,6 +226,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
