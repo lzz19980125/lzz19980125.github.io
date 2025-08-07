@@ -215,7 +215,7 @@ This gives us the final mass and Coriolis matrices about the CO:
 
 $$ M_{RB} = H^{T}(r_{bg}^b) M_{RB}^{CG} H(r_{bg}^b) $$
 
-$$ C_{RB}(\nu_b) = H^{T}(r_{bg}^b) C_{RB}^{CG} H(r_{bg}^b) $$
+$$ C_{RB} = H^{T}(r_{bg}^b) C_{RB}^{CG} H(r_{bg}^b) $$
 
 ### 5.3 The Power of the Parallel-Axis Theorem
 
@@ -267,6 +267,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
