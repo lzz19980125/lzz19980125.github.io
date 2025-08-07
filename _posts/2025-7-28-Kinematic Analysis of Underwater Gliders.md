@@ -298,9 +298,41 @@ This single equation is the heart of kinematics. It provides the exact different
 
 ## Conclusion
 
-We have successfully constructed the 6-DOF kinematic model for an underwater glider. This journey took us through the essential concepts of reference frames, the rigorous mathematics of $$SO(3)$$ rotation matrices, the justification and application of the ZYX Euler angle convention, and a complete step-by-step derivation of the final transformation equations. The final result, $$\dot{\eta} = J(\eta)\nu$$, represents the fundamental "bridge" connecting the glider's internal, body-relative world to the external, navigation-oriented one.
+In this post, we have systematically constructed the complete 6-DOF kinematic model for an underwater glider. Starting with the fundamental definitions of coordinate frames and motion parameters, we progressed through the rigorous mathematics of $$SO(3)$$ rotation, leveraging Rodrigues' formula to build the ZYX Euler angle transformation. The culmination of this analysis is the master kinematic equation, $$\dot{\eta} = J(\eta)\nu$$, which serves as the mathematical bridge connecting the glider's internal, body-relative velocities to its position and orientation in the global NED frame.
 
-While we used Euler angles for their intuitive appeal, it is worth noting that modern GNC systems often use **Quaternions** to represent attitude. Quaternions provide a singularity-free and computationally efficient alternative to avoid the problem of Gimbal Lock, a topic for a future discussion. With this kinematic model in hand, the next step is to explore the world of kinetics—the hydrodynamic and buoyancy forces that generate the velocities $$\nu$$ in the first place.
+This compact vector equation explicitly defines the six differential equations that govern the glider's motion. Using the shorthand $$c(\cdot) = \cos(\cdot)$$, $$s(\cdot) = \sin(\cdot)$$, and $$t(\cdot) = \tan(\cdot)$$, the full kinematic model is expressed as follows:
+
+The **linear kinematic equations** relate the body-frame velocities ($$u, v, w$$) to the rate of change of the glider's position in the NED frame:
+
+$$
+\dot{x}^n = u(c\psi c\theta) + v(c\psi s\theta s\phi - s\psi c\phi) + w(c\psi s\theta c\phi + s\psi s\phi)
+$$
+
+$$
+\dot{y}^n = u(s\psi c\theta) + v(s\psi s\theta s\phi + c\psi c\phi) + w(s\psi s\theta c\phi - c\psi s\phi)
+$$
+
+$$
+\dot{z}^n = u(-s\theta) + v(c\theta s\phi) + w(c\theta c\phi)
+$$
+
+The **angular kinematic equations** relate the body-frame angular rates ($$p, q, r$$) to the rate of change of the glider's Euler angles:
+
+$$
+\dot{\phi} = p + q(s\phi t\theta) + r(c\phi t\theta)
+$$
+
+$$
+\dot{\theta} = q(c\phi) - r(s\phi)
+$$
+
+$$
+\dot{\psi} = q(s\phi/c\theta) + r(c\phi/c\theta)
+$$
+
+These six equations form the heart of any glider's Guidance, Navigation, and Control (GNC) system. By numerically integrating them over time, a navigation filter can process body-frame velocity measurements ($$u, v, w, p, q, r$$), typically from an Inertial Measurement Unit (IMU), to continuously track the glider's state ($$x^n, y^n, z^n, \phi, \theta, \psi$$) in the world.
+
+While we used Euler angles for their intuitive appeal, we also noted their critical limitation: the singularity at $$\theta = \pm 90^\circ$$, known as **Gimbal Lock**. Modern GNC systems often use **Quaternions** to represent attitude, providing a singularity-free and computationally robust alternative. With this kinematic model established, the logical next step is to explore the world of **kinetics**—the analysis of the hydrodynamic and buoyancy forces that generate the velocities $$\nu$$ in the first place.
 
 ## References
 
@@ -309,6 +341,7 @@ While we used Euler angles for their intuitive appeal, it is worth noting that m
 [2] M. Yang, Y. Wang, X. Zhang, Y. Liang and C. Wang, "Parameterized Dynamic Modeling and Spiral Motion Pattern Analysis for Underwater Gliders," IEEE Journal of Oceanic Engineering, vol. 48, no. 1, pp. 112-126, 2023, doi: 10.1109/JOE.2022.3181896. 
 
 [3] Nomenclature for Treating the Motion of a Submerged Body Through a Fluid. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950, pp. 1-15.
+
 
 
 
