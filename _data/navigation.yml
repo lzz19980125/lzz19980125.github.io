@@ -9,5 +9,7 @@ main:
     url: /publications/
   - title: "Blog Posts"
     url: /year-archive/
+  - title: "Courses"
+    url: /courses/
   - title: "中文"
     url: /chinese/
