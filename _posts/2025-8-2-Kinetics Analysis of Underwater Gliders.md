@@ -242,14 +242,16 @@ where:
 *   The **Rigid-Body Mass Matrix** $$M_{RB}$$ is constant, symmetric, and positive-definite:
   
     $$
-    M_{RB} = \begin{bmatrix} m I_{3\times3} & -m S(r_{bg}^b) \\ m S(r_{bg}^b) & I_b \end{bmatrix}=\left[ \begin{matrix}
-	m&		0&		0&		0&		mz_g&		-my_g\\
-	0&		m&		0&		-mz_g&		0&		mx_g\\
-	0&		0&		m&		my_g&		-mx_g&		0\\
-	0&		-mz_g&		my_g&		I_x&		-I_{xy}&		-I_{xz}\\
-	mz_g&		0&		-mx_g&		-I_{yx}&		I_y&		-I_{yz}\\
-	-my_g&		mx_g&		0&		-I_{zx}&		-I_{zy}&		I_z\\
-\end{matrix} \right]
+    M_{RB} = \begin{bmatrix} m I_{3\times3} & -m S(r_{bg}^b) \\ m S(r_{bg}^b) & I_b \end{bmatrix}
+	\\
+	=\left[ \begin{matrix}
+		m&		0&		0&		0&		mz_g&		-my_g\\
+		0&		m&		0&		-mz_g&		0&		mx_g\\
+		0&		0&		m&		my_g&		-mx_g&		0\\
+		0&		-mz_g&		my_g&		I_x&		-I_{xy}&		-I_{xz}\\
+		mz_g&		0&		-mx_g&		-I_{yx}&		I_y&		-I_{yz}\\
+		-my_g&		mx_g&		0&		-I_{zx}&		-I_{zy}&		I_z\\
+	\end{matrix} \right] 
     $$
 
 *   The **Rigid-Body Coriolis and Centripetal Matrix** $$C_{RB}(\nu)$$ is linear in velocity and has a special property known as **skew-symmetry** ($$C_{RB} = -C_{RB}^T$$):
@@ -274,6 +276,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [1] T. I. Fossen, *Handbook of Marine Craft Hydrodynamics and Motion Control*. Hoboken, NJ, USA: John Wiley & Sons, 2011.
 
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
+
 
 
 
