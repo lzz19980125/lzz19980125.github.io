@@ -256,13 +256,40 @@ where:
 	\end{matrix} \right] 
 	$$
 
-*   The **Rigid-Body Coriolis and Centripetal Matrix** $$C_{RB}(\nu)$$ is linear in velocity and has a special property known as **skew-symmetry** ($$C_{RB} = -C_{RB}^T$$):
-  
-    $$
-    C_{RB}(\nu) = \begin{bmatrix} 0_{3\times3} & -m S(v_1) - m S(S(v_2)r_{bg}^b) \\ -m S(v_1) - m S(S(v_2)r_{bg}^b) & -S(I_b v_2) \end{bmatrix}
-    $$
-    
-    (where $$\nu = [v_1^T, v_2^T]^T$$). The skew-symmetry property is vital in control theory, as it implies that the Coriolis and centripetal forces do no work on the system ($$\nu^T C_{RB} \nu = 0$$), a key element in proving the stability of many nonlinear control laws.
+*   The **Rigid-Body Coriolis and Centripetal Matrix** $$C_{RB}(\nu)$$ is a matrix that is dependent on the velocity $$\nu$$. While it can be written in several mathematically equivalent forms, its most crucial property is that it must be **skew-symmetric** ($$C_{RB} = -C_{RB}^T$$). This property ensures that the Coriolis and centripetal forces do no work on the system ($$\nu^T C_{RB} \nu = 0$$), a physical truth that is vital for proving the stability of many advanced control laws. One parameterization form of $C_{RB}(\nu)$ is:
+
+$$
+\boldsymbol{C}_{RB}=\left[ \begin{matrix}
+	m\boldsymbol{S}\left( \boldsymbol{\omega }_{nb}^{b} \right)&		-m\boldsymbol{S}\left( \boldsymbol{\omega }_{nb}^{b} \right) \boldsymbol{S}\left( \boldsymbol{r}_{bg}^{b} \right)\\
+	m\boldsymbol{S}\left( \boldsymbol{r}_{bg}^{b} \right) \boldsymbol{S}\left( \boldsymbol{\omega }_{nb}^{b} \right)&		-\boldsymbol{S}\left( \boldsymbol{I}_{b}^{b}\boldsymbol{\omega }_{nb}^{b} \right) \boldsymbol{\omega }_{nb}^{b}\\
+\end{matrix} \right] 
+$$
+
+## 6. The Grand Finale: The 6-DOF Rigid-Body Equations of Motion
+
+We have now defined all the necessary components. The complete 6-DOF rigid-body equations of motion, expressed in the BODY frame `{b}` and about the Coordinate Origin (CO), are given by the compact matrix equation:
+
+$$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$
+
+The final, and most detailed, step is to substitute the full expressions for the $$M_{RB}$$ and $$C_{RB}(\nu)$$ matrices and expand the matrix-vector products row by row. This algebraic expansion yields the complete set of six coupled, nonlinear differential equations in their standard component form, as defined by SNAME (1950).
+
+These six equations explicitly describe the relationship between the vehicle's motion and the forces and moments acting upon it:
+
+$$
+\begin{align*}
+m[\dot{u} - vr + wq - x_g(q^2 + r^2) + y_g(pq - \dot{r}) + z_g(pr + \dot{q})] &= X \\
+m[\dot{v} - wp + ur - y_g(r^2 + p^2) + z_g(qr - \dot{p}) + x_g(qp + \dot{r})] &= Y \\
+m[\dot{w} - uq + vp - z_g(p^2 + q^2) + x_g(rp - \dot{q}) + y_g(rq + \dot{p})] &= Z \\
+I_x \dot{p} + (I_z - I_y)qr - (\dot{r} + pq)I_{xz} + (r^2 - q^2)I_{yz} + (pr - \dot{q})I_{xy} \quad & \\
++ m[y_g(\dot{w} - uq + vp) - z_g(\dot{v} - wp + ur)] &= K \\
+I_y \dot{q} + (I_x - I_z)rp - (\dot{p} + qr)I_{xy} + (p^2 - r^2)I_{zx} + (qp - \dot{r})I_{yz} \quad & \\
++ m[z_g(\dot{u} - vr + wq) - x_g(\dot{w} - uq + vp)] &= M \\
+I_z \dot{r} + (I_y - I_x)pq - (\dot{q} + rp)I_{yz} + (q^2 - p^2)I_{xy} + (rq - \dot{p})I_{zx} \quad & \\
++ m[x_g(\dot{v} - wp + ur) - y_g(\dot{u} - vr + wq)] &= N
+\end{align*}
+$$
+
+These six equations are the ultimate result of our kinetic analysis. They form the core mathematical model describing how the rigid body's inertia responds to external forces and moments.
 
 ## Conclusion
 
@@ -280,6 +307,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
 
 [3] S. I. Sagatun and T. I. Fossen, "Lagrangian formulation of underwater vehicles' dynamics," Conference Proceedings 1991 IEEE International Conference on Systems, Man, and Cybernetics, Charlottesville, VA, USA, 1991, pp. 1029-1034 vol.2, doi: 10.1109/ICSMC.1991.169823.
+
 
 
 
