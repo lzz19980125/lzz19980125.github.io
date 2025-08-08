@@ -47,7 +47,7 @@ Here is a categorized list of courses and resources for learning about deep lear
 
 ### Natural Language Processing **& Large Language Models**
 
-- [Stanford CS336 | Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
+- [Stanford CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
 - [CMU 11-667: Large Language Models: Methods and Applications](https://cmu-llms.org/schedule/)
 - [MIT 6.S986: Large Language Models and Beyond](https://ai4comm.media.mit.edu/index.html#course)
 - [Stanford CS 324: Large language models](https://stanford-cs324.github.io/winter2022/) 
@@ -99,6 +99,7 @@ Here is a categorized list of courses and resources for learning about deep lear
 ### Computer Science Fundamentals
 
 - [Stanford CS45: Software Tools Every Programmer Should Know](https://web.stanford.edu/class/cs45/)
+
 
 
 
