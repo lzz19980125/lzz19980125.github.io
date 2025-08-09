@@ -25,6 +25,12 @@ $$
 
 which form the foundation for precise attitude control, path planning, and coordinated formation.
 
+[Ch1: Introduction to Part I](https://lzz19980125.github.io/posts/2025-7-20-Introduction%20to%20Underwater%20Glider)
+
+[Ch2: Kinematics](https://lzz19980125.github.io/posts/2025-7-28-Kinematic%20Analysis%20of%20Underwater%20Gliders)
+
+[Ch3: Rigid-Body Kinetics](https://lzz19980125.github.io/posts/2025-8-2-Kinetics%20Analysis%20of%20Underwater%20Gliders)	
+
 ------
 
 ## Deep Learning
