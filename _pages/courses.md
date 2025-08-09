@@ -13,7 +13,7 @@ Below are my reorganized materials and notes for several significant courses I h
 
 ------
 
-##<img src="../images/submarine.png" width="55" height="50"> Autonomous Marine Intelligent Systems
+# <img src="../images/submarine.png" width="55" height="50"> Autonomous Marine Intelligent Systems
 
 ***Norwegian University of Science and Technology — TTK4190: Guidance, Navigation and Control of Marine Craft, Aircraft and Drones***
 
