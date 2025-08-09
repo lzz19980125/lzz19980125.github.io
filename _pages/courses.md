@@ -95,9 +95,9 @@ A legendary course on distributed computing principles, from consensus protocols
 
 ## <img src="../images/paper_icon.png" width="55" height="50"> Research Contributions
 
-Beyond course reviews, I have also created several **awesome reading lists** focused on *multivariate time series research*. These lists have collectively received <span style="color:rgb(123,17,19)">**500+ GitHub stars,**</span> reflecting the value they bring to the research community.
+Beyond course reviews, I have also created several **awesome reading lists** focused on *multivariate time series research*. These lists have collectively received <span style="color:rgb(194,29,85)">**500+ GitHub stars,**</span> reflecting the value they bring to the research community.
 
-- [awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers) <span style="color:rgb(123,17,19)">**[500+ GitHub stars!]**</span>
+- [awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers) <span style="color:rgb(194,29,85)">**[500+ GitHub stars!]**</span>
 - [awesome-multivariate-time-series-anomaly-detection-algorithms](https://github.com/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms)
 - [awesome-multivariate-time-series-clustering-algorithms](https://github.com/lzz19980125/awesome-multivariate-time-series-clustering-algorithms)
 
