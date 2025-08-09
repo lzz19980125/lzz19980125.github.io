@@ -56,15 +56,24 @@ An in-depth exploration of policy optimization, value-based methods, and model-b
 
 ## Edge Computing
 
-**Course:** *MIT 6.S965: TinyML and Efficient Deep Learning Computing*
- This course focuses on deploying deep learning models in resource-constrained environments. My summary includes hands-on notes for quantization, pruning, and efficient neural network architectures for embedded devices.
+***MIT 6.S965: TinyML and Efficient Deep Learning Computing***
+
+This course focuses on deploying deep learning models in resource-constrained environments. My summary includes hands-on notes on the principles of common convolution operators and neural network efficiency metrics, and will be extended in the future to cover quantization, pruning, NAS, and distillation.
+
+- [Lecture 2: Basics of Deep Learning](https://zhuanlan.zhihu.com/p/7388813431)
 
 ------
 
 ## Distributed Systems
 
-**Course:** *MIT 6.824: Distributed Systems*
- A legendary course on distributed computing principles, from consensus protocols (like Raft) to fault tolerance. I emphasize diagrams and execution traces to make complex concepts approachable.
+***MIT 6.824: Distributed Systems***
+ 
+A legendary course on distributed computing principles, from consensus protocols (like Raft) to fault tolerance. I emphasize diagrams and execution traces to make complex concepts approachable.
+
+- [Lecture 1: Mapreduce](https://github.com/lzz19980125/MIT_6.824/blob/main/lecture%20notes/Lecture1%20Mapreduce/Lecture_1_introduction%20and%20Mapreduce.md)
+- [Lecture 2: Go,RPC,Threads](https://github.com/lzz19980125/MIT_6.824/blob/main/lecture%20notes/Lecture%202%20Go%2CRPC%2CThreads/Lecture_1_introduction%20and%20Mapreduce.md)
+- [A tour of Go](https://github.com/lzz19980125/MIT_6.824/blob/main/lecture%20notes/A%20tour%20of%20Go/A%20tour%20of%20GO.md)
+- [Lab 1: Re-implement MapReduce model described in OSDI' 04](https://github.com/lzz19980125/MIT_6.824)
 
 ------
 
