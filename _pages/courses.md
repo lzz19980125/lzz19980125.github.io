@@ -7,7 +7,7 @@ author_profile: true
 
 One of my hobbies is reviewing high-quality **EECS open courses** and re-organizing the materials for the most important ones in my own words. I find that distilling the key concepts and structuring them in a learner-friendly way not only deepens my own understanding, but also helps others benefit from these world-class resources.
 
-If you are looking for **excellent deep learning CS courses**, I recommend checking out this curated [course list](https://lzz19980125.github.io/posts/2025-8-8-cs%20courses%20list) that I have compiled.
+<span style="color:rgb(72, 145, 240)">**If you are looking for excellent deep learning CS courses, I recommend checking out this curated [course list](https://lzz19980125.github.io/posts/2025-8-8-cs%20courses%20list) that I have compiled.**</span>
 
 Below are my reorganized materials and notes for several significant courses I have studied.
 
