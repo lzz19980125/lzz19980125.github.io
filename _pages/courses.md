@@ -97,10 +97,11 @@ A legendary course on distributed computing principles, from consensus protocols
 
 Beyond course reviews, I have also created several **awesome reading lists** focused on *multivariate time series research*. These lists have collectively received **500+ GitHub stars**, reflecting the value they bring to the research community.
 
+- [awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)
+- [awesome-multivariate-time-series-anomaly-detection-algorithms](https://github.com/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms)
+- [awesome-multivariate-time-series-clustering-algorithms](https://github.com/lzz19980125/awesome-multivariate-time-series-clustering-algorithms)
+
 ------
 
 If you are passionate about self-learning in EECS, I hope my reorganized course materials and curated resources can serve as useful study companions.
 
-------
-
-Do you want me to also add **links to each course’s official page** so readers can directly access them? That would make the blog more practical and reader-friendly.
