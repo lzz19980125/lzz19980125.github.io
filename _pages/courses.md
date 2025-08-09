@@ -31,7 +31,7 @@ which form the foundation for precise attitude control, path planning, and coord
 
 ------
 
-## <img src="../images/139-deep-learning.png" width="55" height="50"> Deep Learning
+## <img src="../images/139-deep-learning.png" width="50" height="40"> Deep Learning
 
 ***MIT 6.S898: Deep Learning***
 
@@ -41,7 +41,7 @@ A cutting-edge deep learning course covering architectures, optimization techniq
 
 ------
 
-## Reinforcement Learning
+## <img src="../images/Reinforcement Learning.png" width="50" height="40"> Reinforcement Learning
 
 ***UCB CS 285: Deep Reinforcement Learning***
 
@@ -54,7 +54,7 @@ An in-depth exploration of policy optimization, value-based methods, and model-b
 
 ------
 
-## Edge Computing
+## <img src="../images/chip.png" width="50" height="40"> Edge Computing
 
 ***MIT 6.S965: TinyML and Efficient Deep Learning Computing***
 
@@ -64,7 +64,7 @@ This course focuses on deploying deep learning models in resource-constrained en
 
 ------
 
-## Distributed Systems
+## <img src="../images/member.png" width="50" height="40"> Distributed Systems
 
 ***MIT 6.824: Distributed Systems***
  
@@ -77,7 +77,7 @@ A legendary course on distributed computing principles, from consensus protocols
 
 ------
 
-## Computer Science Fundamentals
+## <img src="../images/data_sctructure.png" width="50" height="40"> Computer Science Fundamentals
 
 - ***UCB CS61A: Structure and Interpretation of Computer Programs***
 
