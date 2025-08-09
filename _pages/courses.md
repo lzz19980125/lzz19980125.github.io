@@ -15,8 +15,15 @@ Below are my reorganized materials and notes for several significant courses I h
 
 ## Autonomous Marine Intelligent Systems
 
-Course: ***Norwegian University of Science and Technology — TTK4190: Guidance, Navigation and Control of Marine Craft, Aircraft and Drones***
- This course covers guidance, navigation, and control principles for marine craft, aerial vehicles, and drones. I especially enjoyed the mathematical rigor, the kinematic/dynamic modeling, and the real-world applicability to autonomous marine systems.
+***Norwegian University of Science and Technology — TTK4190: Guidance, Navigation and Control of Marine Craft, Aircraft and Drones***
+
+This course covers guidance, navigation, and control principles for marine craft. In this course, I focus particularly on the derivation of the kinematic and kinetic equations for underwater unmanned systems
+
+$$
+M\dot{\nu}+C(\nu )\nu +D(\nu )\nu +g(\eta )=\tau 
+$$
+
+which form the foundation for precise attitude control, path planning, and coordinated formation.
 
 ------
 
