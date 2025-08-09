@@ -13,7 +13,7 @@ Below are my reorganized materials and notes for several significant courses I h
 
 ------
 
-## <img src="../images/submarine.png" width="55" height="50"> Autonomous Marine Intelligent Systems
+## <img src="../images/submarine.png" width="55" height="50">  Autonomous Marine Intelligent Systems
 
 ***Norwegian University of Science and Technology — TTK4190: Guidance, Navigation and Control of Marine Craft, Aircraft and Drones***
 
@@ -31,7 +31,7 @@ which form the foundation for precise attitude control, path planning, and coord
 
 ------
 
-## Deep Learning
+## <img src="../images/139-deep-learning.png" width="55" height="50"> Deep Learning
 
 ***MIT 6.S898: Deep Learning***
 
