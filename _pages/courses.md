@@ -25,25 +25,32 @@ $$
 
 which form the foundation for precise attitude control, path planning, and coordinated formation.
 
-[Ch1: Introduction to Part I](https://lzz19980125.github.io/posts/2025-7-20-Introduction%20to%20Underwater%20Glider)
-
-[Ch2: Kinematics](https://lzz19980125.github.io/posts/2025-7-28-Kinematic%20Analysis%20of%20Underwater%20Gliders)
-
-[Ch3: Rigid-Body Kinetics](https://lzz19980125.github.io/posts/2025-8-2-Kinetics%20Analysis%20of%20Underwater%20Gliders)	
+- [Ch1: Introduction to Part I](https://lzz19980125.github.io/posts/2025-7-20-Introduction%20to%20Underwater%20Glider)
+- [Ch2: Kinematics](https://lzz19980125.github.io/posts/2025-7-28-Kinematic%20Analysis%20of%20Underwater%20Gliders)
+- [Ch3: Rigid-Body Kinetics](https://lzz19980125.github.io/posts/2025-8-2-Kinetics%20Analysis%20of%20Underwater%20Gliders)	
 
 ------
 
 ## Deep Learning
 
-**Course:** *MIT 6.S898: Deep Learning*
- A cutting-edge deep learning course covering architectures, optimization techniques, and applications. My notes focus on intuitive explanations of core concepts like attention mechanisms, representation learning, and large-scale model training.
+***MIT 6.S898: Deep Learning***
+
+A cutting-edge deep learning course covering architectures, optimization techniques, and applications. My notes focus on intuitive explanations of core concepts like attention mechanisms, representation learning, and large-scale model training.
+
+- [Computation Graphs & BackProp](https://zhuanlan.zhihu.com/p/662749544)
 
 ------
 
 ## Reinforcement Learning
 
-**Course:** *UCB CS 285: Deep Reinforcement Learning*
- An in-depth exploration of policy optimization, value-based methods, and model-based RL. I reorganized the material to highlight connections between theory and practical implementation, especially for robotics and autonomous systems.
+***UCB CS 285: Deep Reinforcement Learning***
+
+An in-depth exploration of policy optimization, value-based methods, and model-based RL. I mainly reorganized the sections on Policy Gradient, Actor-Critic Algorithms, and Value Function Methods.
+
+- [lecture 4: Intro to RL](https://zhuanlan.zhihu.com/p/659134755)
+- [lecture 5: Policy Gradient](https://zhuanlan.zhihu.com/p/659672341)
+- [lecture 6: Actor-Critic Algorithm](https://zhuanlan.zhihu.com/p/659793509)
+- [lecture 7: Value Function Methods](https://zhuanlan.zhihu.com/p/661276555)
 
 ------
 
