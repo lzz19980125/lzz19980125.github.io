@@ -79,10 +79,17 @@ A legendary course on distributed computing principles, from consensus protocols
 
 ## Computer Science Fundamentals
 
-**Course:**
+- ***UCB CS61A: Structure and Interpretation of Computer Programs***
 
-- *UCB CS61A: Structure and Interpretation of Computer Programs* — Focused on computational thinking and functional programming fundamentals.
-- *UCB CS61B: Data Structures and Algorithms* — A comprehensive treatment of core data structures, algorithm analysis, and implementation patterns.
+  Focused on computational thinking and functional programming fundamentals.
+
+  [Course materials](https://github.com/lzz19980125/UC-Berkeley_CS61A)
+  
+- ***UCB CS61B: Data Structures and Algorithms***
+
+  A comprehensive treatment of core data structures, algorithm analysis, and implementation patterns.
+
+  [Course materials](https://github.com/lzz19980125/UC_Berkeley_CS61B)
 
 ------
 
