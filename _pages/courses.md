@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Courses"
+title: "My Hobby: Reviewing and Curating Outstanding EECS Open Courses"
 permalink: /courses/
 author_profile: true
 ---
-
-
-# My Hobby: Reviewing and Curating Outstanding EECS Open Courses
 
 One of my hobbies is reviewing high-quality **EECS open courses** and re-organizing the materials for the most important ones in my own words. I find that distilling the key concepts and structuring them in a learner-friendly way not only deepens my own understanding, but also helps others benefit from these world-class resources.
 
