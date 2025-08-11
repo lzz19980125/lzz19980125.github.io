@@ -256,7 +256,7 @@ where:
 	\end{matrix} \right] 
 	$$
 
-*   The **Rigid-Body Coriolis and Centripetal Matrix** $$C_{RB}(\nu)$$ is a matrix that is dependent on the velocity $$\nu$$. While it can be written in several mathematically equivalent forms, its most crucial property is that it must be **skew-symmetric** ($$C_{RB} = -C_{RB}^T$$). This property ensures that the Coriolis and centripetal forces do no work on the system ($$\nu^T C_{RB} \nu = 0$$), a physical truth that is vital for proving the stability of many advanced control laws. One parameterization form of $C_{RB}(\nu)$ is:
+*   The **Rigid-Body Coriolis and Centripetal Matrix** $$C_{RB}(\nu)$$ is a matrix that is dependent on the velocity $$\nu$$. While it can be written in several mathematically equivalent forms, its most crucial property is that it must be **skew-symmetric** ($$C_{RB} = -C_{RB}^T$$). This property ensures that the Coriolis and centripetal forces do no work on the system ($$\nu^T C_{RB} \nu = 0$$), a physical truth that is vital for proving the stability of many advanced control laws. One parameterization form of $$C_{RB}(\nu)$$ is:
 
 $$
 \boldsymbol{C}_{RB}=\left[ \begin{matrix}
@@ -307,6 +307,7 @@ The resulting equation, $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau_{RB}$$, prov
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
 
 [3] S. I. Sagatun and T. I. Fossen, "Lagrangian formulation of underwater vehicles' dynamics," Conference Proceedings 1991 IEEE International Conference on Systems, Man, and Cybernetics, Charlottesville, VA, USA, 1991, pp. 1029-1034 vol.2, doi: 10.1109/ICSMC.1991.169823.
+
 
 
 
