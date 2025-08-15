@@ -17,7 +17,7 @@ tags:
 
 ## Introduction
 
-In our [previous post on Kinetics](/posts/2025-8-2-Kinetics-Analysis-of-Underwater-Gliders), we derived the rigid-body equations of motion, which describe how a vehicle's inertia resists acceleration. The result was the foundational equation: 
+In our [previous post on Kinetics](https://lzz19980125.github.io/posts/2025-8-2-Kinetics%20Analysis%20of%20Underwater%20Gliders), we derived the rigid-body equations of motion, which describe how a vehicle's inertia resists acceleration. The result was the foundational equation: 
 
 $$M_{RB} \dot{\nu} + C_{RB}(\nu) \nu = \tau$$
 
@@ -171,6 +171,7 @@ In the next part of this series, we will explore the dynamics and control of **B
 [2] *Nomenclature for Treating the Motion of a Submerged Body Through a Fluid*. The Society of Naval Architects and Marine Engineers (SNAME), Technical and Research Bulletin No. 1-5, April 1950.
 
 [3] S. I. Sagatun and T. I. Fossen, "Lagrangian formulation of underwater vehicles' dynamics," Conference Proceedings 1991 IEEE International Conference on Systems, Man, and Cybernetics, Charlottesville, VA, USA, 1991, pp. 1029-1034 vol.2, doi: 10.1109/ICSMC.1991.169823.
+
 
 
 
