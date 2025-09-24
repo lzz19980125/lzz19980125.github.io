@@ -58,3 +58,7 @@ I am a second-year D.Eng. candidate in the Institute of Artificial intelligence 
 - **Reviewer**
   - 2025 **Reviewer** of <span style="color:rgb(95,181,206)">[Expert Systems with Applications](https://lzz19980125.github.io/files/Certificate_ESWA_Recognised.pdf)</span>.
   - 2024 **Reviewer** of <span style="color:rgb(95,181,206)">[Knowledge-Based Systems](https://lzz19980125.github.io/files/Certificate_KBS_reviewer.pdf)</span>.
+
+# <img src="../images/honor.png" width="55" height="50"> Honor
+
+- 2024-2025 **Tianjin University Merit Student**
