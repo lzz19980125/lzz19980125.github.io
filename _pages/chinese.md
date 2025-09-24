@@ -80,3 +80,7 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
   - 2025年担任<span style="color:rgb(95,181,206)">[Expert Systems with Applications](https://lzz19980125.github.io/files/Certificate_ESWA_Recognised.pdf)</span>的审稿人。
 
   - 2024年担任<span style="color:rgb(95,181,206)">[Knowledge-Based Systems](https://lzz19980125.github.io/files/Certificate_KBS_reviewer.pdf)</span>的审稿人。
+ 
+# <img src="../images/honor.png" width="55" height="50"> Honor
+
+- 2024-2025 **天津大学三好学生**.
