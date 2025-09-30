@@ -38,7 +38,7 @@ I am a third-year D.Eng. candidate in the Institute of Artificial intelligence a
 
 - **[ESWA '25]** **<u>Zezhong Li</u>,** and Ling Wang, “**Automatic Segmentation of Multivariate Spatio-Temporal Data: A New Joint Framework Using Multivariate Gaussian Distribution and Information Gain**,” Expert Systems With Applications (ESWA), Under Review.
 
-- **[ASOC '25]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” Applied Soft Computing (ASOC), Under Review.
+- **[ASOC '25]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” Applied Soft Computing (ASOC), Revise.
 
 - **[Kzyjc '24]** Ling Wang, and **<u>Zezhong Li</u>**, "Adaptive greedy Gaussian segmentation algorithm based on multivariate time series", Kongzhi yu Juece/Control and Decision (Kzyjc), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search))
 
