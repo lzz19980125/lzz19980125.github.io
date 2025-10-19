@@ -34,7 +34,7 @@ author_profile: true
 
 - **[IEEE Sens J '25]** **<u>Zezhong Li</u>,** Wei Guo, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), 2025. <span style="color:rgb(142,103,150)">**[Collaborated with Huadian Heavy industries Co. Ltd]**</span>, ([**link**](https://ieeexplore.ieee.org/document/10906418))
 
-- **[ESWA '25]** **<u>Zezhong Li</u>,** and Ling Wang, “**Automatic Segmentation of Multivariate Spatio-Temporal Data: A New Joint Framework Using Multivariate Gaussian Distribution and Information Gain**,” Expert Systems With Applications (ESWA), Under Review.
+- **[NEUCOM '25]** **<u>Zezhong Li</u>,** and Ling Wang, “**JT3D: Joint Temporal Segmentation for Common Pattern Discovery in 3D Tensor Time Series via Segmented Gaussian Modeling and Information-Gain**,” Neurocomputing (NEUCOM), Under Review.
 
 - **[ASOC '25]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” Applied Soft Computing (ASOC), Revise.
 
