@@ -38,7 +38,7 @@ I am a third-year D.Eng. candidate in the Institute of Artificial intelligence a
 
 - **[NEUCOM '25]** **<u>Zezhong Li</u>,** and Ling Wang, “**JT3D: Joint Temporal Segmentation for Common Pattern Discovery in 3D Tensor Time Series via Segmented Gaussian Modeling and Information-Gain**,” Neurocomputing (NEUCOM), Under Review.
 
-- **[ASOC '25]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” Applied Soft Computing (ASOC), Revise.
+- **[NEUNET '25]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” Neural Networks (NEUNET), Under Review.
 
 - **[Kzyjc '24]** Ling Wang, and **<u>Zezhong Li</u>**, "Adaptive greedy Gaussian segmentation algorithm based on multivariate time series", Kongzhi yu Juece/Control and Decision (Kzyjc), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search))
 
