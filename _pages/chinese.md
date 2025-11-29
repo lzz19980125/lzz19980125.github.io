@@ -82,7 +82,7 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 # <img src="../images/service.png" width="55" height="50"> 学术服务
 
 - **学术服务**
-  - 2025年担任<span style="color:rgb(95,181,206)">[Expert Systems with Applications](https://lzz19980125.github.io/files/Certificate_ESWA_Recognised.pdf)</span>的审稿人。
+  - 2025年担任<span style="color:rgb(95,181,206)">[Expert Systems with Applications](https://lzz19980125.github.io/files/Certificate_ESWA_Recognised.pdf)</span>, Neural Networks的审稿人。
 
   - 2024年担任<span style="color:rgb(95,181,206)">[Knowledge-Based Systems](https://lzz19980125.github.io/files/Certificate_KBS_reviewer.pdf)</span>的审稿人。
  
