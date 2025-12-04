@@ -175,17 +175,17 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: var(--global-bg-color);
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: var(--global-masthead-link-color);
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: var(--global-masthead-link-color-hover);
     }
   }
 
@@ -222,6 +222,18 @@
         a {
           margin-right: 0;
         }
+      }
+    }
+
+    #theme-toggle {
+      cursor: pointer;
+      
+      a {
+        padding: 0.5rem 0.5rem;
+      }
+
+      i {
+        font-size: 1.2em;
       }
     }
 

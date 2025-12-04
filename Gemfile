@@ -9,3 +9,6 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+
+# Windows时区数据支持
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

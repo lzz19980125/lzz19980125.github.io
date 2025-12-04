@@ -5,13 +5,17 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  background-color: var(--global-bg-color);
 }
 
 body {
+  /* Set via theme scss files */
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+
   margin: 0;
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
-  color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
 
@@ -64,7 +68,7 @@ p {
 u,
 ins {
   text-decoration: none;
-  border-bottom: 1px solid $text-color;
+  border-bottom: 1px solid var(--global-text-color);
   a {
     color: inherit;
   }
@@ -87,7 +91,7 @@ abbr[title],
 abbr[data-original-title] {
   text-decoration: none;
   cursor: help;
-  border-bottom: 1px dotted $text-color;
+  border-bottom: 1px dotted var(--global-text-color);
 }
 
 /* blockquotes */
@@ -97,7 +101,7 @@ blockquote {
   padding-left: 1em;
   padding-right: 1em;
   font-style: italic;
-  border-left: 0.25em solid $primary-color;
+  border-left: 0.25em solid var(--global-border-color);
 
   cite {
     font-style: italic;
