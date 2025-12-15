@@ -69,7 +69,7 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 <img src="../images/paper_icon.png" width="50" height="50"> 专利发表
 ======
 
--  高忠科, **<u>李泽中</u>,** 郭威, 马伟, **基于数据序列的水下滑翔机异常检测方法:** CN202411159713.2. 2024-12-13. ([**授权**](https://kns.cnki.net/kcms2/article/abstract?v=8XsFQqBkIew3uxB3ZdNRLCsA2CTpmjU_Sq06RyYeXg4Sc_RIngYI4ZUXw7hFqK1YUPuq388AMlps6Ma2B7Iey9-3I4KOpR9jRezU2cp2aWuQ5nJE8e6Z442OlkCyxOXRbZ5gW63ywRhudenaH3QOt3d-gyY2Csq6bfHOdyT5kWKkFqDUas3y5Q==&uniplatform=NZKPT&language=CHS))
+-  高忠科, **<u>李泽中</u>,** 郭威, 马伟, **基于数据序列的水下滑翔机异常检测方法:** CN202411159713.2. 2024-12-13. ([**授权**](https://patents.google.com/patent/CN119128376B/en))
 
 -  高忠科, 郭威, **<u>李泽中</u>,** 马伟, **对中尺度涡垂直结构的处理方法、装置和电子设备:** CN202411282488.1. 2025-01-03. ([**授权**](https://kns.cnki.net/kcms2/article/abstract?v=8XsFQqBkIey--bDsf54Ai17FowEyP8ewOcoicCTxH6kMC89GnUnqZLhrW2zTZ-25l9f9WXWtFwAn9E8GornvWAvcR5XmLDmDsRSM0iKsq5XPB9lrOZpX6AICVFXC3aPvKRnYqbEeFnk2a9GikNIvaOzNCKzAWkOJnSPmmfKi4AiHjKop7Hwivg==&uniplatform=NZKPT&language=CHS))
 
