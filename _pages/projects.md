@@ -16,7 +16,7 @@ redirect_from:
   <div style="flex: 1 1 450px; position: relative; min-width: 300px;">
     <!-- 标签 Badge -->
     <div style="position: absolute; top: 12px; left: 12px; background-color: #0056b3; color: white; padding: 4px 10px; font-size: 0.8rem; font-weight: bold; z-index: 5; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.3); letter-spacing: 0.5px;">
-      Under Review
+      3D Vision
     </div>
     
     <!-- 视频播放器 -->
