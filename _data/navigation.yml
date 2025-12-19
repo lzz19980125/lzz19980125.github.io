@@ -11,7 +11,7 @@ main:
     url: /year-archive/
   - title: "Courses"
     url: /courses/
-  - title: "中文"
-    url: /chinese/
   - title: "Projects"
     url: /projects/
+  - title: "中文"
+    url: /chinese/
