@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
----
+<!-- 将原来的 Markdown 分隔符 '---' 替换为下面这行带样式的 HTML -->
+<hr style="border: 0; border-top: 1px solid rgba(128,128,128, 0.2); margin: 20px 0 40px 0;">
+
 <!-- 项目卡片容器 -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 50px; align-items: center;">
 
