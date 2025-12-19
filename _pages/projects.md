@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# Selected Projects
-
----
-
 <!-- 项目卡片容器 -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 50px; align-items: center;">
 
