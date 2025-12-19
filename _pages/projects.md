@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
+| | |
+| :---: | :--- |
+| <div style="position:relative; width:300px;"><span style="position:absolute; top:0; left:0; background:#003366; color:white; padding:2px 6px; font-size:12px; font-weight:bold; z-index:2;">Under Review</span><video width="100%" autoplay loop muted playsinline controls style="border-radius:4px; box-shadow:0 2px 5px rgba(0,0,0,0.1);"><source src="files/trajectory_optimization.mp4" type="video/mp4">Your browser does not support the video tag.</video></div> | **GUIDE: GPU-accelerated Underwater Intelligent Differential Evolution for Collision-Free 3D Path Planning of Autonomous Gliders in Dynamic Ocean Currents** <br><br> **Your Name\***, Collaborator Name\*, Collaborator Name, Advisor Name <br><br> [[**Website&Video**]](https://your-link) [[**PDF**]](https://your-link) [[**BibTeX**]](https://your-link) <br><br> **TLDR:** GUIDE is a novel path planning framework that integrates **ocean current domain knowledge** into evolutionary search (LSHADE-AHF) and utilizes **GPU parallelism** to solve high-dimensional 3D trajectory problems in seconds. |
+
+---
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
