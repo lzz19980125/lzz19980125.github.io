@@ -38,17 +38,15 @@ redirect_from:
     </h3>
     
     <div style="color: #555; font-size: 0.95rem; margin-bottom: 10px;">
-      <strong>Your Name*</strong>, Collaborator Name*, Collaborator Name, Advisor Name
+      <strong>Zezhong Li*</strong>, Zhong-ke Gao
     </div>
 
     <div style="margin-bottom: 12px;">
-      <a href="https://your-link" style="margin-right: 10px; text-decoration: none; color: #0066cc; font-weight: bold;">[Website&Video]</a>
-      <a href="https://your-link" style="margin-right: 10px; text-decoration: none; color: #0066cc; font-weight: bold;">[PDF]</a>
-      <a href="https://your-link" style="text-decoration: none; color: #0066cc; font-weight: bold;">[BibTeX]</a>
+      <a href="https://rapid-route.github.io/" style="margin-right: 10px; text-decoration: none; color: #0066cc; font-weight: bold;">[Website&Video]</a>
     </div>
 
     <p style="font-size: 0.9rem; line-height: 1.6; color: #333; margin: 0;">
-      <strong>TLDR:</strong> GUIDE is a novel path planning framework that integrates <strong>ocean current domain knowledge</strong> into evolutionary search (LSHADE-AHF) and utilizes <strong>GPU parallelism</strong> to solve high-dimensional 3D trajectory problems in seconds. It ensures strict collision avoidance with high-resolution GEBCO terrain data.
+      <strong>TLDR:</strong> **GUIDE** is a state-of-the-art path planning framework designed for **Autonomous Underwater Gliders (AUGs)** operating in complex, time-varying ocean environments. Unlike traditional planners, GUIDE integrates **domain knowledge (Ocean Currents)** directly into the evolutionary search process and leverages massive **GPU parallelism** to solve high-dimensional 3D trajectory optimization problems in seconds. 
     </p>
   </div>
 
