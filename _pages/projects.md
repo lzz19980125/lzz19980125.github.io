@@ -34,7 +34,7 @@ redirect_from:
   <!-- 右侧：文字区域 -->
   <div style="flex: 1; min-width: 300px;">
     <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2rem; line-height: 1.4;">
-      GUIDE: GPU-accelerated Underwater Intelligent Differential Evolution for Collision-Free 3D Path Planning of Autonomous Gliders in Dynamic Ocean Currents
+     **G**pu-accelerated **U**nderwater **I**ntelligent **D**ifferential **E**volution for collision-free 3D path planning of autonomous gliders in dynamic ocean currents
     </h3>
     
     <div style="color: #555; font-size: 0.95rem; margin-bottom: 10px;">
