@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+# Selected Projects
+
 ---
 
 <!-- 项目卡片容器 -->
@@ -14,8 +16,8 @@ redirect_from:
 
   <!-- 左侧：视频区域 (放大版) -->
   <div style="flex: 1 1 450px; position: relative; min-width: 300px;">
-    <!-- 标签 Badge -->
-    <div style="position: absolute; top: 12px; left: 12px; background-color: #0056b3; color: white; padding: 4px 10px; font-size: 0.8rem; font-weight: bold; z-index: 5; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.3); letter-spacing: 0.5px;">
+    <!-- 标签 Badge (已修改位置到左下角) -->
+    <div style="position: absolute; bottom: 12px; left: 12px; background-color: #0056b3; color: white; padding: 4px 10px; font-size: 0.8rem; font-weight: bold; z-index: 5; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.3); letter-spacing: 0.5px;">
       3D Vision
     </div>
     
@@ -29,7 +31,7 @@ redirect_from:
   <!-- 右侧：文字区域 -->
   <div style="flex: 1 1 400px; min-width: 300px;">
     
-    <!-- 标题：移除硬编码颜色，自适应主题 -->
+    <!-- 标题 -->
     <h3 style="margin-top: 0; margin-bottom: 15px; font-size: 1.4rem; line-height: 1.3; font-weight: 800;">
       GUIDE: <strong>G</strong>PU-accelerated <strong>U</strong>nderwater <strong>I</strong>ntelligent <strong>D</strong>ifferential <strong>E</strong>volution for Collision-Free 3D Path Planning of Autonomous Gliders in Dynamic Ocean Currents
     </h3>
@@ -46,7 +48,7 @@ redirect_from:
       </a>
     </div>
 
-    <!-- 摘要：使用 HTML 标签加粗，移除固定颜色 -->
+    <!-- 摘要 -->
     <p style="font-size: 0.95rem; line-height: 1.6; opacity: 0.9; margin: 0; text-align: justify;">
       <strong>TLDR:</strong> <strong>GUIDE</strong> is a state-of-the-art path planning framework designed for <strong>Autonomous Underwater Gliders (AUGs)</strong> operating in complex, time-varying ocean environments. Unlike traditional planners, GUIDE integrates <strong>domain knowledge (Ocean Currents)</strong> directly into the evolutionary search process and leverages massive <strong>GPU parallelism</strong> to solve high-dimensional 3D trajectory optimization problems in seconds.
     </p>
