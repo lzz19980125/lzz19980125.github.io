@@ -7,104 +7,52 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ---
 
----
+<!-- 项目卡片容器 -->
+<div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 50px; align-items: center;">
 
-<!-- 项目块开始 -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px; align-items: flex-start; border-bottom: 1px solid #eee; padding-bottom: 20px;">
-
-  <!-- 左侧：视频区域 -->
-  <div style="flex: 0 0 320px; max-width: 100%; position: relative;">
+  <!-- 左侧：视频区域 (放大版) -->
+  <div style="flex: 1 1 450px; position: relative; min-width: 300px;">
     <!-- 标签 Badge -->
-    <div style="position: absolute; top: 10px; left: 10px; background-color: #003366; color: white; padding: 4px 8px; font-size: 12px; font-weight: bold; z-index: 5; border-radius: 3px; opacity: 0.9;">
+    <div style="position: absolute; top: 12px; left: 12px; background-color: #0056b3; color: white; padding: 4px 10px; font-size: 0.8rem; font-weight: bold; z-index: 5; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.3); letter-spacing: 0.5px;">
       Under Review
     </div>
     
     <!-- 视频播放器 -->
-    <video width="100%" autoplay loop muted playsinline controls style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block;">
-      <!-- 注意：这里加了斜杠 /files/... -->
+    <video width="100%" autoplay loop muted playsinline controls style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); display: block; border: 1px solid rgba(128,128,128, 0.2);">
       <source src="/files/trajectory_optimization.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
 
   <!-- 右侧：文字区域 -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2rem; line-height: 1.4;">
-     **G**pu-accelerated **U**nderwater **I**ntelligent **D**ifferential **E**volution for collision-free 3D path planning of autonomous gliders in dynamic ocean currents
+  <div style="flex: 1 1 400px; min-width: 300px;">
+    
+    <!-- 标题：移除硬编码颜色，自适应主题 -->
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-size: 1.4rem; line-height: 1.3; font-weight: 800;">
+      <strong>G</strong>PU-accelerated <strong>U</strong>nderwater <strong>I</strong>ntelligent <strong>D</strong>ifferential <strong>E</strong>volution for Collision-Free 3D Path Planning of Autonomous Gliders in Dynamic Ocean Currents
     </h3>
     
-    <div style="color: #555; font-size: 0.95rem; margin-bottom: 10px;">
+    <!-- 作者 -->
+    <div style="opacity: 0.85; font-size: 1rem; margin-bottom: 15px;">
       <strong>Zezhong Li*</strong>, Zhong-ke Gao
     </div>
 
-    <div style="margin-bottom: 12px;">
-      <a href="https://rapid-route.github.io/" style="margin-right: 10px; text-decoration: none; color: #0066cc; font-weight: bold;">[Website&Video]</a>
+    <!-- 链接按钮 -->
+    <div style="margin-bottom: 20px;">
+      <a href="https://rapid-route.github.io/" style="display: inline-block; background: rgba(0, 123, 255, 0.1); color: #007bff; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: bold; border: 1px solid rgba(0, 123, 255, 0.2); transition: all 0.3s;">
+        [Website & Video]
+      </a>
     </div>
 
-    <p style="font-size: 0.9rem; line-height: 1.6; color: #333; margin: 0;">
-      <strong>TLDR:</strong> **GUIDE** is a state-of-the-art path planning framework designed for **Autonomous Underwater Gliders (AUGs)** operating in complex, time-varying ocean environments. Unlike traditional planners, GUIDE integrates **domain knowledge (Ocean Currents)** directly into the evolutionary search process and leverages massive **GPU parallelism** to solve high-dimensional 3D trajectory optimization problems in seconds. 
+    <!-- 摘要：使用 HTML 标签加粗，移除固定颜色 -->
+    <p style="font-size: 0.95rem; line-height: 1.6; opacity: 0.9; margin: 0; text-align: justify;">
+      <strong>TLDR:</strong> <strong>GUIDE</strong> is a state-of-the-art path planning framework designed for <strong>Autonomous Underwater Gliders (AUGs)</strong> operating in complex, time-varying ocean environments. Unlike traditional planners, GUIDE integrates <strong>domain knowledge (Ocean Currents)</strong> directly into the evolutionary search process and leverages massive <strong>GPU parallelism</strong> to solve high-dimensional 3D trajectory optimization problems in seconds.
     </p>
   </div>
 
 </div>
-<!-- 项目块结束 -->
+<!-- 项目结束 -->
 
----
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<hr style="border: 0; border-top: 1px solid rgba(128,128,128, 0.2); margin: 40px 0;">
