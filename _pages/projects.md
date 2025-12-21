@@ -12,30 +12,29 @@ redirect_from:
 <!-- 项目卡片容器 -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
 
-  <!-- 左侧：视频区域容器 (垂直排列) -->
+<!-- 左侧：视频区域容器 (垂直排列) -->
   <div style="flex: 1 1 450px; min-width: 300px; display: flex; flex-direction: column; gap: 15px;">
     
-    <!-- 视频 1：3D Vision -->
+    <!-- 视频 1：3D Vision (保持 16:9 宽屏) -->
     <div style="position: relative;">
-      <!-- 标签 Badge -->
       <div style="position: absolute; bottom: 12px; left: 12px; background-color: #0056b3; color: white; padding: 4px 10px; font-size: 0.8rem; font-weight: bold; z-index: 5; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.3); letter-spacing: 0.5px;">
         3D Vision
       </div>
-      <!-- 视频播放器 -->
       <video width="100%" autoplay loop muted playsinline controls style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); display: block; border: 1px solid rgba(128,128,128, 0.2);">
         <source src="/files/trajectory_optimization.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
 
-    <!-- 视频 2：2D Flow (新增) -->
+    <!-- 视频 2：2D Vision (正方形优化版) -->
     <div style="position: relative;">
-      <!-- 标签 Badge -->
+      <!-- Badge -->
       <div style="position: absolute; bottom: 12px; left: 12px; background-color: #0056b3; color: white; padding: 4px 10px; font-size: 0.8rem; font-weight: bold; z-index: 5; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.3); letter-spacing: 0.5px;">
         2D Vision
       </div>
       <!-- 视频播放器 -->
-      <video width="100%" autoplay loop muted playsinline controls style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); display: block; border: 1px solid rgba(128,128,128, 0.2);">
+      <!-- 修改点：增加了 aspect-ratio: 1/1 和 object-fit: cover -->
+      <video width="100%" autoplay loop muted playsinline controls style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); display: block; border: 1px solid rgba(128,128,128, 0.2); width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: cover;">
         <source src="/files/trajectory_optimization_2D.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
