@@ -73,19 +73,6 @@ redirect_from:
       </p>
     </div>
 
-    <!-- 特性列表 (用来填充高度，增加可读性) -->
-    <div style="background: rgba(128,128,128, 0.05); padding: 15px; border-radius: 8px; border: 1px solid rgba(128,128,128, 0.1);">
-      <h4 style="margin: 0 0 10px 0; font-size: 1rem; font-weight: bold;">Key Highlights:</h4>
-      <ul style="margin: 0; padding-left: 20px; font-size: 0.9rem; line-height: 1.5; opacity: 0.85;">
-        <li style="margin-bottom: 8px;">🚀 <strong>Extreme GPU Performance:</strong> Built on CUDA to eliminate CPU-GPU bottlenecks.</li>
-        <li style="margin-bottom: 8px;">🌊 <strong>Physics-Informed Evolution:</strong> Utilizes flow vectors to guide evolutionary search.</li>
-        <li style="margin-bottom: 8px;">🛡️ <strong>Strict 3D Avoidance:</strong> Collision-free paths via Signed Distance Fields (SDF).</li>
-        <li>⏳ <strong>Time-Varying Dynamics:</strong> Full support for 4D CMEMS ocean data.</li>
-      </ul>
-    </div>
-
-  </div>
-
 </div>
 <!-- 项目结束 -->
 
