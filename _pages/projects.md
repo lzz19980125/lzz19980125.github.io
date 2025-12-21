@@ -31,8 +31,8 @@ redirect_from:
     <!-- 视频 2：2D Flow (新增) -->
     <div style="position: relative;">
       <!-- 标签 Badge -->
-      <div style="position: absolute; bottom: 12px; left: 12px; background-color: #28a745; color: white; padding: 4px 10px; font-size: 0.8rem; font-weight: bold; z-index: 5; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.3); letter-spacing: 0.5px;">
-        2D Flow Field
+      <div style="position: absolute; bottom: 12px; left: 12px; background-color: #0056b3; color: white; padding: 4px 10px; font-size: 0.8rem; font-weight: bold; z-index: 5; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.3); letter-spacing: 0.5px;">
+        2D Vision
       </div>
       <!-- 视频播放器 -->
       <video width="100%" autoplay loop muted playsinline controls style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); display: block; border: 1px solid rgba(128,128,128, 0.2);">
