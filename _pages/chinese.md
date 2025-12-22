@@ -53,9 +53,11 @@ local path planning**,” Expert Systems With Applications (ESWA), Under Reveiw.
 
 -  **[OE '25]** Man Luo, Rongshun Juan, Shoufu Liu, **<u>Zezhong Li</u>,** Junkang Chen, and Zhong-Ke Gao, “**HPGAF: Hybrid-Perception Graph-Attentive Formation Navigation for Autonomous Underwater Gliders via Multi-Agent Reinforcement Learning**,” Ocean Engineering (OE), Under Reveiw.
 
--  **[IEEE TII '25]** Tianshu Wang, Lianbo Wei, Yang Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yong Zhang, Guan-Rong Chen, and Zhong-Ke Gao, “**Adjoint-Based Dynamics Inversion for Underwater Glider System Identification**,” IEEE Transactions on Industrial Informatics (IEEE TII), Under Reveiw.
+-  **[IEEE TII '26]** Tianshu Wang, Lianbo Wei, Yang Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yong Zhang, Guan-Rong Chen, and Zhong-Ke Gao, “**Adjoint-Based Dynamics Inversion for Underwater Glider System Identification**,” IEEE Transactions on Industrial Informatics (IEEE TII), Under Reveiw.
 
 -  **[OE '25]** Junkang Chen, Tao Yang, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Qi Wang, and Zhong-Ke Gao, “**Three-dimensional path planning for underwater glider using safe reinforcement learning**,” Ocean Engineering (OE), Under Reveiw.
+
+-  **[OE '26]** Yatao Zhou, Yang Li, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Reinforcement learning-based path planning for underwater gliders using ocean current forecasts**,” Ocean Engineering (OE), Under Reveiw.
 
 - **[RAS '25]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Wei Ma, Junhe Wan, and Zhong-Ke Gao, “**TVOC-RRT\*: A global path planning method for underwater glider based on time-varying ocean current prediction data**,” Robotics and Autonomous Systems (RAS), Under Reveiw.
 
