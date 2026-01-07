@@ -57,6 +57,8 @@ local path planning**,” Expert Systems With Applications (ESWA), Under Reveiw.
 
 -  **[ESWA '26]** Yang Li, Yatao Zhou, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** Shoufu Liu, Shuaikun Shi, Zhong-Ke Gao, “**DCEM-DP-TVOC-RRT\*: A global path planning method for multiple underwater gliders in time-varying ocean currents**,” Expert Systems With Applications (ESWA), 2026, Under Reveiw.
 
+-  **[ESWA '26]** Shoufu Liu, Haibing Li, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Shuaikun Shi, Zhong-Ke Gao, “**UUV Path Following Control Based on Distributional Reinforcement Learning**,” Expert Systems With Applications (ESWA), 2026, Under Reveiw.
+
 -  **[OE '25]** Junkang Chen, Tao Yang, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Qi Wang, and Zhong-Ke Gao, “**Three-dimensional path planning for underwater glider using safe reinforcement learning**,” Ocean Engineering (OE), Under Reveiw.
 
 -  **[OE '26]** Yatao Zhou, Yang Li, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Reinforcement learning-based path planning for underwater gliders using ocean current forecasts**,” Ocean Engineering (OE), Under Reveiw.
