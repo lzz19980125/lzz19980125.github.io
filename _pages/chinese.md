@@ -34,7 +34,7 @@ author_profile: true
 
 - **[IEEE Sens J '25]** **<u>Zezhong Li</u>,** Wei Guo, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), 2025. <span style="color:rgb(142,103,150)">**[Collaborated with Huadian Heavy industries Co. Ltd]**</span>, ([**link**](https://ieeexplore.ieee.org/document/10906418))
 
-- **[NEUCOM '25]** **<u>Zezhong Li</u>,** and Ling Wang, “**JT3D: Joint Temporal Segmentation for Common Pattern Discovery in 3D Tensor Time Series via Segmented Gaussian Modeling and Information-Gain**,” Neurocomputing (NEUCOM), Under Review.
+- **[NEUCOM '25]** **<u>Zezhong Li</u>,** and Ling Wang, “**JT3D: Joint Temporal Segmentation for Common Pattern Discovery in 3D Tensor Time Series via Segmented Gaussian Modeling and Information-Gain**,” Neurocomputing (NEUCOM), Revise.
 
 - **[ACM TIST '25]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” ACM Transactions on Intelligent Systems and Technology (ACM TIST), Under Review.
 
@@ -61,7 +61,7 @@ local path planning**,” Expert Systems With Applications (ESWA), Under Reveiw.
 
 -  **[IEEE IOTJ '26]** Shoufu Liu, Haibing Li, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Shuaikun Shi, Zhong-Ke Gao, “**UUV Path Following Control Based on Distributional Reinforcement Learning**,” IEEE Internet of Things Journal (IOTJ), 2026, Under Reveiw.
 
--  **[OE '25]** Junkang Chen, Tao Yang, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Qi Wang, and Zhong-Ke Gao, “**Three-dimensional path planning for underwater glider using safe reinforcement learning**,” Ocean Engineering (OE), Under Reveiw.
+-  **[OE '25]** Junkang Chen, Tao Yang, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Qi Wang, and Zhong-Ke Gao, “**Three-dimensional path planning for underwater glider using safe reinforcement learning**,” Ocean Engineering (OE), Revise.
 
 -  **[OE '26]** Yatao Zhou, Yang Li, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Reinforcement learning-based path planning for underwater gliders using ocean current forecasts**,” Ocean Engineering (OE), Revise.
 
