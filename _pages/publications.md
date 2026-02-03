@@ -44,14 +44,15 @@ local path planning**,” Expert Systems With Applications (ESWA), Under Reveiw.
 
 - **[AEI '26]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Wei Ma, Junhe Wan, and Zhong-Ke Gao, “**TVOC-RRT\*: A global path planning method for underwater glider based on time-varying ocean current prediction data**,” Advanced Engineering Informatics (AEI), Under Reveiw.
 
-- **[CMPB '26]** Wanjun Feng, Chao Ma, ZhiKang Ma, Jianpeng An, Huazhen Chen, **<u>Zezhong Li</u>**, Jianchang Zhao, and Zhongke Gao, "**3D Gaussian Splatting with Geometry Guided Densification for Endoscopic Reconstruction**", Computer Methods and Programs in Biomedicine (CMPB), Under Review. 
+- **[CMPB '26]** Wanjun Feng, Chao Ma, ZhiKang Ma, Jianpeng An, Huazhen Chen, **<u>Zezhong Li</u>**, Jianchang Zhao, and Zhongke Gao, "**3D Gaussian Splatting with Geometry Guided Densification for Endoscopic Reconstruction**", Computer Methods and Programs in Biomedicine (CMPB), Under Review.
+
+-  **[IEEE Sens J '26]** Zhiqiang Zhao, Chen Hanqing, Bang Zhou, **<u>Zezhong Li</u>**, and Zhongke Gao, "**MSADNet: A Multi-Scale Attention-Depthwise Network for oil–water Flow Measurement Using Directional Antenna Microwave Sensing**", IEEE Sensors Journal (IEEE Sens J), Under Review. 
 
 - **[ESWA '25]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Zhong-Ke Gao, “**AD-RRT\*: An RRT\*-based global path planning approach for underwater gliders with alpha shapes and DBSCAN**,” Expert Systems With Applications (ESWA), 2025.  ([**link**](https://www.sciencedirect.com/science/article/pii/S0957417425018391))
 
 - **[IEEE Sens J '25]** Bang Zhou, Chen Hanqing, Mengyu Li, Yushi Hao, **<u>Zezhong Li</u>**, Zhiqiang Zhao, Weidong Cao, and Zhongke Gao, "**Dual-Parameter Measurement of Oil-Water Two-Phase Flow Based on Multitask Learning**", IEEE Sensors Journal (IEEE Sens J), 2025. ([**link**](https://ieeexplore.ieee.org/document/10996500))
 
-- **[JMSE '24]** Yv Jing, Chao Ma, Jianpeng An, **<u>Zezhong Li</u>**, Xinlin Sun, and Wei Guo, "**Nonstationary Control Parameter Prediction for Underwater Gliders 
-Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science and Engineering (JMSE), 2024. ([**link**](https://www.mdpi.com/2077-1312/12/11/2106))
+- **[JMSE '24]** Yv Jing, Chao Ma, Jianpeng An, **<u>Zezhong Li</u>**, Xinlin Sun, and Wei Guo, "**Nonstationary Control Parameter Prediction for Underwater Gliders Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science and Engineering (JMSE), 2024. ([**link**](https://www.mdpi.com/2077-1312/12/11/2106))
 
 ## Patents
 
