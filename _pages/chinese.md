@@ -8,6 +8,8 @@ author_profile: true
 
 本人目前是天津大学人工智能与网络科学研究所的三年级博士生，师从[高忠科](https://ains.tju.edu.cn/info/1052/1057.htm)教授，主要研究方向为自主智能无人系统的规划、编队、感知以及故障诊断。在此之前，本人于北京科技大学自动化学院获得电子信息专业硕士学位，师从[王玲](https://faculty.ustb.edu.cn/LingWang1/zh_CN/index/77379/list/index.htm)教授，主要研究方向为多元时间序列的无监督变点检测，多元时空数据的聚类及预测。并于南京工业大学电气工程与控制科学学院获得自动化专业学士学位，师从[沈谋全](https://eecs.njtech.edu.cn/info/1129/4881.htm)教授。
 
+**<span style="color:rgb(72, 145, 240)"> 最新个人简历请查看 [link](https://lzz19980125.github.io/files/resume.pdf)</span>**
+
 # <img src="../images/education_icon.png" width="55" height="50"> 教育背景
 
 2023 - 至今:  ---------  [天津大学](https://www.tju.edu.cn/)，[人工智能与网络科学研究所](https://ains.tju.edu.cn/index.htm)，攻读工程博士学位。 
