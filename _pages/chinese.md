@@ -65,7 +65,7 @@ local path planning**,” Expert Systems With Applications (ESWA), Under Reveiw.
 
 -  **[OE '25]** Junkang Chen, Tao Yang, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Qi Wang, and Zhong-Ke Gao, “**Three-dimensional path planning for underwater glider using safe reinforcement learning**,” Ocean Engineering (OE), Revise.
 
--  **[OE '26]** Yatao Zhou, Yang Li, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Reinforcement learning-based path planning for underwater gliders using ocean current forecasts**,” Ocean Engineering (OE), 2026, Accept.
+-  **[OE '26]** Yatao Zhou, Yang Li, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Reinforcement learning-based path planning for underwater gliders using ocean current forecasts**,” Ocean Engineering (OE), 2026, ([**link**](https://www.sciencedirect.com/science/article/abs/pii/S0029801826005706?via%3Dihub)).
 
 - **[AEI '25]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Wei Ma, Junhe Wan, and Zhong-Ke Gao, “**TVOC-RRT\*: A global path planning method for underwater glider based on time-varying ocean current prediction data**,” Advanced Engineering Informatics (AEI), Revise.
 
