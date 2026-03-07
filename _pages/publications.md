@@ -38,7 +38,7 @@ local path planning**,” Expert Systems With Applications (ESWA), Under Reveiw.
 
 -  **[IEEE IOTJ '26]** Shoufu Liu, Haibing Li, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Shuaikun Shi, Zhong-Ke Gao, “**UUV Path Following Control Based on Distributional Reinforcement Learning**,” IEEE Internet of Things Journal (IOTJ), 2026, Under Reveiw.
 
--  **[OE '25]** Junkang Chen, Tao Yang, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Qi Wang, and Zhong-Ke Gao, “**Three-dimensional path planning for underwater glider using safe reinforcement learning**,” Ocean Engineering (OE), Revise.
+-  **[OE '26]** Junkang Chen, Tao Yang, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Qi Wang, and Zhong-Ke Gao, “**Three-dimensional path planning for underwater glider using safe reinforcement learning**,” Ocean Engineering (OE), 2026, Accept.
 
 -  **[OE '26]** Yatao Zhou, Yang Li, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Reinforcement learning-based path planning for underwater gliders using ocean current forecasts**,” Ocean Engineering (OE), 2026, ([**link**](https://www.sciencedirect.com/science/article/abs/pii/S0029801826005706?via%3Dihub)).
 
