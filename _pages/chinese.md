@@ -71,7 +71,7 @@ local path planning**,” Expert Systems With Applications (ESWA), Under Reveiw.
 
 - **[CMPB '26]** Wanjun Feng, Chao Ma, ZhiKang Ma, Jianpeng An, Huazhen Chen, **<u>Zezhong Li</u>**, Jianchang Zhao, and Zhongke Gao, "**3D Gaussian Splatting with Geometry Guided Densification for Endoscopic Reconstruction**", Computer Methods and Programs in Biomedicine (CMPB), Under Review.
 
-- **[IEEE Sens J '26]** Zhiqiang Zhao, Chen Hanqing, Bang Zhou, **<u>Zezhong Li</u>**, and Zhongke Gao, "**MSADNet: A Multi-Scale Attention-Depthwise Network for oil–water Flow Measurement Using Directional Antenna Microwave Sensing**", IEEE Sensors Journal (IEEE Sens J), Under Review. 
+- **[IEEE Sens J '26]** Zhiqiang Zhao, Chen Hanqing, Bang Zhou, **<u>Zezhong Li</u>**, and Zhongke Gao, "**MSADNet: A Multi-Scale Attention-Depthwise Network for oil–water Flow Measurement Using Directional Antenna Microwave Sensing**", IEEE Sensors Journal (IEEE Sens J), Revise. 
 
 - **[IEEE Sens J '25]** Bang Zhou, Chen Hanqing, Mengyu Li, Yushi Hao, **<u>Zezhong Li</u>**, Zhiqiang Zhao, Weidong Cao, and Zhongke Gao, "**Dual-Parameter Measurement of Oil-Water Two-Phase Flow Based on Multitask Learning**", IEEE Sensors Journal (IEEE Sens J), 2025. ([**link**](https://ieeexplore.ieee.org/document/10996500))
 
