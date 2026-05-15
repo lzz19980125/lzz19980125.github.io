@@ -90,6 +90,8 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 
 -  王玲, **<u>李泽中</u>,** **一种面向风力发电的多元时空数据概率预测方法及系统:** CN202311350618.6. 2024-04-05. (公开)
 
+-  高忠科, **<u>李泽中</u>,** 刘首甫, 冯万军, **一种面向时变洋流的水下滑翔机无碰撞时间最优路径规划方法**. 2026-05-15. (受理)
+
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> 工作经历
 
