@@ -14,7 +14,7 @@ author_profile: true
 
 2023 - 至今:  ---------  [天津大学](https://www.tju.edu.cn/)，[人工智能与网络科学研究所](https://ains.tju.edu.cn/index.htm)，攻读工程博士学位。 
 
-2020 - 2023: ---------  [北京科技大学](https://www.ustb.edu.cn/)，教育部工业过程知识自动化重点实验室，获得电子信息专业硕士学位.
+2020 - 2023: ---------  [北京科技大学](https://www.ustb.edu.cn/)，[教育部工业过程知识自动化重点实验室](https://saee.ustb.edu.cn/kxyj/kypt/f4c3dc53536d4d9f9cd35867f53a8fd2.htm)，获得电子信息专业硕士学位.
 
 2016 - 2020:      ---------  [南京工业大学](https://www.njtech.edu.cn/)，电气工程与控制科学学院，获得自动化专业学士学位.
 
