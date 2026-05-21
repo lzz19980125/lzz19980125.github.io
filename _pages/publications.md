@@ -13,7 +13,7 @@ author_profile: true
 
 - **[NEUCOM '25]** **<u>Zezhong Li</u>,** and Ling Wang, “**JT3D: Joint Temporal Segmentation for Common Pattern Discovery in 3D Tensor Time Series via Segmented Gaussian Modeling and Information-Gain**,” Neurocomputing (NEUCOM), 2026, ([**link**](https://www.sciencedirect.com/science/article/pii/S0925231226008507?via%3Dihub)).
 
-- **[ESWA '26]** **<u>Zezhong Li</u>,** Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, and Zhongke Gao, “**Collision-Free Time-Optimal Planning of Underwater Gliders in Time-Varying Currents via Adaptive Niching Dual-Archive Differential Evolution**,” Expert Systems With Applications (ESWA), 2026, Under Review.
+- **[KBS '26]** **<u>Zezhong Li</u>,** Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, and Zhongke Gao, “**Collision-Free Time-Optimal Planning of Underwater Gliders in Time-Varying Currents via Adaptive Niching Dual-Archive Differential Evolution**,” Knowledge-Based Systems (KBS), 2026, Under Review.
 
 - **[ACM TIST '25]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” ACM Transactions on Intelligent Systems and Technology (ACM TIST), Under Review.
 
