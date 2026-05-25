@@ -23,7 +23,7 @@ redirect_from:
       </div>
       <!-- 视频播放器 -->
       <video width="100%" autoplay loop muted playsinline controls style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); display: block; border: 1px solid rgba(128,128,128, 0.2);">
-        <source src="/files/trajectory_optimization.mp4" type="video/mp4">
+        <source src="/files/case_2_3D.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
@@ -36,7 +36,7 @@ redirect_from:
       </div>
       <!-- 视频播放器 -->
       <video width="100%" autoplay loop muted playsinline controls style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); display: block; border: 1px solid rgba(128,128,128, 0.2);">
-        <source src="/files/trajectory_optimization_2D.mp4" type="video/mp4">
+        <source src="/files/case_2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
