@@ -34,24 +34,24 @@ author_profile: true
 
 *= 同等贡献
 
-- **[IEEE Sens J '25]** **<u>Zezhong Li</u>,** Wei Guo, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), 2025. <span style="color:rgb(142,103,150)">**[Collaborated with Huadian Heavy industries Co. Ltd]**</span>, ([**link**](https://ieeexplore.ieee.org/document/10906418))
+- **[IEEE Sens J '25]** **<u>Zezhong Li</u>,** Wei Guo, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), 2025. <span style="color:rgb(142,103,150)">**[Collaborated with Huadian Heavy industries Co. Ltd]**</span>, ([**link**](https://ieeexplore.ieee.org/document/10906418)).
 
 - **[NEUCOM '25]** **<u>Zezhong Li</u>,** and Ling Wang, “**JT3D: Joint Temporal Segmentation for Common Pattern Discovery in 3D Tensor Time Series via Segmented Gaussian Modeling and Information-Gain**,” Neurocomputing (NEUCOM), 2026, ([**link**](https://www.sciencedirect.com/science/article/pii/S0925231226008507?via%3Dihub)).
 
-- **[OE '26]** **<u>Zezhong Li</u>,** Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, and Zhongke Gao, “**Collision-Free Time-Optimal Planning of Underwater Gliders in Time-Varying Currents via Adaptive Niching Dual-Archive Differential Evolution**,” Ocean Engineering (OE), 2026, Under Review, ([**Website**](https://lzz19980125.github.io/publications/))
+- **[OE '26]** **<u>Zezhong Li</u>,** Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, and Zhongke Gao, “**Collision-Free Time-Optimal Planning of Underwater Gliders in Time-Varying Currents via Adaptive Niching Dual-Archive Differential Evolution**,” Ocean Engineering (OE), 2026, Under Review, ([**Website**](https://rapid-route.github.io/)).
 
 
 - **[ACM TIST '25]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” ACM Transactions on Intelligent Systems and Technology (ACM TIST), Under Review.
 
-- **[KZYJC '24]** Ling Wang, and **<u>Zezhong Li</u>**, "**Adaptive greedy Gaussian segmentation algorithm based on multivariate time series**", Kongzhi yu Juece/Control and Decision (KZYJC), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search))
+- **[KZYJC '24]** Ling Wang, and **<u>Zezhong Li</u>**, "**Adaptive greedy Gaussian segmentation algorithm based on multivariate time series**", Kongzhi yu Juece/Control and Decision (KZYJC), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search)).
 
-- **[CJE '23]** Ling Wang, and **<u>Zezhong Li</u>**, "**Adaptive Segmentation of Multivariate Time Series with FastICA and G-G Clustering**", Tien Tzu Hsueh Pao/Acta Electronica Sinica (CJE), 2023. ([**link**](https://www.ejournal.org.cn/CN/10.12263/DZXB.20220649))
+- **[CJE '23]** Ling Wang, and **<u>Zezhong Li</u>**, "**Adaptive Segmentation of Multivariate Time Series with FastICA and G-G Clustering**", Tien Tzu Hsueh Pao/Acta Electronica Sinica (CJE), 2023. ([**link**](https://www.ejournal.org.cn/CN/10.12263/DZXB.20220649)).
 
-- **[Chaos '24]** Wei Guo, **<u>Zezhong Li</u>,** Xin-Lin Sun, Yatao Zhou, Rongshun Juan, Zhong-Ke Gao, and Juergen Kurths, “**Mesoscale eddy in-situ observation and characterization via underwater glider and complex network theory**,” Chaos, 2024. ([**link**](https://pubs.aip.org/aip/cha/article-abstract/34/11/113104/3318599/Mesoscale-eddy-in-situ-observation-and?redirectedFrom=fulltext))
+- **[Chaos '24]** Wei Guo, **<u>Zezhong Li</u>,** Xin-Lin Sun, Yatao Zhou, Rongshun Juan, Zhong-Ke Gao, and Juergen Kurths, “**Mesoscale eddy in-situ observation and characterization via underwater glider and complex network theory**,” Chaos, 2024. ([**link**](https://pubs.aip.org/aip/cha/article-abstract/34/11/113104/3318599/Mesoscale-eddy-in-situ-observation-and?redirectedFrom=fulltext)).
 
 - **[KBS '25]** Ling Wang, Qinchun Xu, **<u>Zezhong Li</u>,** “**STANAP: Spatiotemporal Adaptive Neighborhood-Aware Prediction with Multimodal Evolution**,” Knowledge-Based Systems (KBS), Revise. 
 
-- **[OE '25]** Mengqi Wang, Rongshun Juan, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Formation Control and Intention Compensating of AUVs Using Multi-agent Reinforcement Learning and Predict Network**,” Ocean Engineering (OE), 2025, ([**link**](https://www.sciencedirect.com/science/article/pii/S0029801825025375?dgcid=coauthor))
+- **[OE '25]** Mengqi Wang, Rongshun Juan, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Formation Control and Intention Compensating of AUVs Using Multi-agent Reinforcement Learning and Predict Network**,” Ocean Engineering (OE), 2025, ([**link**](https://www.sciencedirect.com/science/article/pii/S0029801825025375?dgcid=coauthor)).
 
 - **[ESWA '25]** Yang Li, Tianshu Wang, **<u>Zezhong Li</u>,** Rongshun Juan, Yatao Zhou, Man Luo, Leihao Du, and Zhong-Ke Gao, “**FFL-DWA: A fuzzy and forward-looking DWA for underwater glider local path planning**,” Expert Systems With Applications (ESWA), Revise.  
 
@@ -75,12 +75,12 @@ author_profile: true
 
 - **[IEEE Sens J '26]** Zhiqiang Zhao, Chen Hanqing, Bang Zhou, **<u>Zezhong Li</u>**, and Zhongke Gao, "**MSADNet: A Multi-Scale Attention-Depthwise Network for oil–water Flow Measurement Using Directional Antenna Microwave Sensing**", IEEE Sensors Journal (IEEE Sens J), Revise. 
 
-- **[IEEE Sens J '25]** Bang Zhou, Chen Hanqing, Mengyu Li, Yushi Hao, **<u>Zezhong Li</u>**, Zhiqiang Zhao, Weidong Cao, and Zhongke Gao, "**Dual-Parameter Measurement of Oil-Water Two-Phase Flow Based on Multitask Learning**", IEEE Sensors Journal (IEEE Sens J), 2025. ([**link**](https://ieeexplore.ieee.org/document/10996500))
+- **[IEEE Sens J '25]** Bang Zhou, Chen Hanqing, Mengyu Li, Yushi Hao, **<u>Zezhong Li</u>**, Zhiqiang Zhao, Weidong Cao, and Zhongke Gao, "**Dual-Parameter Measurement of Oil-Water Two-Phase Flow Based on Multitask Learning**", IEEE Sensors Journal (IEEE Sens J), 2025. ([**link**](https://ieeexplore.ieee.org/document/10996500)).
 
-- **[ESWA '25]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Zhong-Ke Gao, “**AD-RRT\*: An RRT\*-based global path planning approach for underwater gliders with alpha shapes and DBSCAN**,” Expert Systems With Applications (ESWA), 2025.  ([**link**](https://www.sciencedirect.com/science/article/pii/S0957417425018391))
+- **[ESWA '25]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Zhong-Ke Gao, “**AD-RRT\*: An RRT\*-based global path planning approach for underwater gliders with alpha shapes and DBSCAN**,” Expert Systems With Applications (ESWA), 2025.  ([**link**](https://www.sciencedirect.com/science/article/pii/S0957417425018391)).
 
 - **[JMSE '24]** Yv Jing, Chao Ma, Jianpeng An, **<u>Zezhong Li</u>**, Xinlin Sun, and Wei Guo, "**Nonstationary Control Parameter Prediction for Underwater Gliders 
-Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science and Engineering (JMSE), 2024. ([**link**](https://www.mdpi.com/2077-1312/12/11/2106))
+Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science and Engineering (JMSE), 2024. ([**link**](https://www.mdpi.com/2077-1312/12/11/2106)).
 
 <img src="../images/paper_icon.png" width="50" height="50"> 专利发表
 ======
