@@ -48,12 +48,12 @@ redirect_from:
     
     <!-- 标题 -->
     <h3 style="margin-top: 0; margin-bottom: 15px; font-size: 1.4rem; line-height: 1.3; font-weight: 800;">
-      GUIDE: <strong>G</strong>PU-accelerated <strong>U</strong>nderwater <strong>I</strong>ntelligent <strong>D</strong>ifferential <strong>E</strong>volution for Collision-Free 3D Path Planning of Autonomous Gliders in Dynamic Ocean Currents
+      MadDE-NDA: Collision-Free Time-Optimal Planning of Underwater Gliders in Time-Varying Currents via Adaptive <strong>N</strong>iching <strong>D</strong>ual-<strong>A</strong>rchive Differential Evolution
     </h3>
     
     <!-- 作者 -->
     <div style="opacity: 0.85; font-size: 1rem; margin-bottom: 15px;">
-      <strong>Zezhong Li*</strong>, Zhong-ke Gao
+      <strong>Zezhong Li</strong>, Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, Zhongke Gao*
     </div>
 
     <!-- 链接按钮 -->
@@ -66,10 +66,10 @@ redirect_from:
     <!-- 详细摘要 (扩充版) -->
     <div style="font-size: 0.95rem; line-height: 1.6; opacity: 0.9; text-align: justify; margin-bottom: 20px;">
       <p style="margin-bottom: 15px;">
-        <strong>GUIDE</strong> is a state-of-the-art path planning framework designed for <strong>Autonomous Underwater Gliders (AUGs)</strong> operating in complex, time-varying ocean environments. Unlike traditional planners, GUIDE directly integrates <strong>domain knowledge (Ocean Currents)</strong> into the evolutionary search process. By leveraging massive <strong>GPU parallelism</strong> and a custom "Whole-Trajectory Kernel," it solves high-dimensional 3D trajectory optimization problems in seconds, reducing runtime by orders of magnitude (e.g., from ~1800s to <150s).
+        We propose a highly efficient <strong>GPU-accelerated 4D path planning framework</strong> for Autonomous Underwater Gliders (AUGs) operating in complex, time-varying ocean currents. To overcome the curse of dimensionality inherent in long-range missions, we introduce a fixed-dimensional <strong>B-spline trajectory encoding</strong>. Dynamic feasibility is strictly verified through <strong>RK4 integration</strong>, while continuous-domain collision safety over complex seabed topography is guaranteed using an <strong>ESDF-based Sphere Tracing</strong> strategy, eliminating the tunneling effect seen in traditional discrete sampling.
       </p>
       <p style="margin-bottom: 0;">
-        The framework introduces a novel <strong>Adaptive Hybrid Flow</strong> mutation strategy, intelligently switching between "Current-Guided Search" and "Stochastic Exploration" to prevent stagnation in vortexes. It ensures strict safety using <strong>SDF-based GPU Sphere Tracing</strong> against high-resolution <strong>GEBCO</strong> seabed data, while fully accounting for <strong>4D time-varying dynamics</strong> to optimize both energy and time efficiency.
+        To tackle the highly multimodal search landscape induced by ocean currents and terrain, we develop a novel optimizer named <strong>MadDE-NDA</strong> (Niching Dual-Archive). It features dual cooperative archives to balance quality retention and diversity preservation, coupled with a stagnation-triggered niching mechanism. Accelerated by massive GPU parallelism for population-level evaluation, the framework demonstrates superior safety, efficiency, and robustness in realistic simulations utilizing high-resolution <strong>GEBCO</strong> bathymetry and <strong>CMEMS</strong> spatiotemporal ocean currents.
       </p>
     </div>
 
