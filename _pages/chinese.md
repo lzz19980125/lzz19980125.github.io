@@ -113,3 +113,4 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 # <img src="../images/honor.png" width="55" height="50"> 主要荣誉
 
 - 2024-2025   天津大学三好学生。
+- 2024-2025   天津大学年度科技创新先进个人
