@@ -50,7 +50,6 @@ author_profile: true
 
 - **[KBS '25]** Ling Wang, Qinchun Xu, **<u>Zezhong Li</u>,** “**STANAP: Spatiotemporal Adaptive Neighborhood-Aware Prediction with Multimodal Evolution**,” Knowledge-Based Systems (KBS), Accept.
 
-
 - **[OE '25]** Mengqi Wang, Rongshun Juan, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Formation Control and Intention Compensating of AUVs Using Multi-agent Reinforcement Learning and Predict Network**,” Ocean Engineering (OE), 2025, ([**link**](https://www.sciencedirect.com/science/article/pii/S0029801825025375?dgcid=coauthor)).
 
 - **[ESWA '25]** Yang Li, Tianshu Wang, **<u>Zezhong Li</u>,** Rongshun Juan, Yatao Zhou, Man Luo, Leihao Du, and Zhong-Ke Gao, “**FFL-DWA: A fuzzy and forward-looking DWA for underwater glider local path planning**,” Expert Systems With Applications (ESWA), Revise.  
