@@ -66,4 +66,5 @@ I am a third-year D.Eng. candidate in the Institute of Artificial intelligence a
 # <img src="../images/honor.png" width="55" height="50"> Honor
 
 - 2024-2025 **Tianjin University Merit Student**.
+- 2024-2025 **Tianjin University Outstanding Individual in Scientific and Technological Innovation**.
 
