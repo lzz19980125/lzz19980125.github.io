@@ -40,7 +40,6 @@ author_profile: true
 
 - **[OE '26]** **<u>Zezhong Li</u>,** Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, and Zhongke Gao, “**Collision-Free Time-Optimal Planning of Underwater Gliders in Time-Varying Currents via Adaptive Niching Dual-Archive Differential Evolution**,” Ocean Engineering (OE), 2026, Under Review, ([**Website**](https://rapid-route.github.io/)).
 
-
 - **[ACM TIST '25]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” ACM Transactions on Intelligent Systems and Technology (ACM TIST), Under Review.
 
 - **[KZYJC '24]** Ling Wang, and **<u>Zezhong Li</u>**, "**Adaptive greedy Gaussian segmentation algorithm based on multivariate time series**", Kongzhi yu Juece/Control and Decision (KZYJC), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search)).
@@ -49,7 +48,7 @@ author_profile: true
 
 - **[Chaos '24]** Wei Guo, **<u>Zezhong Li</u>,** Xin-Lin Sun, Yatao Zhou, Rongshun Juan, Zhong-Ke Gao, and Juergen Kurths, “**Mesoscale eddy in-situ observation and characterization via underwater glider and complex network theory**,” Chaos, 2024. ([**link**](https://pubs.aip.org/aip/cha/article-abstract/34/11/113104/3318599/Mesoscale-eddy-in-situ-observation-and?redirectedFrom=fulltext)).
 
-- **[KBS '25]** Ling Wang, Qinchun Xu, **<u>Zezhong Li</u>,** “**STANAP: Spatiotemporal Adaptive Neighborhood-Aware Prediction with Multimodal Evolution**,” Knowledge-Based Systems (KBS), Revise. 
+- **[KBS '25]** Ling Wang, Qinchun Xu, **<u>Zezhong Li</u>,** “**STANAP: Spatiotemporal Adaptive Neighborhood-Aware Prediction with Multimodal Evolution**,” Knowledge-Based Systems (KBS), Accept. 
 
 - **[OE '25]** Mengqi Wang, Rongshun Juan, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Formation Control and Intention Compensating of AUVs Using Multi-agent Reinforcement Learning and Predict Network**,” Ocean Engineering (OE), 2025, ([**link**](https://www.sciencedirect.com/science/article/pii/S0029801825025375?dgcid=coauthor)).
 
