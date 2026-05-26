@@ -48,7 +48,8 @@ author_profile: true
 
 - **[Chaos '24]** Wei Guo, **<u>Zezhong Li</u>,** Xin-Lin Sun, Yatao Zhou, Rongshun Juan, Zhong-Ke Gao, and Juergen Kurths, “**Mesoscale eddy in-situ observation and characterization via underwater glider and complex network theory**,” Chaos, 2024. ([**link**](https://pubs.aip.org/aip/cha/article-abstract/34/11/113104/3318599/Mesoscale-eddy-in-situ-observation-and?redirectedFrom=fulltext)).
 
-- **[KBS '25]** Ling Wang, Qinchun Xu, **<u>Zezhong Li</u>,** “**STANAP: Spatiotemporal Adaptive Neighborhood-Aware Prediction with Multimodal Evolution**,” Knowledge-Based Systems (KBS), Accept. 
+- **[KBS '25]** Ling Wang, Qinchun Xu, **<u>Zezhong Li</u>,** “**STANAP: Spatiotemporal Adaptive Neighborhood-Aware Prediction with Multimodal Evolution**,” Knowledge-Based Systems (KBS), Accept.
+
 
 - **[OE '25]** Mengqi Wang, Rongshun Juan, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Formation Control and Intention Compensating of AUVs Using Multi-agent Reinforcement Learning and Predict Network**,” Ocean Engineering (OE), 2025, ([**link**](https://www.sciencedirect.com/science/article/pii/S0029801825025375?dgcid=coauthor)).
 
