@@ -34,7 +34,7 @@ local path planning**,” Expert Systems With Applications (ESWA), Revise.
 
 -  **[OE '26]** Rongshun Juan, Tianshu Wang, Shoufu Liu, **<u>Zezhong Li</u>,** Shuaikun Shi, and Zhong-Ke Gao, “**UUV obstacle avoidance for terrain tracking problem through distributional reinforcement learning**,” Ocean Engineering (OE), Under Reveiw.
 
--  **[JOES '26]** Tianshu Wang, Lianbo Wei, Yang Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yong Zhang, and Zhong-Ke Gao, “**Adjoint-Based Dynamics Inversion for Underwater Glider System Identification**,” Journal of Ocean Engineering and Science (JOES), Under Reveiw.
+-  **[JOES '26]** Tianshu Wang, Lianbo Wei, Yang Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yong Zhang, and Zhong-Ke Gao, “**Adjoint-Based Dynamics Inversion for Underwater Glider System Identification**,” Journal of Ocean Engineering and Science (JOES), Revise.
 
 -  **[ESWA '26]** Yang Li, Yatao Zhou, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** Shoufu Liu, Shuaikun Shi, Zhong-Ke Gao, “**DCEM-DP-TVOC-RRT\*: A global path planning method for multiple underwater gliders in time-varying ocean currents**,” Expert Systems With Applications (ESWA), 2026, Under Reveiw.
 
