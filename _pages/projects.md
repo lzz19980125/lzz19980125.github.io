@@ -63,11 +63,6 @@ redirect_from:
     <h3 style="margin-top: 0; margin-bottom: 15px; font-size: 1.4rem; line-height: 1.3; font-weight: 800;">
       MadDE-NDA: Collision-Free Time-Optimal Planning of Underwater Gliders in Time-Varying Currents via Adaptive <strong>N</strong>iching <strong>D</strong>ual-<strong>A</strong>rchive Differential Evolution
     </h3>
-    
-    <!-- 作者 -->
-    <div style="opacity: 0.85; font-size: 1rem; margin-bottom: 15px;">
-      <strong>Zezhong Li</strong>, Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, Zhongke Gao*
-    </div>
 
 <!-- 按钮容器：使用 display: flex 让内部元素水平排列，gap 控制间距 -->
 <div style="margin-bottom: 25px; display: flex; gap: 15px;">
