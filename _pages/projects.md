@@ -69,19 +69,18 @@ redirect_from:
       <strong>Zezhong Li</strong>, Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, Zhongke Gao*
     </div>
 
-    <!-- 链接按钮 -->
-    <div style="margin-bottom: 25px;">
-      <a href="https://rapid-route.github.io/" style="display: inline-block; background: rgba(0, 123, 255, 0.1); color: #007bff; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; border: 1px solid rgba(0, 123, 255, 0.2); transition: all 0.3s; font-size: 0.9rem;">
-        [Website & Video]
-      </a>
-    </div>
+<!-- 按钮容器：使用 display: flex 让内部元素水平排列，gap 控制间距 -->
+<div style="margin-bottom: 25px; display: flex; gap: 15px;">
+  
+  <a href="https://rapid-route.github.io/" style="display: inline-block; background: rgba(0, 123, 255, 0.1); color: #007bff; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; border: 1px solid rgba(0, 123, 255, 0.2); transition: all 0.3s; font-size: 0.9rem;">
+    [Website & Video]
+  </a>
 
-    <!-- 链接按钮 -->
-    <div style="margin-bottom: 25px;">
-      <a href="https://rapid-route.github.io/index_cn.html" style="display: inline-block; background: rgba(0, 123, 255, 0.1); color: #007bff; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; border: 1px solid rgba(0, 123, 255, 0.2); transition: all 0.3s; font-size: 0.9rem;">
-        [中文网站 & 视频]
-      </a>
-    </div>
+  <a href="https://rapid-route.github.io/index_cn.html" style="display: inline-block; background: rgba(0, 123, 255, 0.1); color: #007bff; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; border: 1px solid rgba(0, 123, 255, 0.2); transition: all 0.3s; font-size: 0.9rem;">
+    [中文网站 & 视频]
+  </a>
+  
+</div>
 
     <!-- 详细摘要 (扩充版) -->
     <div style="font-size: 0.95rem; line-height: 1.6; opacity: 0.9; text-align: justify; margin-bottom: 20px;">
