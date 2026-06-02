@@ -30,7 +30,7 @@ author_profile: true
 -  **[ESWA '25]** Yang Li, Tianshu Wang, **<u>Zezhong Li</u>,** Rongshun Juan, Yatao Zhou, Man Luo, Leihao Du, and Zhong-Ke Gao, “**FFL-DWA: A fuzzy and forward-looking DWA for underwater glider
 local path planning**,” Expert Systems With Applications (ESWA), Revise.
 
--  **[OE '25]** Man Luo, Rongshun Juan, Shoufu Liu, **<u>Zezhong Li</u>,** Junkang Chen, and Zhong-Ke Gao, “**HPGAF: Hybrid-Perception Graph-Attentive Formation Navigation for Autonomous Underwater Gliders via Multi-Agent Reinforcement Learning**,” Ocean Engineering (OE), Revise.
+-  **[OE '25]** Man Luo, Rongshun Juan, Shoufu Liu, **<u>Zezhong Li</u>,** Junkang Chen, and Zhong-Ke Gao, “**HPGAF: Hybrid-Perception Graph-Attentive Formation Navigation for Autonomous Underwater Gliders via Multi-Agent Reinforcement Learning**,” Ocean Engineering (OE), Accept.
 
 -  **[OE '26]** Rongshun Juan, Tianshu Wang, Shoufu Liu, **<u>Zezhong Li</u>,** Shuaikun Shi, and Zhong-Ke Gao, “**UUV obstacle avoidance for terrain tracking problem through distributional reinforcement learning**,” Ocean Engineering (OE), Under Reveiw.
 
