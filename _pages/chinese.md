@@ -56,6 +56,8 @@ author_profile: true
 
 -  **[OE '25]** Man Luo, Rongshun Juan, Shoufu Liu, **<u>Zezhong Li</u>,** Junkang Chen, and Zhong-Ke Gao, “**HPGAF: Hybrid-Perception Graph-Attentive Formation Navigation for Autonomous Underwater Gliders via Multi-Agent Reinforcement Learning**,” Ocean Engineering (OE), Accept.
 
+-  **[OE '26]** Tianshu Wang, Lianbo Wei, Rongshun Juan, Yang Li, **<u>Zezhong Li</u>,** Jin Chen Yatao Zhou, Yong Zhang and Zhong-Ke Gao, “**Sea-Trial Real2Sim and Adjoint-Anchored Model Predictive Control for Cross-Profile Trajectory Tracking of Underwater Gliders**,” Ocean Engineering (OE), Under Review.
+
 -  **[OE '26]** Rongshun Juan, Tianshu Wang, Shoufu Liu, **<u>Zezhong Li</u>,** Shuaikun Shi, and Zhong-Ke Gao, “**UUV obstacle avoidance for terrain tracking problem through distributional reinforcement learning**,” Ocean Engineering (OE), Under Reveiw.
 
 -  **[JOES '26]** Tianshu Wang, Lianbo Wei, Yang Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yong Zhang, and Zhong-Ke Gao, “**Adjoint-Based Dynamics Inversion for Underwater Glider System Identification**,” Journal of Ocean Engineering and Science (JOES), Revise.
