@@ -37,8 +37,6 @@ author_profile: true
 
 -  **[JOES '26]** Tianshu Wang, Lianbo Wei, Yang Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yong Zhang, and Zhong-Ke Gao, “**Adjoint-Based Dynamics Inversion for Underwater Glider System Identification**,” Journal of Ocean Engineering and Science (JOES), Revise.
 
--  **[ESWA '26]** Yang Li, Yatao Zhou, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** Shoufu Liu, Shuaikun Shi, Zhong-Ke Gao, “**DCEM-DP-TVOC-RRT\*: A global path planning method for multiple underwater gliders in time-varying ocean currents**,” Expert Systems With Applications (ESWA), 2026, Under Reveiw.
-
 -  **[IEEE IOTJ '26]** Shoufu Liu, Haibing Li, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Shuaikun Shi, Zhong-Ke Gao, “**UUV Path Following Control Based on Distributional Reinforcement Learning**,” IEEE Internet of Things Journal (IOTJ), 2026, Revise.
 
 -  **[OE '26]** Junkang Chen, Tao Yang, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Qi Wang, and Zhong-Ke Gao, “**Three-dimensional path planning for underwater glider using safe reinforcement learning**,” Ocean Engineering (OE), 2026, ([**link**](https://www.sciencedirect.com/science/article/pii/S0029801826008310)).
