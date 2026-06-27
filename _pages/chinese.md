@@ -68,7 +68,7 @@ author_profile: true
 
 -  **[OE '26]** Yatao Zhou, Yang Li, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Reinforcement learning-based path planning for underwater gliders using ocean current forecasts**,” Ocean Engineering (OE), 2026, ([**link**](https://www.sciencedirect.com/science/article/abs/pii/S0029801826005706?via%3Dihub)).
 
-- **[AEI '26]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Wei Ma, Junhe Wan, and Zhong-Ke Gao, “**TVOC-RRT\*: A global path planning method for underwater glider based on time-varying ocean current prediction data**,” Advanced Engineering Informatics (AEI), 2026, ([**link**](https://authors.elsevier.com/c/1nKu65FA1kHGvH)).
+- **[AEI '26]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Wei Ma, Junhe Wan, and Zhong-Ke Gao, “**GDCEM–DP–TVOC-RRT\*: Global path planning for multi-glider multi-target in time-varying ocean currents**,” Advanced Engineering Informatics (AEI), 2026, ([**link**](https://authors.elsevier.com/c/1nKu65FA1kHGvH)).
 
 - **[CMPB '26]** Wanjun Feng, Chao Ma, ZhiKang Ma, Jianpeng An, Huazhen Chen, **<u>Zezhong Li</u>**, Jianchang Zhao, and Zhongke Gao, "**3D Gaussian Splatting with Geometry Guided Densification for Endoscopic Reconstruction**", Computer Methods and Programs in Biomedicine (CMPB), Under Review.
 
