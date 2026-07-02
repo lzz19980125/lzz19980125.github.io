@@ -37,11 +37,11 @@ I am a third-year D.Eng. candidate in the Institute of Artificial intelligence a
 
 - **[IEEE Sens J '25]** **<u>Zezhong Li</u>,** Wei Guo, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “**AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer**,” IEEE Sensors Journal (IEEE Sens J), 2025. <span style="color:rgb(142,103,150)">**[Collaborated with Huadian Heavy industries Co. Ltd]**</span>, ([**link**](https://ieeexplore.ieee.org/document/10906418))
 
-- **[NEUCOM '25]** **<u>Zezhong Li</u>,** and Ling Wang, “**JT3D: Joint Temporal Segmentation for Common Pattern Discovery in 3D Tensor Time Series via Segmented Gaussian Modeling and Information-Gain**,” Neurocomputing (NEUCOM), 2026, ([**link**](https://www.sciencedirect.com/science/article/pii/S0925231226008507?via%3Dihub)).
+- **[NEUCOM '26]** **<u>Zezhong Li</u>,** and Ling Wang, “**JT3D: Joint Temporal Segmentation for Common Pattern Discovery in 3D Tensor Time Series via Segmented Gaussian Modeling and Information-Gain**,” Neurocomputing (NEUCOM), 2026, ([**link**](https://www.sciencedirect.com/science/article/pii/S0925231226008507?via%3Dihub)).
 
 - **[OE '26]** **<u>Zezhong Li</u>,** Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, and Zhongke Gao, “**Collision-Free Time-Optimal Planning of Underwater Gliders in Time-Varying Currents via Adaptive Niching Dual-Archive Differential Evolution**,” Ocean Engineering (OE), 2026, Revise, ([**Website**](https://rapid-route.github.io/)).
 
-- **[ACM TIST '25]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” ACM Transactions on Intelligent Systems and Technology (ACM TIST), Under Review.
+- **[ACM TIST '26]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” ACM Transactions on Intelligent Systems and Technology (ACM TIST), Revise.
 
 - **[Kzyjc '24]** Ling Wang, and **<u>Zezhong Li</u>**, "Adaptive greedy Gaussian segmentation algorithm based on multivariate time series", Kongzhi yu Juece/Control and Decision (Kzyjc), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search))
 
