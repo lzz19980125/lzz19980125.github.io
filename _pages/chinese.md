@@ -40,7 +40,7 @@ author_profile: true
 
 - **[OE '26]** **<u>Zezhong Li</u>,** Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, and Zhongke Gao, “**Collision-Free Time-Optimal Planning of Underwater Gliders in Time-Varying Currents via Adaptive Niching Dual-Archive Differential Evolution**,” Ocean Engineering (OE), 2026, Revise, ([**Website**](https://rapid-route.github.io/)).
 
-- **[ACM TIST '25]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” ACM Transactions on Intelligent Systems and Technology (ACM TIST), Under Review.
+- **[ACM TIST '26]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” ACM Transactions on Intelligent Systems and Technology (ACM TIST), Revise.
 
 - **[KZYJC '24]** Ling Wang, and **<u>Zezhong Li</u>**, "**Adaptive greedy Gaussian segmentation algorithm based on multivariate time series**", Kongzhi yu Juece/Control and Decision (KZYJC), 2024. ([**link**](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240224?st=search)).
 
