@@ -70,7 +70,7 @@ author_profile: true
 
 - **[AEI '26]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Wei Ma, Junhe Wan, and Zhong-Ke Gao, “**GDCEM–DP–TVOC-RRT\*: Global path planning for multi-glider multi-target in time-varying ocean currents**,” Advanced Engineering Informatics (AEI), 2026, ([**link**](https://authors.elsevier.com/c/1nKu65FA1kHGvH)).
 
-- **[NEUCOM '26]** Shuaikun Shi, Shoufu Liu, Rongshun Juan, **<u>Zezhong Li</u>**, Leihao Du, Chongzhang Wang, Qi Wang, and Zhongke Gao, "**Reinforcement Learning-Based Hierarchical Control with Reference Refinement for Wind-Robust UAV Power Line Inspection in Mountainous Terrain**", Neurocomputing (NEUCOM), Under Review.
+- **[ESWA '26]** Shuaikun Shi, Shoufu Liu, Rongshun Juan, **<u>Zezhong Li</u>**, Leihao Du, Chongzhang Wang, Qi Wang, and Zhongke Gao, "**Reinforcement Learning-Based Hierarchical Control with Reference Refinement for Wind-Robust UAV Power Line Inspection in Mountainous Terrain**", Expert Systems with Applications (ESWA), 2026, Under Review.
 
 - **[CMPB '26]** Wanjun Feng, Chao Ma, ZhiKang Ma, Jianpeng An, Huazhen Chen, **<u>Zezhong Li</u>**, Jianchang Zhao, and Zhongke Gao, "**3D Gaussian Splatting with Geometry Guided Densification for Endoscopic Reconstruction**", Computer Methods and Programs in Biomedicine (CMPB), Under Review.
 
