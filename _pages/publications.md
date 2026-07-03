@@ -49,7 +49,9 @@ author_profile: true
 
 - **[CMPB '26]** Wanjun Feng, Chao Ma, ZhiKang Ma, Jianpeng An, Huazhen Chen, **<u>Zezhong Li</u>**, Jianchang Zhao, and Zhongke Gao, "**3D Gaussian Splatting with Geometry Guided Densification for Endoscopic Reconstruction**", Computer Methods and Programs in Biomedicine (CMPB), Under Review.
 
--  **[IEEE Sens J '26]** Zhiqiang Zhao, Chen Hanqing, Bang Zhou, **<u>Zezhong Li</u>**, and Zhongke Gao, "**MSADNet: A Multi-Scale Attention-Depthwise Network for oil–water Flow Measurement Using Directional Antenna Microwave Sensing**", IEEE Sensors Journal (IEEE Sens J), Revise. 
+-  **[IEEE Sens J '26]** Zhiqiang Zhao, Chen Hanqing, Bang Zhou, **<u>Zezhong Li</u>**, and Zhongke Gao, "**MSADNet: A Multi-Scale Attention-Depthwise Network for oil–water Flow Measurement Using Directional Antenna Microwave Sensing**", IEEE Sensors Journal (IEEE Sens J), Revise.
+
+-  **[IEEE RAL '26]** Chongzhang Wang, Na Dong, Zhongke Gao, Rongshun Juan, Zhendong Guo, Guangbin Wang, Shuaibing Mi, Shuaikun Shi, and **<u>Zezhong Li</u>** "**Correct Only What Drifts: Adaptive Dimension-Selective Robust Fusion for Dual-Source Visual-Inertial Odometry on UAVs**", IEEE Robotics and Automation Letters (IEEE RAL), 2026, Under Review.
 
 - **[ESWA '25]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Zhong-Ke Gao, “**AD-RRT\*: An RRT\*-based global path planning approach for underwater gliders with alpha shapes and DBSCAN**,” Expert Systems With Applications (ESWA), 2025.  ([**link**](https://www.sciencedirect.com/science/article/pii/S0957417425018391)).
 
