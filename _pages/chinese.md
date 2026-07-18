@@ -107,7 +107,7 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 # <img src="../images/service.png" width="55" height="50"> 学术服务
 
 - **学术服务**
-  - 2026年担任<span style="color:rgb(95,181,206)">[Advanced Engineering Informatics](https://lzz19980125.github.io/files/Certificate_ADVEI_Recognised.pdf)</span>审稿人。
+  - 2026年担任<span style="color:rgb(95,181,206)">[Advanced Engineering Informatics](https://lzz19980125.github.io/files/Certificate_ADVEI_Recognised.pdf)</span>, and <span style="color:rgb(95,181,206)">[ISA Transactions](https://lzz19980125.github.io/files/Certificate_ISATRA_Recognised.pdf)</span>审稿人。
 
   - 2025年担任<span style="color:rgb(95,181,206)">[Expert Systems with Applications](https://lzz19980125.github.io/files/Certificate_ESWA_Recognised.pdf)</span>, <span style="color:rgb(95,181,206)">[Neural Networks](https://lzz19980125.github.io/files/Certificate_NN_Recognised.pdf)</span>审稿人。
 
@@ -116,4 +116,4 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 # <img src="../images/honor.png" width="55" height="50"> 主要荣誉
 
 - 2024-2025   天津大学三好学生。
-- 2024-2025   天津大学年度科技创新先进个人。
+- 2024-2025   天津大学年度科技创新先进个人（同届前3%）。
