@@ -47,7 +47,7 @@ author_profile: true
 
 - **[ESWA '26]** Shuaikun Shi, Shoufu Liu, Rongshun Juan, **<u>Zezhong Li</u>**, Leihao Du, Chongzhang Wang, Qi Wang, and Zhongke Gao, "**Reinforcement Learning-Based Hierarchical Control with Reference Refinement for Wind-Robust UAV Power Line Inspection in Mountainous Terrain**", Expert Systems with Applications (ESWA), 2026, Under Review.
 
-- **[CMPB '26]** Wanjun Feng, Chao Ma, ZhiKang Ma, Jianpeng An, Huazhen Chen, **<u>Zezhong Li</u>**, Jianchang Zhao, and Zhongke Gao, "**3D Gaussian Splatting with Geometry Guided Densification for Endoscopic Reconstruction**", Computer Methods and Programs in Biomedicine (CMPB), Under Review.
+- **[CMPB '26]** Wanjun Feng, Chao Ma, ZhiKang Ma, Jianpeng An, Huazhen Chen, **<u>Zezhong Li</u>**, Jianchang Zhao, and Zhongke Gao, "**3D Gaussian Splatting with Geometry Guided Densification for Endoscopic Reconstruction**", Computer Methods and Programs in Biomedicine (CMPB), Revise.
 
 -  **[IEEE Sens J '26]** Zhiqiang Zhao, Chen Hanqing, Bang Zhou, **<u>Zezhong Li</u>**, and Zhongke Gao, "**MSADNet: A Multi-Scale Attention-Depthwise Network for oil–water Flow Measurement Using Directional Antenna Microwave Sensing**", IEEE Sensors Journal (IEEE Sens J), Revise.
 
