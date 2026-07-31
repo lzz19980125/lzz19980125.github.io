@@ -72,7 +72,7 @@ author_profile: true
 
 - **[ESWA '26]** Shuaikun Shi, Shoufu Liu, Rongshun Juan, **<u>Zezhong Li</u>**, Leihao Du, Chongzhang Wang, Qi Wang, and Zhongke Gao, "**Reinforcement Learning-Based Hierarchical Control with Reference Refinement for Wind-Robust UAV Power Line Inspection in Mountainous Terrain**", Expert Systems with Applications (ESWA), 2026, Under Review.
 
-- **[CMPB '26]** Wanjun Feng, Chao Ma, ZhiKang Ma, Jianpeng An, Huazhen Chen, **<u>Zezhong Li</u>**, Jianchang Zhao, and Zhongke Gao, "**3D Gaussian Splatting with Geometry Guided Densification for Endoscopic Reconstruction**", Computer Methods and Programs in Biomedicine (CMPB), Under Review.
+- **[CMPB '26]** Wanjun Feng, Chao Ma, ZhiKang Ma, Jianpeng An, Huazhen Chen, **<u>Zezhong Li</u>**, Jianchang Zhao, and Zhongke Gao, "**3D Gaussian Splatting with Geometry Guided Densification for Endoscopic Reconstruction**", Computer Methods and Programs in Biomedicine (CMPB), Revise.
 
 - **[IEEE Sens J '26]** Zhiqiang Zhao, Chen Hanqing, Bang Zhou, **<u>Zezhong Li</u>**, and Zhongke Gao, "**MSADNet: A Multi-Scale Attention-Depthwise Network for oil–water Flow Measurement Using Directional Antenna Microwave Sensing**", IEEE Sensors Journal (IEEE Sens J), Revise.
 
@@ -109,7 +109,7 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 - **学术服务**
   - 2026 <span style="color:rgb(95,181,206)">[ACM 认证](https://lzz19980125.github.io/files/Certificate_ACM.pdf)</span>审稿人。
   
-  - 2026年担任<span style="color:rgb(95,181,206)">[Advanced Engineering Informatics](https://lzz19980125.github.io/files/Certificate_ADVEI_Recognised.pdf)</span>, <span style="color:rgb(95,181,206)">[ISA Transactions](https://lzz19980125.github.io/files/Certificate_ISATRA_Recognised.pdf)</span>, The Journal of SuperComputing审稿人。
+  - 2026年担任<span style="color:rgb(95,181,206)">[Advanced Engineering Informatics](https://lzz19980125.github.io/files/Certificate_ADVEI_Recognised.pdf)</span>, <span style="color:rgb(95,181,206)">[ISA Transactions](https://lzz19980125.github.io/files/Certificate_ISATRA_Recognised.pdf)</span>, <span style="color:rgb(95,181,206)">[Journal of SuperComputing](https://lzz19980125.github.io/files/Certificate_Supercomputing.pdf)</span>审稿人。
 
   - 2025年担任<span style="color:rgb(95,181,206)">[Expert Systems with Applications](https://lzz19980125.github.io/files/Certificate_ESWA_Recognised.pdf)</span>, <span style="color:rgb(95,181,206)">[Neural Networks](https://lzz19980125.github.io/files/Certificate_NN_Recognised.pdf)</span>审稿人。
 
