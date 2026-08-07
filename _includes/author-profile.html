@@ -158,6 +158,9 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
+      {% endif %}
+      {% if author.xiaohongshu %}
+      <li><a href="{{ author.xiaohongshu }}"><i class="fas fa-fw fa-book-open icon-pad-right" aria-hidden="true" style="color: #ff2442;"></i>小红书</a></li>
       {% endif %}      
     </ul>
   </div>
