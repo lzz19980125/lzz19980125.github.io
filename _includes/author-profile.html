@@ -54,7 +54,7 @@
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
       {% if author.scopus %}
-      <li><a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.scopus }}#"><i class="fa-sharp fa-solid fa-e icon-pad-right" aria-hidden="true" style="color: #fb8260;"></i>Scopus</a></li>
+      <li><a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.scopus }}#"><img src="{{ '/images/scopus.svg' | prepend: base_path }}" alt="" aria-hidden="true" style="width: 20px; height: 20px; margin-right: 0.55em; vertical-align: -0.32em;">Scopus</a></li>
       {% endif %} 
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
@@ -63,7 +63,7 @@
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
       {% if author.dblp %}
-        <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw icon-pad-right"></i>dblp</a></li>
+        <li><a href="{{ author.dblp }}"><img src="{{ '/images/dblp.icon.120x120.png' | prepend: base_path }}" alt="" aria-hidden="true" style="width: 20px; height: 20px; margin-right: 0.55em; vertical-align: -0.32em;">dblp</a></li>
       {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
