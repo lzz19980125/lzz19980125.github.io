@@ -38,7 +38,7 @@ author_profile: true
 
 - **[NEUCOM '25]** **<u>Zezhong Li</u>,** and Ling Wang, “**JT3D: Joint Temporal Segmentation for Common Pattern Discovery in 3D Tensor Time Series via Segmented Gaussian Modeling and Information-Gain**,” Neurocomputing (NEUCOM), 2026, ([**link**](https://www.sciencedirect.com/science/article/pii/S0925231226008507?via%3Dihub)).
 
-- **[OE '26]** **<u>Zezhong Li</u>,** Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, and Zhongke Gao, “**Collision-free path planning for underwater gliders in time-varying currents via dual-archive niching differential evolution**,” Ocean Engineering (OE), 2026, ([**link**](https://www.sciencedirect.com/science/article/pii/S0029801826030490?dgcid=coauthor)), ([**Website**](https://rapid-route.github.io/)).
+- **[OE '26]** **<u>Zezhong Li</u>,** Rongshun Juan, Yang Li, Shoufu Liu, Tianshu Wang, Shuaikun Shi, Leihao Du, Wanjun Feng, and Zhongke Gao, “**Collision-free path planning for underwater gliders in time-varying currents via dual-archive niching differential evolution**,” Ocean Engineering (OE), 2026, <span style="color:rgb(46,107,229)">**[Collaborated with Laoshan National Laboratory]**</span>, ([**link**](https://www.sciencedirect.com/science/article/pii/S0029801826030490?dgcid=coauthor)), ([**Website**](https://rapid-route.github.io/)), ([**link**](https://www.sciencedirect.com/science/article/pii/S0029801826030490?dgcid=coauthor)), ([**Website**](https://rapid-route.github.io/)).
 
 - **[ACM TIST '26]** Ling Wang\*, **<u>Zezhong Li</u>\*,** and XiaoLong Li, “**Feature-Decoupled Clustering for Multivariate Spatio-Temporal Data**,” ACM Transactions on Intelligent Systems and Technology (ACM TIST), Revise.
 
