@@ -42,10 +42,10 @@
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><img src="{{ '/images/google-scholar.png' | prepend: base_path }}" alt="" aria-hidden="true" style="width: 20px; height: 20px; margin-right: 0.55em; vertical-align: -0.32em;">Google Scholar</a></li>
       {% endif %}
       {% if author.semantic %}
-        <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>
+        <li><a href="{{ author.semantic }}"><img src="{{ '/images/semantic-scholar.png' | prepend: base_path }}" alt="" aria-hidden="true" style="width: 20px; height: 20px; margin-right: 0.55em; vertical-align: -0.32em;">Semantic Scholar</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw icon-pad-right"></i>Impactstory</a></li>
@@ -60,7 +60,7 @@
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
       {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
+        <li><a href="{{ author.researchgate }}"><img src="{{ '/images/researchgate.png' | prepend: base_path }}" alt="" aria-hidden="true" style="width: 20px; height: 20px; margin-right: 0.55em; vertical-align: -0.32em;">ResearchGate</a></li>
       {% endif %}
       {% if author.dblp %}
         <li><a href="{{ author.dblp }}"><img src="{{ '/images/dblp.icon.120x120.png' | prepend: base_path }}" alt="" aria-hidden="true" style="width: 20px; height: 20px; margin-right: 0.55em; vertical-align: -0.32em;">dblp</a></li>
@@ -157,7 +157,7 @@
         <li><a href="https://www.youtube.com/@{{ author.youtube }}"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
       {% endif %}
       {% if author.zhihu %}
-      <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
+      <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><img src="{{ '/images/zhihu.png' | prepend: base_path }}" alt="" aria-hidden="true" style="width: 20px; height: 20px; margin-right: 0.55em; vertical-align: -0.32em;">Zhihu</a></li>
       {% endif %}
       {% if author.xiaohongshu %}
       <li><a href="{{ author.xiaohongshu }}"><img src="{{ '/images/xiaohongshu.svg' | prepend: base_path }}" alt="" aria-hidden="true" style="width: 20px; height: 20px; margin-right: 0.55em; vertical-align: -0.32em;">小红书</a></li>
