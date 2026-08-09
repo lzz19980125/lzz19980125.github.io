@@ -322,6 +322,36 @@
   }
 }
 
+/* Keep the overflow menu readable when dark mode is enabled. */
+html[data-theme="dark"] #site-nav .hidden-links {
+  color: var(--global-masthead-link-color);
+  background: var(--global-bg-color);
+  border-color: var(--global-border-color);
+
+  a,
+  a:hover,
+  a:focus {
+    color: var(--global-masthead-link-color);
+  }
+
+  a:hover,
+  a:focus {
+    background: $gray;
+  }
+
+  li {
+    border-color: var(--global-border-color);
+  }
+
+  &:before {
+    border-color: var(--global-border-color) transparent;
+  }
+
+  &:after {
+    border-color: var(--global-bg-color) transparent;
+  }
+}
+
 
 /*
    Navigation list
