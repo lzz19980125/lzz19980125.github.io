@@ -10,7 +10,6 @@ redirect_from:
 
 <hr style="border: 0; border-top: 1px solid rgba(128,128,128, 0.2); margin: 20px 0 40px 0;">
 
-
 <!-- 项目卡片容器 -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 50px; align-items: flex-start;">
@@ -118,17 +117,11 @@ redirect_from:
 
   <div style="flex: 1 1 450px; min-width: 300px; display: flex; flex-direction: column; gap: 15px;">
     <div style="position: relative;">
-      <div style="position: absolute; bottom: 12px; left: 12px; background-color: #0056b3; color: white; padding: 4px 10px; font-size: 0.8rem; font-weight: bold; z-index: 5; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.3); letter-spacing: 0.5px;">
-        Algorithm Overview
-      </div>
       <img src="https://cargo-forge3d.github.io/resources/figures/cargo-forge3d-algorithm-overview.png" alt="CargoForge3D algorithm overview" style="width: 100%; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); display: block; border: 1px solid rgba(128,128,128, 0.2);">
     </div>
 
 
     <div style="position: relative;">
-      <div style="position: absolute; bottom: 12px; left: 12px; background-color: #0056b3; color: white; padding: 4px 10px; font-size: 0.8rem; font-weight: bold; z-index: 5; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.3); letter-spacing: 0.5px;">
-        Serving Architecture
-      </div>
     
       <img src="https://cargo-forge3d.github.io/resources/figures/cargo-forge3d-system-architecture.png" alt="CargoForge3D system architecture" style="width: 100%; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); display: block; border: 1px solid rgba(128,128,128, 0.2);">
     </div>
