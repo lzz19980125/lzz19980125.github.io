@@ -68,6 +68,8 @@ author_profile: true
 
 -  **[OE '26]** Yatao Zhou, Yang Li, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Reinforcement learning-based path planning for underwater gliders using ocean current forecasts**,” Ocean Engineering (OE), 2026, ([**link**](https://www.sciencedirect.com/science/article/abs/pii/S0029801826005706?via%3Dihub)).
 
+-  **[OE '26]** Yatao Zhou, Yang Li, Rongshun Juan, Tianshu Wang, **<u>Zezhong Li</u>,** and Zhong-Ke Gao, “**Multi-underwater glider cooperative path tracking based on multi-agent reinforcement learning with ocean current forecast**,” Ocean Engineering (OE), 2026, Under Review.
+
 - **[AEI '26]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Wei Ma, Junhe Wan, and Zhong-Ke Gao, “**GDCEM–DP–TVOC-RRT\*: Global path planning for multi-glider multi-target in time-varying ocean currents**,” Advanced Engineering Informatics (AEI), 2026, ([**link**](https://authors.elsevier.com/c/1nKu65FA1kHGvH)).
 
 - **[ESWA '26]** Shuaikun Shi, Shoufu Liu, Rongshun Juan, **<u>Zezhong Li</u>**, Leihao Du, Chongzhang Wang, Qi Wang, and Zhongke Gao, "**Reinforcement Learning-Based Hierarchical Control with Reference Refinement for Wind-Robust UAV Power Line Inspection in Mountainous Terrain**", Expert Systems with Applications (ESWA), 2026, Under Review.
