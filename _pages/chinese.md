@@ -62,6 +62,8 @@ author_profile: true
 
 -  **[JOES '26]** Tianshu Wang, Lianbo Wei, Yang Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yong Zhang, and Zhong-Ke Gao, “**Virtual sensing of ocean currents and hydrodynamic drift for underwater gliders via adjoint-based dynamics inversion**,” Journal of Ocean Engineering and Science (JOES), Accept.
 
+-  [IEEE TCE '26] Shoufu Liu, Haibing Li, Rongshun Juan, Zezhong Li, Yang Li, Shuaikun Shi, and Zhongke Gao, “Distributional Reinforcement Learning for Reliable UUV Navigation in Complex Underwater Environments,” IEEE Transactions on Consumer Electronics (IEEE TCE), 2026, Under Review.
+
 -  **[IEEE IOTJ '26]** Shoufu Liu, Haibing Li, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Shuaikun Shi, Zhong-Ke Gao, “**UUV Path Following Control Based on Distributional Reinforcement Learning**,” IEEE Internet of Things Journal (IOTJ), 2026, Revise.
 
 -  **[OE '26]** Junkang Chen, Tao Yang, Rongshun Juan, Man Luo, **<u>Zezhong Li</u>,** Qi Wang, and Zhong-Ke Gao, “**Three-dimensional path planning for underwater glider using safe reinforcement learning**,” Ocean Engineering (OE), 2026, ([**link**](https://www.sciencedirect.com/science/article/pii/S0029801826008310)).
