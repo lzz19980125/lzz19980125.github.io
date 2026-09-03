@@ -35,7 +35,7 @@ author_profile: true
 
 -  **[OE '26]** Rongshun Juan, Tianshu Wang, Shoufu Liu, **<u>Zezhong Li</u>,** Shuaikun Shi, and Zhong-Ke Gao, “**UUV obstacle avoidance for terrain tracking problem through distributional reinforcement learning**,” Ocean Engineering (OE), Under Reveiw.
 
--  **[JOES '26]** Tianshu Wang, Lianbo Wei, Yang Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yong Zhang, and Zhong-Ke Gao, “**Virtual sensing of ocean currents and hydrodynamic drift for underwater gliders via adjoint-based dynamics inversion**,” Journal of Ocean Engineering and Science (JOES), Accept.
+-  **[JOES '26]** Tianshu Wang, Lianbo Wei, Yang Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yong Zhang, and Zhong-Ke Gao, “**Virtual sensing of ocean currents and hydrodynamic drift for underwater gliders via adjoint-based dynamics inversion**,” Journal of Ocean Engineering and Science (JOES), ([**link**](https://www.sciencedirect.com/science/article/pii/S2468013326001415)).
 
 -  **[IEEE TCE '26]** Shoufu Liu, Haibing Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yang Li, Shuaikun Shi, and Zhongke Gao, “**Distributional Reinforcement Learning for Reliable UUV Navigation in Complex Underwater Environments**,” IEEE Transactions on Consumer Electronics (IEEE TCE), 2026, Under Review.
 
