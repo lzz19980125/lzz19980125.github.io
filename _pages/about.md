@@ -68,4 +68,10 @@ I am a fourth-year D.Eng. candidate in the Institute of Artificial intelligence 
 
 - 2024-2025 **Tianjin University Merit Student**.
 - 2024-2025 **Tianjin University Outstanding Individual in Scientific and Technological Innovation (Top 3%)**.
+- 2021–2023 **University of Science and Technology Beijing Second-Class Academic Scholarship (Twice)**.
+- 2020 **University of Science and Technology Beijing Graduate Freshman Scholarship**.
+- 2016–2018 **Nanjing Tech University First-Class Academic Scholarship (Twice, Top 2% in Major)**.
+- 2016–2020 **Nanjing Tech University Second-Class Academic Scholarship (Six Times)**.
+- 2018 **China Undergraduate Mathematical Contest in Modeling (CUMCM), Jiangsu Provincial Third Prize**.
+- 2018 **National University Cloud Computing Application Innovation Competition, East China Regional Third Prize**.
 
