@@ -113,7 +113,7 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 - **学术服务**
   - 2026 <span style="color:rgb(95,181,206)">[ACM 认证](https://lzz19980125.github.io/files/Certificate_ACM.pdf)</span>审稿人。
   
-  - 2026年担任IEEE Internet of Things Journal, <span style="color:rgb(95,181,206)">[Advanced Engineering Informatics](https://lzz19980125.github.io/files/Certificate_ADVEI_Recognised.pdf)</span>, <span style="color:rgb(95,181,206)">[ISA Transactions](https://lzz19980125.github.io/files/Certificate_ISATRA_Recognised.pdf)</span>, <span style="color:rgb(95,181,206)">[Journal of SuperComputing](https://lzz19980125.github.io/files/Certificate_Supercomputing.pdf)</span>审稿人。
+  - 2026年担任IEEE Transactions on Industrial Informatics, IEEE Internet of Things Journal, <span style="color:rgb(95,181,206)">[Advanced Engineering Informatics](https://lzz19980125.github.io/files/Certificate_ADVEI_Recognised.pdf)</span>, <span style="color:rgb(95,181,206)">[ISA Transactions](https://lzz19980125.github.io/files/Certificate_ISATRA_Recognised.pdf)</span>, <span style="color:rgb(95,181,206)">[Journal of SuperComputing](https://lzz19980125.github.io/files/Certificate_Supercomputing.pdf)</span>审稿人。
 
   - 2025年担任<span style="color:rgb(95,181,206)">[Expert Systems with Applications](https://lzz19980125.github.io/files/Certificate_ESWA_Recognised.pdf)</span>, <span style="color:rgb(95,181,206)">[Neural Networks](https://lzz19980125.github.io/files/Certificate_NN_Recognised.pdf)</span>审稿人。
 
