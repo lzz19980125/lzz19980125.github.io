@@ -27,6 +27,7 @@ I am a fourth-year D.Eng. candidate in the Institute of Artificial intelligence 
   - Deep learning based unsupervised anomaly detection for multivariate time series. 
   - Multivariate time series unsupervised segmentation (a.k.a. change point detection).
 - Autonomous marine systems (focusing on underwater gliders).
+- Large language models (LLMs) post-training.
 
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
