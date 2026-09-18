@@ -33,8 +33,6 @@ author_profile: true
 
 -  **[AEI '26]** Tianshu Wang, Lianbo Wei, Rongshun Juan, Yang Li, **<u>Zezhong Li</u>,** Jin Chen Yatao Zhou, Yong Zhang and Zhong-Ke Gao, “**Sea-Trial Real2Sim and Adjoint-Anchored Model Predictive Control for Cross-Profile Trajectory Tracking of Underwater Gliders**,” Advanced Engineering Informatics (AEI), Revise.
 
--  **[OE '26]** Rongshun Juan, Tianshu Wang, Shoufu Liu, **<u>Zezhong Li</u>,** Shuaikun Shi, and Zhong-Ke Gao, “**UUV obstacle avoidance for terrain tracking problem through distributional reinforcement learning**,” Ocean Engineering (OE), Under Reveiw.
-
 -  **[JOES '26]** Tianshu Wang, Lianbo Wei, Yang Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yong Zhang, and Zhong-Ke Gao, “**Virtual sensing of ocean currents and hydrodynamic drift for underwater gliders via adjoint-based dynamics inversion**,” Journal of Ocean Engineering and Science (JOES), ([**link**](https://www.sciencedirect.com/science/article/pii/S2468013326001415)).
 
 -  **[IEEE TCE '26]** Shoufu Liu, Haibing Li, Rongshun Juan, **<u>Zezhong Li</u>,** Yang Li, Shuaikun Shi, and Zhongke Gao, “**Distributional Reinforcement Learning for Reliable UUV Navigation in Complex Underwater Environments**,” IEEE Transactions on Consumer Electronics (IEEE TCE), 2026, Under Review.
@@ -49,7 +47,7 @@ author_profile: true
 
 - **[AEI '26]** Yang Li, Rongshun Juan, Yatao Zhou, Tianshu Wang, **<u>Zezhong Li</u>,** Wei Guo, Wei Ma, Junhe Wan, and Zhong-Ke Gao, “**GDCEM–DP–TVOC-RRT\*: Global path planning for multi-glider multi-target in time-varying ocean currents**,” Advanced Engineering Informatics (AEI), 2026, ([**link**](https://authors.elsevier.com/c/1nKu65FA1kHGvH)).
 
-- **[ESWA '26]** Shuaikun Shi, Shoufu Liu, Rongshun Juan, **<u>Zezhong Li</u>**, Leihao Du, Chongzhang Wang, Qi Wang, and Zhongke Gao, "**A Balanced Dual-Horizon CrossQ Framework for Wind-Robust Hierarchical UAV Power-Line Inspection in Mountainous Terrain**", Expert Systems with Applications (ESWA), 2026, Under Review.
+- **[NEUCOM '26]** Shuaikun Shi, Shoufu Liu, Rongshun Juan, **<u>Zezhong Li</u>**, Leihao Du, Chongzhang Wang, Qi Wang, and Zhongke Gao, "**A Balanced Dual-Horizon CrossQ Framework for Wind-Robust Hierarchical UAV Power-Line Inspection in Mountainous Terrain**", Neurocomputing (NEUCOM), 2026, Under Review.
 
 - **[CMPB '26]** Wanjun Feng, Chao Ma, ZhiKang Ma, Jianpeng An, Huazhen Chen, **<u>Zezhong Li</u>**, Jianchang Zhao, and Zhongke Gao, "**3D Gaussian Splatting with Geometry Guided Densification for Endoscopic Reconstruction**", Computer Methods and Programs in Biomedicine (CMPB), Revise.
 
