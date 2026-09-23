@@ -67,6 +67,7 @@ I am a fourth-year D.Eng. candidate in the Institute of Artificial intelligence 
 
 # <img src="../images/honor.png" width="55" height="50"> Honor
 
+- 2025-2026 **Tianjin University Merit Student**.
 - 2024-2025 **Tianjin University Merit Student**.
 - 2025-2026 **Tianjin University Outstanding Individual in Scientific and Technological Innovation (Top 3%)**.
 - 2021–2023 **University of Science and Technology Beijing Second-Class Academic Scholarship (Twice)**.
