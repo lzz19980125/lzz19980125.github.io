@@ -145,10 +145,10 @@ redirect_from:
 
 
     <div style="margin-bottom: 25px; display: flex; gap: 15px; flex-wrap: wrap;">
-      <a href="https://cargo-forge3d.github.io/" style="display: inline-block; background: rgba(0, 123, 255, 0.1); color: #007bff; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; border: 1px solid rgba(0, 123, 255, 0.2); transition: all 0.3s; font-size: 0.9rem;">
+      <a href="https://lzz19980125.github.io/cargo-forge3d/" style="display: inline-block; background: rgba(0, 123, 255, 0.1); color: #007bff; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; border: 1px solid rgba(0, 123, 255, 0.2); transition: all 0.3s; font-size: 0.9rem;">
         [English Website]
       </a>
-      <a href="https://cargo-forge3d.github.io/zh.html" style="display: inline-block; background: rgba(0, 123, 255, 0.1); color: #007bff; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; border: 1px solid rgba(0, 123, 255, 0.2); transition: all 0.3s; font-size: 0.9rem;">
+      <a href="https://lzz19980125.github.io/cargo-forge3d/zh.html" style="display: inline-block; background: rgba(0, 123, 255, 0.1); color: #007bff; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; border: 1px solid rgba(0, 123, 255, 0.2); transition: all 0.3s; font-size: 0.9rem;">
         [中文网站]
       </a>
     </div>
