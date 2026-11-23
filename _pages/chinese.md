@@ -101,6 +101,8 @@ Utilizing an Innovative Transformer-Based Model**", Journal of Marine Science an
 
 -  高忠科, **<u>李泽中</u>,** 刘首甫, 冯万军, **水下滑翔机的路径规划方法及装置:** CN202611028482.0. 2026-05-15. (公开)
 
+-  高忠科, 石帅坤, **<u>李泽中</u>,** **无人机控制方法、装置和电子设备** CN202611747128.3. 2026-11-06. (受理)
+
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> 工作经历
 
