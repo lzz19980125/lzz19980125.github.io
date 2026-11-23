@@ -117,9 +117,8 @@ redirect_from:
 
   <div style="flex: 1 1 450px; min-width: 300px; display: flex; flex-direction: column; gap: 15px;">
     <div style="position: relative;">
-      <img src="https://cargo-forge3d.github.io/resources/figures/cargo-forge3d-algorithm-overview.png" alt="CargoForge3D algorithm overview" style="width: 100%; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); display: block; border: 1px solid rgba(128,128,128, 0.2);">
+      <img src="https://lzz19980125.github.io/images/cargo-forge3d-algorithm-overview.png" alt="CargoForge3D algorithm overview" style="width: 100%; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); display: block; border: 1px solid rgba(128,128,128, 0.2);">
     </div>
-
 
     <div style="position: relative;">
     
